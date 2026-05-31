@@ -1,0 +1,761 @@
+<style>
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+  }
+
+  body {
+    font-family: var(--font-sans)
+  }
+
+  .wrap {
+    padding: 1.5rem 0
+  }
+
+  .section {
+    margin-bottom: 1.5rem
+  }
+
+  label {
+    font-size: 13px;
+    color: var(--color-text-secondary);
+    display: block;
+    margin-bottom: 4px
+  }
+
+  textarea {
+    width: 100%;
+    min-height: 120px;
+    resize: vertical;
+    font-size: 13px;
+    font-family: var(--font-mono);
+    padding: 8px 10px;
+    border: 0.5px solid var(--color-border-secondary);
+    border-radius: var(--border-radius-md);
+    background: var(--color-background-primary);
+    color: var(--color-text-primary);
+    line-height: 1.5
+  }
+
+  textarea:focus {
+    outline: none;
+    border-color: var(--color-border-primary)
+  }
+
+  .row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-end;
+    flex-wrap: wrap
+  }
+
+  .field {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    flex: 1;
+    min-width: 100px
+  }
+
+  input[type=number],
+  select {
+    width: 100%;
+    padding: 6px 10px;
+    font-size: 14px;
+    border: 0.5px solid var(--color-border-secondary);
+    border-radius: var(--border-radius-md);
+    background: var(--color-background-primary);
+    color: var(--color-text-primary)
+  }
+
+  input[type=number]:focus,
+  select:focus {
+    outline: none;
+    border-color: var(--color-border-primary)
+  }
+
+  .btn {
+    padding: 7px 18px;
+    font-size: 14px;
+    font-weight: 500;
+    border: 0.5px solid var(--color-border-secondary);
+    border-radius: var(--border-radius-md);
+    background: var(--color-background-primary);
+    color: var(--color-text-primary);
+    cursor: pointer;
+    white-space: nowrap
+  }
+
+  .btn:hover {
+    background: var(--color-background-secondary)
+  }
+
+  .btn:active {
+    transform: scale(0.98)
+  }
+
+  .hint {
+    font-size: 12px;
+    color: var(--color-text-tertiary);
+    margin-top: 6px
+  }
+
+  .error {
+    font-size: 13px;
+    color: var(--color-text-danger);
+    padding: 10px 12px;
+    border: 0.5px solid var(--color-border-danger);
+    border-radius: var(--border-radius-md);
+    background: var(--color-background-danger);
+    margin-top: 12px
+  }
+
+  .results {
+    margin-top: 1.5rem
+  }
+
+  .result-block {
+    border: 0.5px solid var(--color-border-tertiary);
+    border-radius: var(--border-radius-lg);
+    padding: 1rem 1.25rem;
+    margin-bottom: 1rem;
+    background: var(--color-background-primary)
+  }
+
+  .result-block h3 {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    letter-spacing: .04em
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 10px
+  }
+
+  .stat {
+    background: var(--color-background-secondary);
+    border-radius: var(--border-radius-md);
+    padding: 12px 14px
+  }
+
+  .stat-val {
+    font-size: 22px;
+    font-weight: 500;
+    color: var(--color-text-primary);
+    line-height: 1.2
+  }
+
+  .stat-lbl {
+    font-size: 12px;
+    color: var(--color-text-tertiary);
+    margin-top: 3px
+  }
+
+  .range-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px
+  }
+
+  .ri {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 10px;
+    border-radius: var(--border-radius-md);
+    border: 0.5px solid var(--color-border-tertiary);
+    font-size: 13px;
+    background: var(--color-background-primary)
+  }
+
+  .ri.selected {
+    border-color: #185FA5;
+    background: #D8EBFF;
+    box-shadow: 0 0 0 1px rgba(24, 95, 165, .18);
+    font-weight: 600;
+  }
+
+  .ri.other {
+    background: var(--color-background-primary);
+    opacity: .85;
+  }
+
+  .ri.in-sol {
+    border-color: var(--color-border-secondary);
+    background: var(--color-background-secondary)
+  }
+
+  .ri.removed {
+    opacity: .55
+  }
+
+  .ri-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0
+  }
+
+  .ri-name {
+    flex: 1;
+    font-weight: 500;
+    color: var(--color-text-primary);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+  }
+
+  .ri-name a {
+    color: inherit;
+    text-decoration: none
+  }
+
+  .ri-name a:hover {
+    text-decoration: underline
+  }
+
+  .ri-pct {
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    font-family: var(--font-mono);
+    white-space: nowrap
+  }
+
+  .ri-size {
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    font-family: var(--font-mono);
+    background: var(--color-background-secondary);
+    border-radius: 999px;
+    padding: 1px 6px;
+    white-space: nowrap;
+  }
+
+  .range-group {
+    margin-top: 0.5rem
+  }
+
+  .range-group h4 {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    color: var(--color-text-tertiary);
+    margin-bottom: 8px
+  }
+
+  .badge {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 20px;
+    white-space: nowrap
+  }
+
+  .badge-sol {
+    background: #185FA5;
+    color: #FFF
+  }
+
+  .badge-red {
+    background: #FAECE7;
+    color: #712B13
+  }
+
+  .badge-tgt {
+    background: #FFF4E0;
+    color: #7A5900
+  }
+
+  .gap-notice {
+    padding: 10px 12px;
+    border: 0.5px solid var(--color-border-warning);
+    border-radius: var(--border-radius-md);
+    background: var(--color-background-warning);
+    color: var(--color-text-warning);
+    font-size: 13px;
+    margin-bottom: 1rem
+  }
+
+  .bar-outer {
+    position: relative;
+    height: 10px;
+    border-radius: 5px;
+    background: var(--color-background-secondary);
+    margin-bottom: 20px;
+    overflow: visible
+  }
+
+  .bar-seg {
+    position: absolute;
+    top: 0;
+    height: 10px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 4px;
+    font-size: 10px;
+    line-height: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .bar-seg span {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .bar-ticks {
+    position: relative;
+    height: 16px
+  }
+
+  .bar-tick {
+    position: absolute;
+    font-size: 11px;
+    color: var(--color-text-tertiary);
+    transform: translateX(-50%);
+    top: 0
+  }
+
+  .legend {
+    display: flex;
+    gap: 14px;
+    margin-top: 8px;
+    flex-wrap: wrap
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 12px;
+    color: var(--color-text-secondary)
+  }
+
+  .legend-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0
+  }
+</style>
+
+<div class="wrap">
+  <h2 class="sr-only">LRL Coverage Solver</h2>
+
+  <div class="section">
+    <label>One per line, format: <code>Name | start%–end%</code> or
+      <code>Name | start%–end% | https:
+    <textarea id="input">Range A | 0–40%
+Range B | 30–65%
+Range C | 55–80%
+Range D | 0–100%
+Range E | 75–100%</textarea>
+    <p class="hint">Accepts: <code>20%</code> -> 0–20%, <code>20–40%</code>, <code>0.2–0.4</code> (decimal 0–1
+      auto-converted)</p>
+  </div>
+
+  <div class="row section">
+    <div class="field">
+      <label>Target start (%)</label>
+      <input type="number" id="t-start" value="0" min="0" max="100" step="1">
+    </div>
+    <div class="field">
+      <label>Target end (%)</label>
+      <input type="number" id="t-end" value="100" min="0" max="100" step="1">
+    </div>
+    <button class="btn" onclick="solve()">Solve coverage</button>
+  </div>
+
+  <div id="error-box" style="display:none" class="error"></div>
+  <div id="results" class="results" style="display:none"></div>
+</div>
+
+<script>
+  const PALETTE = [
+    { fill: "#185FA5", light: "#B5D4F4" },
+    { fill: "#0F6E56", light: "#9FE1CB" },
+    { fill: "#993C1D", light: "#F5C4B3" },
+    { fill: "#534AB7", light: "#CECBF6" },
+    { fill: "#3B6D11", light: "#C0DD97" },
+    { fill: "#854F0B", light: "#FAC775" },
+    { fill: "#993556", light: "#F4C0D1" },
+    { fill: "#5F5E5A", light: "#D3D1C7" },
+    { fill: "#A32D2D", light: "#F7C1C1" },
+  ];
+
+  function parsePct(s) {
+    s = s.trim().replace(/%/g, "");
+    const v = parseFloat(s);
+    if (isNaN(v)) return null;
+    if (s.includes(".") && v >= 0 && v <= 1) return +(v * 100).toFixed(4);
+    return v;
+  }
+
+  function parseRange(raw) {
+    raw = raw.trim();
+    const m = raw.match(/^([^–—\-]*)([–—\-])(.*)$/);
+    if (m) {
+      const a = parsePct(m[1]), b = parsePct(m[3]);
+      if (a !== null && b !== null) return { start: Math.min(a, b), end: Math.max(a, b) };
+    }
+    const single = parsePct(raw);
+    if (single !== null) return { start: 0, end: single };
+    return null;
+  }
+
+  function parseLine(line) {
+    line = line.trim();
+    if (!line || line.startsWith("#")) return null;
+    const parts = line.split("|").map(s => s.trim());
+    if (parts.length < 2) return null;
+    const name = parts[0];
+    const range = parseRange(parts[1]);
+    if (!range) return null;
+    return { name, range, size: range.end - range.start, link: parts[2] || null };
+  }
+
+  function sortRanges(list, sortBy, sortDir) {
+    const sorted = [...list];
+    sorted.sort((a, b) => {
+      let left = 0;
+      let right = 0;
+      if (sortBy === "end") {
+        left = a.range.end; right = b.range.end;
+      } else if (sortBy === "size") {
+        left = a.size; right = b.size;
+      } else {
+        left = a.range.start; right = b.range.start;
+      }
+      const comp = left - right || a.range.end - b.range.end || a.name.localeCompare(b.name);
+      return sortDir === "desc" ? -comp : comp;
+    });
+    return sorted;
+  }
+
+  function clampToTarget(ranges, tS, tE) {
+    return ranges.map(r => ({
+      ...r,
+      range: { start: Math.max(r.range.start, tS), end: Math.min(r.range.end, tE) }
+    })).filter(r => r.range.end > r.range.start);
+  }
+
+  function removeSubsumed(ranges) {
+    const sorted = [...ranges].sort((a, b) => a.range.start - b.range.start || b.range.end - a.range.end);
+    const kept = [];
+    for (const r of sorted) {
+      if (!kept.some(k => k.range.start <= r.range.start && k.range.end >= r.range.end)) {
+        while (kept.length && kept[kept.length - 1].range.start === r.range.start && kept[kept.length - 1].range.end <= r.range.end) kept.pop();
+        kept.push(r);
+      }
+    }
+    return kept;
+  }
+
+  function greedyCover(ranges, tS, tE) {
+    const sorted = [...ranges].sort((a, b) => a.range.start - b.range.start || b.range.end - a.range.end);
+    let cov = tS; const sel = [];
+    while (cov < tE) {
+      const cands = sorted.filter(r => r.range.start <= cov);
+      if (!cands.length) return { selected: sel, gap: cov };
+      const best = cands.reduce((a, b) => {
+        if (b.range.end > a.range.end) return b;
+        if (b.range.end < a.range.end) return a;
+        const lenA = a.range.end - a.range.start;
+        const lenB = b.range.end - b.range.start;
+        if (lenB > lenA) return b;
+        if (lenB < lenA) return a;
+        return b.range.start > a.range.start ? b : a;
+      });
+      if (best.range.end <= cov) return { selected: sel, gap: cov };
+      sel.push(best);
+      cov = best.range.end;
+    }
+    return { selected: sel, gap: null };
+  }
+
+  function canCover(set, tS, tE) {
+    let cov = tS;
+    const sorted = [...set].sort((a, b) => a.range.start - b.range.start || b.range.end - a.range.end);
+    while (cov < tE) {
+      const cands = sorted.filter(r => r.range.start <= cov);
+      if (!cands.length) return false;
+      const best = cands.reduce((a, b) => {
+        if (b.range.end > a.range.end) return b;
+        if (b.range.end < a.range.end) return a;
+        const lenA = a.range.end - a.range.start;
+        const lenB = b.range.end - b.range.start;
+        if (lenB > lenA) return b;
+        if (lenB < lenA) return a;
+        return b.range.start > a.range.start ? b : a;
+      });
+      if (best.range.end <= cov) return false;
+      cov = best.range.end;
+    }
+    return true;
+  }
+
+  function compareRangeValue(a, b) {
+    const lenA = a.range.end - a.range.start;
+    const lenB = b.range.end - b.range.start;
+    const lenDiff = lenA - lenB;
+    if (Math.abs(lenDiff) > 1e-9) return lenDiff;
+    const endDiff = a.range.end - b.range.end;
+    if (Math.abs(endDiff) > 1e-9) return endDiff;
+    return a.range.start - b.range.start;
+  }
+
+  function minimize(initial, tS, tE) {
+    const working = [...initial];
+    while (true) {
+      const removable = [];
+      for (let i = 0; i < working.length; i++) {
+        const without = working.filter((_, j) => j !== i);
+        if (canCover(without, tS, tE)) removable.push({ idx: i, range: working[i] });
+      }
+      if (!removable.length) break;
+      removable.sort((a, b) => compareRangeValue(a.range, b.range));
+      working.splice(removable[0].idx, 1);
+    }
+    return working;
+  }
+
+  function swapForLarger(solution, allRanges, tS, tE) {
+    let working = [...solution];
+    let unused = allRanges.filter(r => !new Set(working.map(item => item.origIdx)).has(r.origIdx));
+    let swapped = true;
+
+    while (swapped) {
+      swapped = false;
+      for (let i = 0; i < working.length; i++) {
+        const current = working[i];
+        const currentLen = current.range.end - current.range.start;
+        const candidates = unused.slice().sort((a, b) => compareRangeValue(b, a));
+
+        for (const candidate of candidates) {
+          const candidateLen = candidate.range.end - candidate.range.start;
+          if (candidateLen <= currentLen) continue;
+
+          const trial = [...working];
+          trial[i] = candidate;
+          if (canCover(trial, tS, tE)) {
+            working = trial;
+            swapped = true;
+            break;
+          }
+        }
+
+        if (swapped) {
+          const solIds = new Set(working.map(item => item.origIdx));
+          unused = allRanges.filter(r => !solIds.has(r.origIdx));
+          break;
+        }
+      }
+    }
+
+    return minimize(working, tS, tE);
+  }
+
+  function computeOverlapExact(set, tS, tE) {
+    if (!set.length) return 0;
+    const sorted = [...set].sort((a, b) => a.range.start - b.range.start);
+    const merged = [];
+    for (const r of sorted) {
+      const s = Math.max(r.range.start, tS), e = Math.min(r.range.end, tE);
+      if (s >= e) continue;
+      if (merged.length && s <= merged[merged.length - 1][1]) merged[merged.length - 1][1] = Math.max(merged[merged.length - 1][1], e);
+      else merged.push([s, e]);
+    }
+    const covered = merged.reduce((acc, [s, e]) => acc + (e - s), 0);
+    const span = tE - tS;
+    return Math.max(0, covered - span);
+  }
+
+  function fmt(n, dec = 2) { return +n.toFixed(dec); }
+
+  function solve() {
+    const raw = document.getElementById("input").value;
+    const tS = parseFloat(document.getElementById("t-start").value) || 0;
+    const tE = parseFloat(document.getElementById("t-end").value) || 100;
+    const errBox = document.getElementById("error-box");
+    const resEl = document.getElementById("results");
+    errBox.style.display = "none";
+    resEl.style.display = "none";
+
+    if (tE <= tS) { show_err("Target end must be greater than target start."); return; }
+
+    const parsed = raw.split("\n").map(parseLine).filter(Boolean);
+    if (!parsed.length) { show_err("No valid ranges found. Check the format."); return; }
+
+    const originalIndexed = parsed.map((r, i) => ({ ...r, origIdx: i }));
+    const sortByEl = document.getElementById("sort-by");
+    const sortDirEl = document.getElementById("sort-dir");
+    const sortBy = sortByEl ? sortByEl.value : "start";
+    const sortDir = sortDirEl ? sortDirEl.value : "asc";
+    const clamped = clampToTarget(originalIndexed, tS, tE);
+    if (!clamped.length) { show_err("No ranges overlap the target window."); return; }
+    const filtered = removeSubsumed(clamped);
+
+    const { selected: initial, gap } = greedyCover(filtered, tS, tE);
+    const minimized = gap === null ? minimize(initial, tS, tE) : [];
+    const optimized = gap === null ? swapForLarger(minimized, clamped, tS, tE) : [];
+
+    render(originalIndexed, clamped, initial, optimized, tS, tE, gap, sortBy, sortDir);
+    function show_err(msg) { errBox.textContent = msg; errBox.style.display = "block"; }
+  }
+
+  function render(original, clamped, initial, optimized, tS, tE, gap, sortBy, sortDir) {
+    const resEl = document.getElementById("results");
+    resEl.style.display = "block";
+
+    const solNames = new Set(optimized.map(r => r.origIdx));
+    const initNames = new Set(initial.map(r => r.origIdx));
+    const overlapNames = new Set(clamped.map(r => r.origIdx));
+    const span = tE - tS;
+    const displaySet = optimized.length ? optimized : initial;
+    const selectedIds = new Set(displaySet.map(r => r.origIdx));
+    const originalSorted = [...original].sort((a, b) => a.range.start - b.range.start || a.range.end - b.range.end);
+    const selectedGroups = sortRanges(originalSorted.filter(r => selectedIds.has(r.origIdx)), sortBy, sortDir);
+    const otherGroups = sortRanges(originalSorted.filter(r => !selectedIds.has(r.origIdx)), sortBy, sortDir);
+
+    const colorMap = {};
+    original.forEach((r, i) => { colorMap[r.name] = PALETTE[i % PALETTE.length]; });
+
+    const barHTML = buildBar(clamped, initNames, solNames, colorMap, tS, tE, gap);
+
+    const overlap = computeOverlapExact(displaySet, tS, tE);
+
+    const renderRangeList = list => {
+      let html = "";
+      list.forEach(r => {
+        const pal = colorMap[r.name];
+        const isSel = selectedIds.has(r.origIdx);
+        const isInit = initNames.has(r.origIdx);
+        const inTarget = overlapNames.has(r.origIdx);
+        const isRemoved = isInit && !isSel && optimized.length > 0;
+        const cls = "ri" + (isSel ? " selected" : isRemoved ? " removed" : " other");
+        const dot = `<div class="ri-dot" style="background:${isSel ? pal.fill : pal.light}"></div>`;
+        const nameInner = r.link ? `<a href="${r.link}" target="_blank">${r.name}</a>` : r.name;
+        const badge = isSel ? `<span class="badge badge-sol">used in solution</span>`
+          : isRemoved ? `<span class="badge badge-red">dropped</span>` : "";
+        const tgtBadge = inTarget && !isSel ? `<span class="badge badge-tgt">overlaps target</span>` : "";
+        const pct = `${fmt(r.range.start, 2)}%–${fmt(r.range.end, 2)}%`;
+        const sizeTag = `<span class="ri-size">${fmt(r.size, 2)}</span>`;
+        html += `<div class="${cls}">${dot}<span class="ri-name">${nameInner}</span><span class="ri-pct">${pct}</span>${sizeTag}${badge}${tgtBadge}</div>`;
+      });
+      return html;
+    };
+
+    const selectedHTML = renderRangeList(selectedGroups);
+    const otherHTML = renderRangeList(otherGroups);
+    const selectedCount = selectedGroups.length;
+    const otherCount = otherGroups.length;
+
+    let statsHTML = "";
+    if (!gap) {
+      statsHTML = `<div class="result-block">
+      <h3>Summary</h3>
+      <div class="stats-grid">
+        <div class="stat"><div class="stat-val">${displaySet.length}</div><div class="stat-lbl">ranges used</div></div>
+        <div class="stat"><div class="stat-val">${fmt(span, 0)}%</div><div class="stat-lbl">target span</div></div>
+        <div class="stat"><div class="stat-val">${fmt(overlap, 2)}%</div><div class="stat-lbl">overlap</div></div>
+        <div class="stat"><div class="stat-val">${original.length - displaySet.length}</div><div class="stat-lbl">ranges dropped</div></div>
+      </div>
+    </div>`;
+    }
+
+    let gapHTML = "";
+    if (gap !== null) {
+      gapHTML = `<div class="gap-notice"><strong>Gap at ${fmt(gap, 2)}%</strong> — no range starts at or before this point. Coverage cannot be completed.</div>`;
+    }
+
+    resEl.innerHTML = `
+    <div class="result-block">
+      <h3>Coverage visualization</h3>
+      ${barHTML}
+      <div class="legend">
+        <div class="legend-item"><div class="legend-dot" style="background:#185FA5"></div>Selected in solution</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#B5D4F4"></div>Dropped or redundant</div>
+      </div>
+    </div>
+    ${gapHTML}
+    ${statsHTML}
+    <div class="result-block">
+      <div class="row" style="align-items:center; justify-content:space-between; gap:12px; margin-bottom:12px;">
+        <h3 style="margin:0">Selected ranges <span class="badge badge-sol">${selectedCount}</span></h3>
+        <div style="display:flex;gap:10px; flex-wrap:wrap; align-items:center">
+          <label style="margin:0;font-size:12px;color:var(--color-text-secondary);">Sort by</label>
+          <select id="sort-by" onchange="solve()">
+            <option value="start"${sortBy === 'start' ? ' selected' : ''}>Start</option>
+            <option value="end"${sortBy === 'end' ? ' selected' : ''}>End</option>
+            <option value="size"${sortBy === 'size' ? ' selected' : ''}>Size</option>
+          </select>
+          <select id="sort-dir" onchange="solve()">
+            <option value="asc"${sortDir === 'asc' ? ' selected' : ''}>Ascending</option>
+            <option value="desc"${sortDir === 'desc' ? ' selected' : ''}>Descending</option>
+          </select>
+        </div>
+      </div>
+      <div class="range-list">${selectedHTML}</div>
+    </div>
+    <div class="result-block">
+      <h3>Other ranges <span class="badge badge-red">${otherCount}</span></h3>
+      <div class="range-list">${otherHTML}</div>
+    </div>`;
+  }
+
+  function buildBar(clamped, initNames, solNames, colorMap, tS, tE, gap) {
+    const span = tE - tS;
+    const ROW_H = 10, GAP = 5, TOP_PAD = 4;
+    const rows = [];
+    const assigned = [];
+
+    const sorted = [...clamped].sort((a, b) => a.range.start - b.range.start || b.range.end - a.range.end);
+    for (const r of sorted) {
+      let placed = false;
+      for (let ri = 0; ri < rows.length; ri++) {
+        const last = rows[ri][rows[ri].length - 1];
+        if (last.range.end <= r.range.start + 0.001) { rows[ri].push(r); assigned.push({ r, row: ri }); placed = true; break; }
+      }
+      if (!placed) { rows.push([r]); assigned.push({ r, row: rows.length - 1 }); }
+    }
+
+    const totalH = rows.length * (ROW_H + GAP) - GAP + TOP_PAD * 2;
+    let segs = "";
+    for (const { r, row } of assigned) {
+      const pal = colorMap[r.name];
+      const isOpt = solNames.has(r.origIdx);
+      const isInit = initNames.has(r.origIdx);
+      const bg = isOpt ? pal.fill : isInit ? pal.light : "var(--color-background-secondary)";
+      const textColor = isOpt ? "#ffffff" : "#1f2937";
+      const border = isOpt ? "none" : `0.5px solid ${pal.fill}`;
+      const left = ((r.range.start - tS) / span * 100).toFixed(3);
+      const width = ((r.range.end - r.range.start) / span * 100).toFixed(3);
+      const top = TOP_PAD + row * (ROW_H + GAP);
+      const pctText = `${fmt(r.range.start, 1)}%–${fmt(r.range.end, 1)}%`;
+      const labelText = `${r.name} ${pctText}`;
+      segs += `<div class="bar-seg" style="left:${left}%;width:${width}%;top:${top}px;background:${bg};border:${border};color:${textColor}" title="${r.name}: ${pctText}"><span>${labelText}</span></div>`;
+    }
+
+    if (gap !== null) {
+      const gl = ((gap - tS) / span * 100).toFixed(3);
+      segs += `<div style="position:absolute;left:${gl}%;width:2px;top:0;height:${totalH}px;background:#E24B4A;z-index:9" title="Gap at ${fmt(gap, 2)}%"></div>`;
+    }
+
+    const ticks = [0, 25, 50, 75, 100].map(t => {
+      const abs = tS + span * t / 100;
+      return `<div class="bar-tick" style="left:${t}%">${Math.round(abs)}%</div>`;
+    }).join("");
+
+    return `<div class="bar-outer" style="height:${totalH}px">${segs}</div><div class="bar-ticks">${ticks}</div>`;
+  }
+</script>
