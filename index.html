@@ -393,6 +393,36 @@ Range E | 75–100%</textarea>
     { fill: "#A32D2D", light: "#F7C1C1" },
   ];
 
+  const STORAGE_KEYS = {
+    input: "lrl_input_text",
+    targetStart: "lrl_target_start",
+    targetEnd: "lrl_target_end"
+  };
+
+  function saveState() {
+    localStorage.setItem(STORAGE_KEYS.input, document.getElementById("input").value);
+    localStorage.setItem(STORAGE_KEYS.targetStart, document.getElementById("t-start").value);
+    localStorage.setItem(STORAGE_KEYS.targetEnd, document.getElementById("t-end").value);
+  }
+
+  function loadState() {
+    const input = localStorage.getItem(STORAGE_KEYS.input);
+    const tStart = localStorage.getItem(STORAGE_KEYS.targetStart);
+    const tEnd = localStorage.getItem(STORAGE_KEYS.targetEnd);
+    if (input !== null) document.getElementById("input").value = input;
+    if (tStart !== null) document.getElementById("t-start").value = tStart;
+    if (tEnd !== null) document.getElementById("t-end").value = tEnd;
+  }
+
+  window.addEventListener("load", () => {
+    loadState();
+    document.getElementById("input").addEventListener("input", saveState);
+    document.getElementById("t-start").addEventListener("input", saveState);
+    document.getElementById("t-end").addEventListener("input", saveState);
+  });
+
+  window.addEventListener("beforeunload", saveState);
+
   function parsePct(s) {
     s = s.trim().replace(/%/g, "");
     const v = parseFloat(s);
