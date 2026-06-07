@@ -610,7 +610,11 @@ Range E | 75–100%</textarea>
     return Math.max(0, covered - span);
   }
 
-  function fmt(n, dec = 2) { return +n.toFixed(dec); }
+  function fmt(n) {
+    if (typeof n !== "number" || !Number.isFinite(n)) return String(n);
+    const str = n.toString();
+    return str.replace(/(\.\d*?[1-9])0+$/, "$1").replace(/\.0+$/, "");
+  }
 
   function solve() {
     const raw = document.getElementById("input").value;
