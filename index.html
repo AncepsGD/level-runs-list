@@ -423,11 +423,16 @@ Range E | 75–100%</textarea>
 
   window.addEventListener("beforeunload", saveState);
 
+  function roundDecimal(n, decimals = 0) {
+    if (typeof n !== "number" || !Number.isFinite(n)) return n;
+    return Number(n.toFixed(decimals));
+  }
+
   function parsePct(s) {
     s = s.trim().replace(/%/g, "");
     const v = parseFloat(s);
     if (isNaN(v)) return null;
-    if (s.includes(".") && v >= 0 && v <= 1) return +(v * 100).toFixed(4);
+    if (s.includes(".") && v >= 0 && v <= 1) return roundDecimal(v * 100, 4);
     return v;
   }
 
@@ -610,8 +615,11 @@ Range E | 75–100%</textarea>
     return Math.max(0, covered - span);
   }
 
-  function fmt(n) {
+  function fmt(n, decimals) {
     if (typeof n !== "number" || !Number.isFinite(n)) return String(n);
+    if (typeof decimals === "number") {
+      return roundDecimal(n, decimals).toString();
+    }
     const str = n.toString();
     return str.replace(/(\.\d*?[1-9])0+$/, "$1").replace(/\.0+$/, "");
   }
@@ -787,7 +795,7 @@ Range E | 75–100%</textarea>
 
     const ticks = [0, 25, 50, 75, 100].map(t => {
       const abs = tS + span * t / 100;
-      return `<div class="bar-tick" style="left:${t}%">${Math.round(abs)}%</div>`;
+      return `<div class="bar-tick" style="left:${t}%">${fmt(abs, 0)}%</div>`;
     }).join("");
 
     return `<div class="bar-outer" style="height:${totalH}px">${segs}</div><div class="bar-ticks">${ticks}</div>`;
