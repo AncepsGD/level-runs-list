@@ -89,6 +89,51 @@
         "player": "Anceps",
         "range": "66.87 - 68.91",
         "video": "https://youtu.be/PxYG7N4qCLY"
+      },
+      {
+        "player": "GMDPeanut",
+        "range": "61.77 - 64.41",
+        "video": "https://discord.com/channels/1466309456009756794/1466316947154145380/1548157866626781184"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "36.59 - 39.19",
+        "video": "https://discord.com/channels/1466309456009756794/1466316947154145380/1503807743209902220"
+      },
+      {
+        "player": "lilykitties",
+        "range": "45.9-49.5",
+        "video": "https://discord.com/channels/1466309456009756794/1466316947154145380/1481523880257654805"
+      },
+      {
+        "player": "polpetto",
+        "range": "24.75 - 26.27",
+        "video": "https://discord.com/channels/1466309456009756794/1466316947154145380/1482476153796169950"
+      },
+      {
+        "player": "Emp",
+        "range": "63.7 - 65.3",
+        "video": "https://discord.com/channels/1466309456009756794/1466316947154145380/1482480630418903242"
+      },
+      {
+        "player": "damian",
+        "range": "29.8 - 30.9",
+        "video": "https://discord.com/channels/1466309456009756794/1466316947154145380/1483250680268324954"
+      },
+      {
+        "player": "Patriotsean",
+        "range": "30.9 - 33.7",
+        "video": "https://drive.google.com/file/d/1hF8FMUGb19slsG9V0dtow_profvPj2SJ/view?usp=drive_link"
+      },
+      {
+        "player": "luna_747",
+        "range": "59.9-61.9",
+        "video": "https://drive.google.com/file/d/12DLrWMscYpaVyHddcewA8p4Ke1Wmsv0F/view?usp=sharing"
+      },
+      {
+        "player": "aden",
+        "range": "26.14 - 28.28",
+        "video": "https://discord.com/channels/1466309456009756794/1466316947154145380/1499583449080795188"
       }
     ],
     "benchmark": false,
@@ -294,6 +339,11 @@
         "player": "MemeArtemGD",
         "range": "87.36 - 100",
         "video": "https://www.youtube.com/watch?v=SN6uFe-Fers"
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "72.03 - 87.52",
+        "video": "https://www.youtube.com/watch?v=xyLalNC7NBg"
       }
     ],
     "benchmark": false,
@@ -741,6 +791,11 @@
         "player": "suni",
         "range": "91.62 - 100",
         "video": "https://www.youtube.com/watch?v=fecMj9_Dw4w"
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "6.19 - 8.46",
+        "video": "https://www.youtube.com/watch?v=oo2rpBz188g"
       }
     ],
     "benchmark": false,
@@ -1005,7 +1060,7 @@
     "rank": 11,
     "name": "silent locked",
     "image": null,
-    "id": "126843656",
+    "id": "132826577",
     "accuracy": {
       "value": null,
       "player": null,
@@ -2030,7 +2085,7 @@
         "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
       },
       {
-        "player": "ad3us",
+        "player": "ad3usgmd",
         "range": "60 - 63",
         "video": "https://www.youtube.com/watch?v=cGOwBqABhDw"
       },
@@ -2237,9 +2292,17 @@
     "rank": 22,
     "name": "Society (Unnerfed)",
     "image": null,
-    "id": "127323087",
-    "accuracy": null,
-    "deaths": null,
+    "id": "143160946",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
     "segments": [
       {
         "player": "Zaggy",
@@ -3145,6 +3208,11 @@
         "player": "ExpiredHam",
         "range": "95 - 100",
         "video": "https://www.youtube.com/watch?v=XH8WL7dQc4M"
+      },
+      {
+        "player": "dream",
+        "range": "88.82 - 95.14",
+        "video": "https://discord.com/channels/1457970765365510158/1558440922608566312/1558440922608566312"
       }
     ],
     "benchmark": false,
@@ -3575,7 +3643,77 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=id-FuOLbrpo"
   },
   {
+    "name": "Deadlocked Swaggiest",
     "rank": 41,
+    "image": null,
+    "id": "145974870",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "HaloZombies",
+        "range": "1.72-2.78",
+        "video": "https://youtu.be/i2wIRtlDyF8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "10.9 - 18.63",
+        "video": "https://youtu.be/i2wIRtlDyF8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "16.54 - 22.73",
+        "video": "https://youtu.be/UucRINoZJA8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "20.66 - 25.65",
+        "video": "https://youtu.be/i2wIRtlDyF8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "28.83 - 45.36",
+        "video": "https://youtu.be/i2wIRtlDyF8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "42.8 - 49.9",
+        "video": "https://youtu.be/i2wIRtlDyF8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "55.01 - 81.02",
+        "video": "https://youtu.be/ilR1zv79jaI"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "82.04 - 88.15",
+        "video": "https://youtu.be/i2wIRtlDyF8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "87.09 - 90.01",
+        "video": "https://youtu.be/i2wIRtlDyF8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "89.36 - 98.66",
+        "video": "https://youtu.be/i2wIRtlDyF8"
+      }
+    ],
+    "benchmark": null,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 42,
     "name": "Azure Flare (VERTOP)",
     "image": null,
     "id": "97429207",
@@ -3597,7 +3735,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=wNzHFGg4Dqs"
   },
   {
-    "rank": 42,
+    "rank": 43,
     "name": "ReTraY WaVe",
     "image": null,
     "id": null,
@@ -3624,7 +3762,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 43,
+    "rank": 44,
     "name": "Silent Machine",
     "image": null,
     "id": "90261044",
@@ -3656,7 +3794,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=oHXOKxpym50"
   },
   {
-    "rank": 44,
+    "rank": 45,
     "name": "Planet X",
     "image": null,
     "id": "76113045",
@@ -3701,7 +3839,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=yn3utttZP9c"
   },
   {
-    "rank": 45,
+    "rank": 46,
     "name": "ANTIUTOPIA",
     "image": null,
     "id": "78662821",
@@ -3773,7 +3911,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=TzKdMJobK58"
   },
   {
-    "rank": 46,
+    "rank": 47,
     "name": "Merry Christmas ILL",
     "image": null,
     "id": "66000734",
@@ -3813,7 +3951,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=WkVjQBznDEk"
   },
   {
-    "rank": 47,
+    "rank": 48,
     "name": "Heliopolis",
     "image": null,
     "id": "136530685",
@@ -3843,7 +3981,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=gO1nQECPU2I"
   },
   {
-    "rank": 48,
+    "rank": 49,
     "name": "Exasperation",
     "image": null,
     "id": "31325851",
@@ -3865,7 +4003,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=lZ4h_abya4I"
   },
   {
-    "rank": 49,
+    "rank": 50,
     "name": "Silent AcropoliX",
     "image": null,
     "id": "20846131",
@@ -3895,7 +4033,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=BrEuDSpVD_A"
   },
   {
-    "rank": 50,
+    "rank": 51,
     "name": "KOCMOC UNLEASHED",
     "image": null,
     "id": null,
@@ -3917,7 +4055,22 @@
     "showcaseVideo": null
   },
   {
-    "rank": 51,
+    "rank": 52,
+    "name": "GRIEF",
+    "image": null,
+    "id": "149992717",
+    "segments": [
+      {
+        "player": "Doggie",
+        "range": "100",
+        "video": "https://www.youtube.com/watch?v=gB8slBPlOjc"
+      }
+    ],
+    "benchmark": true,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 53,
     "name": "Sakupen Disco",
     "image": null,
     "id": "112734698",
@@ -3947,12 +4100,20 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=JcW4OBwrw1U"
   },
   {
-    "rank": 52,
+    "rank": 54,
     "name": "MINUS WORLD",
     "image": null,
     "id": "77875682",
-    "accuracy": null,
-    "deaths": null,
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
     "segments": [
       {
         "player": "snowspike",
@@ -3961,12 +4122,17 @@
       },
       {
         "player": "seels",
-        "range": "67 - 91",
+        "range": "72.03 - 89.32",
         "video": "https://youtu.be/0DeOECkdgbY"
       },
       {
         "player": "seels",
-        "range": "86 - 100",
+        "range": "85.39 - 100",
+        "video": "https://www.youtube.com/watch?v=wr00Ao2561s"
+      },
+      {
+        "player": "seels",
+        "range": "44.32 - 73",
         "video": "https://www.youtube.com/watch?v=wr00Ao2561s"
       }
     ],
@@ -3974,7 +4140,7 @@
     "showcaseVideo": "https://youtu.be/u3PoO-htVbE"
   },
   {
-    "rank": 53,
+    "rank": 55,
     "name": "Slaughter Machine",
     "image": null,
     "id": "106485780",
@@ -4096,7 +4262,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=bZRZQw-sbNQ"
   },
   {
-    "rank": 54,
+    "rank": 56,
     "name": "Hypnosis",
     "image": null,
     "id": "72829529",
@@ -4128,7 +4294,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=3K9rvyFb5cg"
   },
   {
-    "rank": 55,
+    "rank": 57,
     "name": "Sweeping Demon 2",
     "image": null,
     "id": null,
@@ -4150,7 +4316,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 56,
+    "rank": 58,
     "name": "OneMoreAttempt",
     "image": null,
     "id": "131249343",
@@ -4270,7 +4436,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=ZYTwTUlO0nk"
   },
   {
-    "rank": 57,
+    "rank": 59,
     "name": "Orochi",
     "image": null,
     "id": null,
@@ -4352,7 +4518,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 58,
+    "rank": 60,
     "name": "Artemis 13 (Aug. 2026)",
     "image": null,
     "id": null,
@@ -4374,24 +4540,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 59,
-    "name": "Society",
-    "image": null,
-    "id": "127323087",
-    "accuracy": null,
-    "deaths": null,
-    "segments": [
-      {
-        "player": "Zoink",
-        "range": "100",
-        "video": null
-      }
-    ],
-    "benchmark": true,
-    "showcaseVideo": null
-  },
-  {
-    "rank": 60,
+    "rank": 61,
     "name": "Eternal Silence",
     "image": null,
     "id": "83476262",
@@ -4428,7 +4577,7 @@
     "showcaseVideo": "https://youtu.be/CwCfTVxTtB0"
   },
   {
-    "rank": 61,
+    "rank": 62,
     "name": "Silent Acropolis (The Purgatory)",
     "image": null,
     "id": "111237270",
@@ -4450,7 +4599,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 62,
+    "rank": 63,
     "name": "Banshee",
     "image": null,
     "id": null,
@@ -4472,7 +4621,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 63,
+    "rank": 64,
     "name": "Tunnel of Serpent",
     "image": null,
     "id": null,
@@ -4494,7 +4643,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "True Unnerfed Slaughterhouse",
     "image": null,
     "id": "77618325",
@@ -4526,7 +4675,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=2hhspsXN_Ts"
   },
   {
-    "rank": 65,
+    "rank": 66,
     "name": "SILENT UNKNOWN",
     "image": null,
     "id": "92145306",
@@ -4591,7 +4740,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=gWMuq30bXVg"
   },
   {
-    "rank": 66,
+    "rank": 67,
     "name": "Silent Clubstep II",
     "image": null,
     "id": "78614226",
@@ -4618,7 +4767,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=RMEhwJGnjok"
   },
   {
-    "rank": 67,
+    "rank": 68,
     "name": "Sweeping Demon",
     "image": null,
     "id": "54419063",
@@ -4653,7 +4802,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 68,
+    "rank": 69,
     "name": "Silent Clubstep (Unnerfed)",
     "image": null,
     "id": "38692301",
@@ -4683,7 +4832,7 @@
     "showcaseVideo": "https://youtu.be/mTkrql917bE"
   },
   {
-    "rank": 69,
+    "rank": 70,
     "name": "TitanoMachina",
     "image": null,
     "id": "35576286",
@@ -4718,7 +4867,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=1dxvCd82AnA"
   },
   {
-    "rank": 70,
+    "rank": 71,
     "name": "DIABLO FATE Z (Old)",
     "image": null,
     "id": "84258382",
@@ -4758,7 +4907,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=TobzR5mxwCg"
   },
   {
-    "rank": 71,
+    "rank": 72,
     "name": "H3ll Phase",
     "image": null,
     "id": "96685319",
@@ -4790,7 +4939,7 @@
     "showcaseVideo": "https://youtu.be/dIZX_nkG4wg"
   },
   {
-    "rank": 72,
+    "rank": 73,
     "name": "Ascension to Heaven (Layout)",
     "image": null,
     "id": "76046475",
@@ -4837,7 +4986,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 73,
+    "rank": 74,
     "name": "IT MEANS EVERYTHING",
     "image": null,
     "id": "106165639",
@@ -4859,7 +5008,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=9nSkkXZ628E"
   },
   {
-    "rank": 74,
+    "rank": 75,
     "name": "Misanthrope (Layout)",
     "image": null,
     "id": "60284876",
@@ -4881,7 +5030,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=4dSDwpuBnCc"
   },
   {
-    "rank": 75,
+    "rank": 76,
     "name": "hauntedhouse",
     "image": null,
     "id": "77984980",
@@ -4946,7 +5095,7 @@
     "showcaseVideo": "https://youtu.be/KvrJ-1jjW1Y"
   },
   {
-    "rank": 76,
+    "rank": 77,
     "name": "KEROSENE",
     "image": null,
     "id": "125624656",
@@ -5008,7 +5157,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=3EkncqsD4ds"
   },
   {
-    "rank": 77,
+    "rank": 78,
     "name": "Energy Wave",
     "image": null,
     "id": "130734729",
@@ -5048,7 +5197,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=PtsyAeDLSws"
   },
   {
-    "rank": 78,
+    "rank": 79,
     "name": "Illusion of Chaos",
     "image": null,
     "id": "117897179",
@@ -5075,7 +5224,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=G0QqSkuzSdk"
   },
   {
-    "rank": 79,
+    "rank": 80,
     "name": "Acheron (Riot)",
     "image": null,
     "id": "82758705",
@@ -5097,7 +5246,7 @@
     "showcaseVideo": "https://youtu.be/Pui-sfRR_kQ"
   },
   {
-    "rank": 80,
+    "rank": 81,
     "name": "silent Acropolis (Unnerfed)",
     "image": null,
     "id": "83143127",
@@ -5127,7 +5276,7 @@
     "showcaseVideo": "https://youtu.be/PZ6EjmesjVE"
   },
   {
-    "rank": 81,
+    "rank": 82,
     "name": "FAIRY KNIFE HELL",
     "image": null,
     "id": "111680151",
@@ -5189,7 +5338,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=mD8bMlCV8Jc"
   },
   {
-    "rank": 82,
+    "rank": 83,
     "name": "Crackearth",
     "image": null,
     "id": "122214736",
@@ -5261,7 +5410,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=cMbU99cnYmM"
   },
   {
-    "rank": 83,
+    "rank": 84,
     "name": "Africa Circles",
     "image": null,
     "id": null,
@@ -5283,12 +5432,20 @@
     "showcaseVideo": null
   },
   {
-    "rank": 84,
+    "rank": 85,
     "name": "Tidal Wave",
     "image": null,
-    "id": "4125776",
-    "accuracy": null,
-    "deaths": null,
+    "id": "86407629",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
     "segments": [
       {
         "player": "Zoink",
@@ -5300,7 +5457,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 85,
+    "rank": 86,
     "name": "SILENT OPPENHEIMER",
     "image": null,
     "id": null,
@@ -5322,7 +5479,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 86,
+    "rank": 87,
     "name": "Silent Circles (Starchman)",
     "image": null,
     "id": null,
@@ -5344,7 +5501,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 87,
+    "rank": 88,
     "name": "Labyrinth",
     "image": null,
     "id": null,
@@ -5366,7 +5523,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 88,
+    "rank": 89,
     "name": "i n j u r y",
     "image": null,
     "id": null,
@@ -5393,7 +5550,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 89,
+    "rank": 90,
     "name": "Lightning Machine",
     "image": null,
     "id": "135503335",
@@ -5415,7 +5572,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=h3ZaOatp0qg"
   },
   {
-    "rank": 90,
+    "rank": 91,
     "name": "Eternal Night",
     "image": null,
     "id": null,
@@ -5437,7 +5594,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 91,
+    "rank": 92,
     "name": "Firestarter",
     "image": null,
     "id": "96214251",
@@ -5469,7 +5626,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=1-DERm55B-0"
   },
   {
-    "rank": 92,
+    "rank": 93,
     "name": "Escalator",
     "image": null,
     "id": null,
@@ -5491,17 +5648,25 @@
     "showcaseVideo": null
   },
   {
-    "rank": 93,
+    "rank": 94,
     "name": "water world",
     "image": null,
     "id": "142171089",
-    "accuracy": null,
-    "deaths": null,
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
     "segments": [
       {
         "player": "niroi",
-        "range": "36.84",
-        "video": "https://youtu.be/RXtwAprfuZY"
+        "range": "56.81",
+        "video": "https://www.youtube.com/watch?v=bLp10dNnJdc"
       },
       {
         "player": "niroi",
@@ -5515,20 +5680,25 @@
       },
       {
         "player": "niroi",
-        "range": "82 - 95",
+        "range": "76 - 95",
         "video": "https://www.youtube.com/watch?v=GZMiPj03Kpk"
       },
       {
         "player": "YoumanJY",
         "range": "94.75 - 100",
         "video": "https://youtu.be/O32gcTLjGeo"
+      },
+      {
+        "player": "niroi",
+        "range": "40-78",
+        "video": "https://www.youtube.com/watch?v=rG1QxxfJ83M"
       }
     ],
     "benchmark": false,
     "showcaseVideo": "https://youtu.be/NoiwMZrQsz0"
   },
   {
-    "rank": 94,
+    "rank": 95,
     "name": "Eudemonic",
     "image": null,
     "id": "62667940",
@@ -5550,7 +5720,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=tNR50q4ewWU"
   },
   {
-    "rank": 95,
+    "rank": 96,
     "name": "Verdudous",
     "image": null,
     "id": "86522520",
@@ -5582,7 +5752,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=7vOrH8WTrGc"
   },
   {
-    "rank": 96,
+    "rank": 97,
     "name": "OUROBOROS",
     "image": null,
     "id": null,
@@ -5604,7 +5774,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 97,
+    "rank": 98,
     "name": "LimeWire",
     "image": null,
     "id": null,
@@ -5644,7 +5814,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 98,
+    "rank": 99,
     "name": "CYBERPSYCHOSIS",
     "image": null,
     "id": "109814681",
@@ -5666,7 +5836,7 @@
     "showcaseVideo": "https://youtu.be/HaV2qba3hMw"
   },
   {
-    "rank": 99,
+    "rank": 100,
     "name": "The Nautical (Old)",
     "image": null,
     "id": "77049802",
@@ -5711,7 +5881,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=Np-XJuYj79g"
   },
   {
-    "rank": 100,
+    "rank": 101,
     "name": "BLOOD FILLED AGONY",
     "image": null,
     "id": "95584451",
@@ -5743,7 +5913,7 @@
     "showcaseVideo": "https://youtu.be/1Qvdea3VFZM"
   },
   {
-    "rank": 101,
+    "rank": 102,
     "name": "EVISCERATE",
     "image": null,
     "id": null,
@@ -5775,7 +5945,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 102,
+    "rank": 103,
     "name": "BloodEngine",
     "image": null,
     "id": null,
@@ -5802,7 +5972,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 103,
+    "rank": 104,
     "name": "Sonic Ocean",
     "image": null,
     "id": "63997386",
@@ -5824,7 +5994,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=5xoigFjCBmk"
   },
   {
-    "rank": 104,
+    "rank": 105,
     "name": "chamomile",
     "image": null,
     "id": "63709397",
@@ -5851,7 +6021,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=cfFm1Eriooc"
   },
   {
-    "rank": 105,
+    "rank": 106,
     "name": "Endless River",
     "image": null,
     "id": "94935521",
@@ -5878,7 +6048,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=Ws3NFKpSz4A"
   },
   {
-    "rank": 106,
+    "rank": 107,
     "name": "Silent Circles redux",
     "image": null,
     "id": "63951460",
@@ -5900,7 +6070,7 @@
     "showcaseVideo": "https://youtu.be/DAmtHhTS3J0"
   },
   {
-    "rank": 107,
+    "rank": 108,
     "name": "Absolute Zero",
     "image": null,
     "id": "8915216",
@@ -5927,7 +6097,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=X_2t8RpHJQk"
   },
   {
-    "rank": 108,
+    "rank": 109,
     "name": "Bonfire (V2)",
     "image": null,
     "id": "88686539",
@@ -5962,7 +6132,7 @@
     "showcaseVideo": "https://youtu.be/wq-_SFOT8wg"
   },
   {
-    "rank": 109,
+    "rank": 110,
     "name": "Recirculation",
     "image": null,
     "id": "77086537",
@@ -5992,7 +6162,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=ktPIUqGxb5w"
   },
   {
-    "rank": 110,
+    "rank": 111,
     "name": "Silent Clubstep",
     "image": null,
     "id": "4125776",
@@ -6009,7 +6179,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 111,
+    "rank": 112,
     "name": "MAX NRG",
     "image": null,
     "id": null,
@@ -6031,7 +6201,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 112,
+    "rank": 113,
     "name": "Resentment",
     "image": null,
     "id": "34022343",
@@ -6066,7 +6236,7 @@
     "showcaseVideo": "https://youtu.be/1bLAin6OGiA"
   },
   {
-    "rank": 113,
+    "rank": 114,
     "name": "Tartarus (Old)",
     "image": null,
     "id": "29386571",
@@ -6088,7 +6258,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=HQjDjtGWnbg"
   },
   {
-    "rank": 114,
+    "rank": 115,
     "name": "The National Anthem",
     "image": null,
     "id": "75447432",
@@ -6115,7 +6285,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=mPz6dzYKypI"
   },
   {
-    "rank": 115,
+    "rank": 116,
     "name": "Indignation",
     "image": null,
     "id": "32490768",
@@ -6275,7 +6445,7 @@
     "showcaseVideo": "https://youtu.be/AXGTWwuvtRM"
   },
   {
-    "rank": 116,
+    "rank": 117,
     "name": "Murk",
     "image": null,
     "id": null,
@@ -6305,7 +6475,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 117,
+    "rank": 118,
     "name": "Death Anthem",
     "image": null,
     "id": "15739708",
@@ -6335,7 +6505,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=E7Utk15tixE"
   },
   {
-    "rank": 118,
+    "rank": 119,
     "name": "PigStep",
     "image": null,
     "id": "104984889",
@@ -6357,15 +6527,15 @@
       },
       {
         "player": "Krowsong",
-        "range": "57.78 - 100",
-        "video": "https://youtu.be/yuEEuVnIqgk"
+        "range": "40 - 100",
+        "video": "https://www.youtube.com/watch?v=uxm6Iknvqn4"
       }
     ],
     "benchmark": false,
     "showcaseVideo": "https://youtu.be/15wb7RLledU"
   },
   {
-    "rank": 119,
+    "rank": 120,
     "name": "Ashden Ball Trials",
     "image": null,
     "id": "139167009",
@@ -6417,7 +6587,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=_W_PsFSZSqA"
   },
   {
-    "rank": 120,
+    "rank": 121,
     "name": "Experiment 204",
     "image": null,
     "id": "80145781",
@@ -6452,7 +6622,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=-3-DSxz7EOg0"
   },
   {
-    "rank": 121,
+    "rank": 122,
     "name": "WarCora",
     "image": null,
     "id": "89189775",
@@ -6497,7 +6667,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=IkwmfQLjq9kDI0"
   },
   {
-    "rank": 122,
+    "rank": 123,
     "name": "Congregation (Unnerfed)",
     "image": null,
     "id": "88182754",
@@ -6532,7 +6702,7 @@
     "showcaseVideo": "https://youtu.be/Mcopv8o6zN4"
   },
   {
-    "rank": 123,
+    "rank": 124,
     "name": "DIRT (Unnerfed)",
     "image": null,
     "id": "95621565",
@@ -6572,7 +6742,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=dIJN-8XZAc8"
   },
   {
-    "rank": 124,
+    "rank": 125,
     "name": "Azure Flare 2019",
     "image": null,
     "id": "59929712",

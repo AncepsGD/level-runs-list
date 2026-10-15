@@ -45,11 +45,12 @@ function normalizeLevelRuns(level) {
 }
 
 function normalizeRecord(record) {
-    return record !== null
-        && (Object.keys(record).length === 0
-            || (record.value === null && record.player === null))
+    return record === undefined || record === null
         ? null
-        : record;
+        : (Object.keys(record).length === 0
+            || (record.value === null && record.player === null))
+            ? null
+            : record;
 }
 
 async function loadLevels() {
@@ -138,9 +139,11 @@ function inferMissingRuns(segments) {
 function isValidLevel(level) {
     return level !== null
         && typeof level === "object"
-        && Number.isInteger(level.rank)
+        && (Number.isInteger(level.rank) || level.rank === null)
         && typeof level.name === "string"
-        && typeof level.benchmark === "boolean"
+        && (level.benchmark === undefined
+            || level.benchmark === null
+            || typeof level.benchmark === "boolean")
         && (level.image === null || typeof level.image === "string")
         && (level.id === null || typeof level.id === "string")
         && (level.showcaseVideo === undefined
@@ -157,7 +160,8 @@ function isValidLevel(level) {
 }
 
 function isValidRecord(record) {
-    return record === null
+    return record === undefined
+        || record === null
         || (record !== null
             && typeof record === "object"
             && (Object.keys(record).length === 0

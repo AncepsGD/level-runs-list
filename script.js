@@ -152,14 +152,18 @@ function getThumbnailUrlSequence(image, levelID) {
 }
 
 function renderCard(level, displayRank, benchmark, rankedLevels, uncompleted = false) {
-    const cardKey = `${uncompleted ? "uncompleted-" : ""}${level.rank}`;
+    const cardKey = `${uncompleted ? "uncompleted-" : ""}${level.rank ?? level.id ?? level.name}`;
     const expandedClass = expandedRanks.has(cardKey) ? " open" : "";
     const difficultyColor = benchmark
         ? "#ae32d5"
         : uncompleted
             ? getUncompletedColor(level, rankedLevels)
             : getDifficultyColor(level, rankedLevels);
-    const rankLabel = benchmark ? "Benchmark" : `#${displayRank}`;
+    const rankLabel = benchmark
+        ? "Benchmark"
+        : displayRank === null
+            ? "Unranked"
+            : `#${displayRank}`;
     const missingCount = level.segments.filter(segment => segment.missing).length;
     const thumbnailUrls = getThumbnailUrlSequence(level.image, level.id);
     const thumbnail = thumbnailUrls.length
