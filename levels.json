@@ -1,0 +1,6609 @@
+[
+  {
+    "rank": 1,
+    "name": "Silent Circles",
+    "image": null,
+    "id": "12169905",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "PaperGuy",
+        "range": "43.6",
+        "video": "https://www.youtube.com/watch?v=RBJZXcV7USI"
+      },
+      {
+        "player": "Septagon7",
+        "range": "32.38 - 56.61",
+        "video": "https://youtu.be/9cmj4l_3Oaw?t=46&si=3ed-u49TP7mHA7l3"
+      },
+      {
+        "player": "Septagon7",
+        "range": "55.64 - 62.09",
+        "video": "https://youtu.be/9cmj4l_3Oaw?t=62&si=okqXpPQjM5eCtPlj"
+      },
+      {
+        "player": "Khasem",
+        "range": "64.96 - 66.46",
+        "video": "https://www.youtube.com/watch?v=lgf7Rvn7ZHI"
+      },
+      {
+        "player": "Anceps",
+        "range": "95.53 - 100",
+        "video": "https://youtu.be/HekuhpWQFkQ"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=gJlP-V1DCfo"
+  },
+  {
+    "rank": 2,
+    "name": "rare",
+    "image": null,
+    "id": "96496947",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Al3xTT",
+        "range": "6.84",
+        "video": "https://youtu.be/esQdIPQdfZQ"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "36.59 - 39.18",
+        "video": "https://youtu.be/s-ZwUmHMatU"
+      },
+      {
+        "player": "Solstice",
+        "range": "46 - 50.95",
+        "video": "https://www.youtube.com/watch?v=8Nh0Yh8i3zE"
+      },
+      {
+        "player": "Viwi",
+        "range": "79 - 100",
+        "video": "https://www.youtube.com/watch?v=q69eN95ed-w"
+      },
+      {
+        "player": "Solstice",
+        "range": "50 - 58",
+        "video": "https://www.youtube.com/watch?v=8Nh0Yh8i3zE"
+      },
+      {
+        "player": "Anceps",
+        "range": "66.87 - 68.91",
+        "video": "https://youtu.be/PxYG7N4qCLY"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=3vlpoX6e2I4"
+  },
+  {
+    "rank": 3,
+    "name": "Haunted Corridor (Old)",
+    "image": null,
+    "id": "124228891",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Emp",
+        "range": "19.4",
+        "video": "https://youtu.be/SntNY346qCA"
+      },
+      {
+        "player": "Emp",
+        "range": "18 - 31",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "25.6 - 44",
+        "video": "https://www.youtube.com/watch?v=T8yzpKHHt1c"
+      },
+      {
+        "player": "Emp",
+        "range": "42 - 51",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "51 - 57",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "56 - 58.4",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "58.4 - 60.8",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "60.6 - 63",
+        "video": "https://www.youtube.com/watch?v=tANpnYI5D9A"
+      },
+      {
+        "player": "Emp",
+        "range": "62.6 - 63.8",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "63.7 - 68.3",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "68.2 - 72",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "71 - 74",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "74 - 78",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "76 - 86.6",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "86.6 - 86.86",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "86.86 - 87.03",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "87.03 - 87.22",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "87.16 - 87.84",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "87.84 - 91",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "91 - 98",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "98 - 98.7",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "98.7 - 99",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      },
+      {
+        "player": "Emp",
+        "range": "99 - 100",
+        "video": "https://youtu.be/G4z5D3LlPiY"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/G4z5D3LlPiY"
+  },
+  {
+    "rank": 4,
+    "name": "Silent Processing",
+    "image": null,
+    "id": "126380017",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Lamdabamda1",
+        "range": "15.03",
+        "video": "https://www.youtube.com/watch?v=w_KcC8zFjik"
+      },
+      {
+        "player": "ywuChaos",
+        "range": "14 - 28",
+        "video": "https://www.youtube.com/watch?v=7f1EmwQnVhY"
+      },
+      {
+        "player": "S4zerix",
+        "range": "28.52 - 41.86",
+        "video": "https://discord.com/channels/1457970765365510158/1517190693905236099/1544413404905738290"
+      },
+      {
+        "player": "Len",
+        "range": "60 - 67",
+        "video": "https://www.youtube.com/watch?v=FHM72ct0S0E"
+      },
+      {
+        "player": "Len",
+        "range": "68 - 70",
+        "video": "https://www.youtube.com/watch?v=FHM72ct0S0E"
+      },
+      {
+        "player": "Len",
+        "range": "73 - 78",
+        "video": "https://www.youtube.com/watch?v=FHM72ct0S0E"
+      },
+      {
+        "player": "Len",
+        "range": "77 - 79",
+        "video": "https://www.youtube.com/watch?v=FHM72ct0S0E"
+      },
+      {
+        "player": "Len",
+        "range": "80 - 85",
+        "video": "https://www.youtube.com/watch?v=FHM72ct0S0E"
+      },
+      {
+        "player": "Len",
+        "range": "84 - 88",
+        "video": "https://www.youtube.com/watch?v=FHM72ct0S0E"
+      },
+      {
+        "player": "MemeArtemGD",
+        "range": "87.36 - 100",
+        "video": "https://www.youtube.com/watch?v=SN6uFe-Fers"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=Yrdq825acPw&source_ve_path=MTc4NDI0"
+  },
+  {
+    "rank": 5,
+    "name": "sailent clubstar",
+    "image": null,
+    "id": "10031383",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "HaloZombies",
+        "range": "3.3",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "3.2 - 3.8",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "3.8 - 4.4",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "4.3 - 5.6",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "Emp",
+        "range": "4.9 - 13",
+        "video": "https://youtu.be/1kOq8ZwIfeY"
+      },
+      {
+        "player": "Komet01",
+        "range": "12.24 - 14.65",
+        "video": "https://www.youtube.com/watch?v=96QLUGGJJTU"
+      },
+      {
+        "player": "Komet01",
+        "range": "14.4 - 25.88",
+        "video": "https://youtu.be/9xC__Ihh4R0"
+      },
+      {
+        "player": "Komet01",
+        "range": "21.84 - 28.05",
+        "video": "https://www.youtube.com/watch?v=AREGfbPy8Fs"
+      },
+      {
+        "player": "Philisterguy",
+        "range": "27.86 - 44.82",
+        "video": "https://youtu.be/I0pE4hN-PP0?t=1735"
+      },
+      {
+        "player": "Philisterguy",
+        "range": "41.33 - 46.44",
+        "video": "https://www.youtube.com/clip/Ugkx6o-QQptY0dKU9AolWhhLWZwJyZuGwrEF"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "45.9 - 48.2",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "47.7 - 59.3",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "58.6 - 62.3",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "61.6 - 64.8",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "Emp",
+        "range": "64.79 - 73.7",
+        "video": "https://www.youtube.com/watch?v=MgmuNRM_DR0"
+      },
+      {
+        "player": "Komet01",
+        "range": "73.2 - 83.63",
+        "video": "https://www.youtube.com/watch?v=BLd4C_1ds9U"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "77.9 - 85",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "84.5 - 86.6",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "Philisterguy",
+        "range": "86.29 - 89.76",
+        "video": "https://www.youtube.com/clip/UgkxC8CWQqU_UzM5sviAEArMBvqor1MoGT1H"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "89.5 - 92.1",
+        "video": "https://youtu.be/4AY1ZOlqsOU"
+      },
+      {
+        "player": "Philisterguy",
+        "range": "91.09 - 95.31",
+        "video": "https://youtu.be/zwgaDiAKXfU?t=7759"
+      },
+      {
+        "player": "Philisterguy",
+        "range": "95.31 - 100",
+        "video": "https://www.youtube.com/clip/UgkxLr83pfDUsd3XlW-b-Ykc5K0QMdxqma5j"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=xJqqpyneljo"
+  },
+  {
+    "name": "Azure Flare 2025",
+    "rank": 6,
+    "image": null,
+    "id": "126344104",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "ultragd78",
+        "range": "14.02",
+        "video": "https://www.youtube.com/watch?v=z74fYNTvyKw"
+      },
+      {
+        "player": "blooklength",
+        "range": "12.3 - 16.2",
+        "video": "https://www.youtube.com/watch?v=I_oc2sxOFRE"
+      },
+      {
+        "player": "Pentamery",
+        "range": "16.2 - 20.3",
+        "video": "https://www.youtube.com/watch?v=I_oc2sxOFRE"
+      },
+      {
+        "player": "Drakanja",
+        "range": "20.3 - 28.4",
+        "video": null
+      },
+      {
+        "player": "GMDPeanut",
+        "range": "28.4 - 31.1",
+        "video": null
+      },
+      {
+        "player": "aidan",
+        "range": "31.1 - 38.1",
+        "video": null
+      },
+      {
+        "player": "Billzer",
+        "range": "38.1 - 41.7",
+        "video": null
+      },
+      {
+        "player": "Viper Arctarus",
+        "range": "41.7 - 45.3",
+        "video": null
+      },
+      {
+        "player": "FlinGuSPluNkuS",
+        "range": "45.3 - 47.7",
+        "video": null
+      },
+      {
+        "player": "ieatdogecoin",
+        "range": "47.7 - 50.7",
+        "video": null
+      },
+      {
+        "player": "Big Nose",
+        "range": "50.7 - 55.61",
+        "video": null
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "55.61 - 62.7",
+        "video": null
+      },
+      {
+        "player": "ThetrueCheeto",
+        "range": "62.7 - 65.1",
+        "video": null
+      },
+      {
+        "player": "LowGraphicsHam",
+        "range": "65.1 - 67.7",
+        "video": null
+      },
+      {
+        "player": "rain",
+        "range": "67.7 - 71.5",
+        "video": null
+      },
+      {
+        "player": "damian",
+        "range": "71.5 - 74.5",
+        "video": null
+      },
+      {
+        "player": "azxprovn",
+        "range": "74.5 - 79.4",
+        "video": null
+      },
+      {
+        "player": "Lagcube",
+        "range": "79.4 - 86.8",
+        "video": null
+      },
+      {
+        "player": "rulmy",
+        "range": "86.8 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=mAJG_i9Vziw"
+  },
+  {
+    "rank": 7,
+    "name": "World Render",
+    "image": null,
+    "id": "118059486",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Roguehigh501",
+        "range": "3.46",
+        "video": "https://www.youtube.com/watch?v=sb8TQmLHmmA"
+      },
+      {
+        "player": "Mipsel",
+        "range": "4.06 - 5.2",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "4.79 - 6.41",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "6.19 - 8.46",
+        "video": "https://www.youtube.com/watch?v=oo2rpBz188g"
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "7.66 - 9.87",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "11.19 - 13.3",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "15.41 - 16.45",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "16.41 - 19.47",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "20.66 - 22.07",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "22.1 - 22.49",
+        "video": null
+      },
+      {
+        "player": "Mipsel",
+        "range": "24.8 - 25.53",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "26.67 - 28.8",
+        "video": null
+      },
+      {
+        "player": "Lani el KIR",
+        "range": "28.71 - 28.98",
+        "video": null
+      },
+      {
+        "player": "Lani el KIR",
+        "range": "29.17 - 29.63",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "29.73 - 31.71",
+        "video": null
+      },
+      {
+        "player": "Mipsel",
+        "range": "31.1 - 32.28",
+        "video": null
+      },
+      {
+        "player": "dottedcoms",
+        "range": "33.18 - 43.35",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "43.35 - 48.52",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "47.57 - 49.12",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "50.52 - 52.04",
+        "video": null
+      },
+      {
+        "player": "Lani el KIR",
+        "range": "51.97 - 52.43",
+        "video": null
+      },
+      {
+        "player": "Lani el KIR",
+        "range": "52.44 - 53.51",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "53.48 - 55.71",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "55.54 - 57.09",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "57.8 - 60.32",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "60.17 - 63.9",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "62.67 - 66.08",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "67.17 - 68.44",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "68.4 - 69.64",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "70.91 - 72.67",
+        "video": null
+      },
+      {
+        "player": "Lani el KIR",
+        "range": "72.49 - 73.23",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "74.04 - 75.57",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "75.53 - 79.11",
+        "video": null
+      },
+      {
+        "player": "Lani el KIR",
+        "range": "83.18 - 83.45",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "83.33 - 86.55",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "86.39 - 88.14",
+        "video": null
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "87.89 - 91.12",
+        "video": null
+      },
+      {
+        "player": "suni",
+        "range": "91.62 - 100",
+        "video": "https://www.youtube.com/watch?v=fecMj9_Dw4w"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/yR280j42VbY"
+  },
+  {
+    "rank": 8,
+    "name": "i D K",
+    "image": null,
+    "id": "72959089",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Sashozz",
+        "range": "14.8",
+        "video": "https://www.youtube.com/watch?v=_4evxbTpPgA"
+      },
+      {
+        "player": "Sashozz",
+        "range": "13.33 - 27.48",
+        "video": "https://youtube.com/clip/UgkxWn0bpYnV3HtNrBereLMbAI-tiGD1YEfn"
+      },
+      {
+        "player": "Sashozz",
+        "range": "26.26 - 40.27",
+        "video": "https://www.youtube.com/clip/UgkxdItuzk3ZlDRIHIgs8dkh7gLM9oLj4G5c"
+      },
+      {
+        "player": "Sashozz",
+        "range": "39.46 - 42.03",
+        "video": "https://youtu.be/qX6qyL6Yk34?t=28401"
+      },
+      {
+        "player": "Sashozz",
+        "range": "42.03 - 42.61",
+        "video": "https://youtu.be/qX6qyL6Yk34?t=29188"
+      },
+      {
+        "player": "Sashozz",
+        "range": "42.61% - 43.79",
+        "video": null
+      },
+      {
+        "player": "Sashozz",
+        "range": "43.77 - 45.17",
+        "video": "https://youtu.be/qX6qyL6Yk34?t=29423"
+      },
+      {
+        "player": "Sashozz",
+        "range": "44.47 - 45.79",
+        "video": "https://youtube.com/clip/UgkxkZWXbz8VXLKAXo5qz_qDkYLxaeZSWnIM"
+      },
+      {
+        "player": "Sashozz",
+        "range": "45.44 - 60",
+        "video": "https://www.youtube.com/clip/Ugkx0tofrBCtm5vo_klgiDskTMMN_ZlKkCQL"
+      },
+      {
+        "player": "Sashozz",
+        "range": "57.75 - 73.24",
+        "video": "https://www.youtube.com/clip/UgkxejRCDuyXZkdMkCoOAee9d63wfKr14BhW"
+      },
+      {
+        "player": "Sashozz",
+        "range": "66.59 - 100",
+        "video": "https://www.youtube.com/clip/UgkxytH8cEC-5aPlVhi4YEISuzQdbbZ46cbz"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=_fy-1mcmAPQ"
+  },
+  {
+    "rank": 9,
+    "name": "White Abyss",
+    "image": null,
+    "id": "126535682",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "mineraljk",
+        "range": "23.01",
+        "video": "https://www.youtube.com/watch?v=-uVM7Y3m74E"
+      },
+      {
+        "player": "mineraljk",
+        "range": "38.3 - 61.31",
+        "video": "https://www.youtube.com/watch?v=-uVM7Y3m74E"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=RL0xaMgaxTI"
+  },
+  {
+    "rank": 10,
+    "name": "Nierenbaum",
+    "image": null,
+    "id": "67661018",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Emp",
+        "range": "17.4",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "17 - 26",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "26 - 30",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "29 - 32",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "32 - 33.66",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "33.9 - 36",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "35 - 45",
+        "video": "https://www.youtube.com/live/zCGaR5q6Vhs"
+      },
+      {
+        "player": "Emp",
+        "range": "44 - 48",
+        "video": "https://www.youtube.com/live/zCGaR5q6Vhs"
+      },
+      {
+        "player": "Emp",
+        "range": "47 - 49.7",
+        "video": "https://www.youtube.com/live/zCGaR5q6Vhs"
+      },
+      {
+        "player": "Emp",
+        "range": "49.4 - 53.7",
+        "video": "https://www.youtube.com/live/zCGaR5q6Vhs"
+      },
+      {
+        "player": "Emp",
+        "range": "53.4 - 55.7",
+        "video": "https://www.youtube.com/live/zCGaR5q6Vhs"
+      },
+      {
+        "player": "Emp",
+        "range": "55 - 58",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "58 - 61",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "60 - 62",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "61 - 64",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "64 - 75",
+        "video": "https://cdn.discordapp.com/attachments/1537103122902818959/1537117814471786546/ScreenRecording_08-12-2026_3-22-03_pm_1.mov?ex=6a7de005&is=6a7c8e85&hm=eff4628141bc19bab5fe6eebd77f88ccc5808ef86d7ddef280ac2b847f8b44e8&"
+      },
+      {
+        "player": "Emp",
+        "range": "75 - 79",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "77 - 81",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "80 - 83",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "82 - 86",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "86 - 88",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "88 - 88.7",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "88.7 - 89.6",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "89 - 91",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      },
+      {
+        "player": "Emp",
+        "range": "90 - 100",
+        "video": "https://discord.com/channels/1457970765365510158/1537103122902818959/1537117815012859944"
+      },
+      {
+        "player": "Emp",
+        "range": "33.52 - 34.09",
+        "video": "https://www.youtube.com/watch?v=aKS0295_inM"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=aKS0295_inM"
+  },
+  {
+    "rank": 11,
+    "name": "silent locked",
+    "image": null,
+    "id": "126843656",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Sapphuby",
+        "range": "12.94",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "56.28 - 78.51",
+        "video": "https://youtu.be/96avaesXfIA"
+      },
+      {
+        "player": "Anceps",
+        "range": "83.93 - 100",
+        "video": "https://youtu.be/ttvpkTKZ2AI"
+      },
+      {
+        "player": "Sapphuby",
+        "range": "19.34 - 70.34",
+        "video": "https://www.youtube.com/watch?v=0XYqQ2AwOm0"
+      },
+      {
+        "player": "Sapphuby",
+        "range": "16.83 - 24.91",
+        "video": "https://discord.com/channels/1457970765365510158/1541923718349987862/1541923718349987862"
+      },
+      {
+        "player": "Sapphuby",
+        "range": "12.9",
+        "video": "https://youtu.be/HT4pki366EQ"
+      },
+      {
+        "player": "Sapphuby",
+        "range": "19.4 - 58.73",
+        "video": "https://youtu.be/M-1fTkbAT8Y"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=dLxQKA5cQn0"
+  },
+  {
+    "rank": 12,
+    "name": "Silent Future Funk",
+    "image": null,
+    "id": "95722079",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "10oneveryextreme",
+        "range": "10.69",
+        "video": "https://youtu.be/dFJ6lQd0_A4?t=276"
+      },
+      {
+        "player": "Dylanos",
+        "range": "11.97 - 15.50",
+        "video": "https://www.youtube.com/watch?v=m4qF-pGub8c"
+      },
+      {
+        "player": "scatteredmoves",
+        "range": "15 - 16.53",
+        "video": "https://www.youtube.com/watch?v=5AR4iUda_Pw"
+      },
+      {
+        "player": "Dylanos",
+        "range": "16.88 - 20.05",
+        "video": "https://www.youtube.com/watch?v=pwTP7VyavIw"
+      },
+      {
+        "player": "Dylanos",
+        "range": "19.81 - 21.29",
+        "video": "https://www.youtube.com/watch?v=JQxB3KrDoMc"
+      },
+      {
+        "player": "Dylanos",
+        "range": "20.73 - 28.74",
+        "video": "https://www.youtube.com/watch?v=JQxB3KrDoMc"
+      },
+      {
+        "player": "Dylanos",
+        "range": "26.92 - 34.17",
+        "video": "https://www.youtube.com/watch?v=toh4VJJ-jJY"
+      },
+      {
+        "player": "ILoveLiliesXOXO",
+        "range": "32.98 - 36.25",
+        "video": "https://www.youtube.com/watch?v=ikfxHABY9C8"
+      },
+      {
+        "player": "Dylanos",
+        "range": "45.24 - 48.69",
+        "video": "https://www.youtube.com/watch?v=m4qF-pGub8c"
+      },
+      {
+        "player": "Dylanos",
+        "range": "49.87 - 51.37",
+        "video": "https://www.youtube.com/watch?v=m4qF-pGub8c"
+      },
+      {
+        "player": "Dylanos",
+        "range": "56.95 - 66.68",
+        "video": "https://www.youtube.com/watch?v=pwTP7VyavIw"
+      },
+      {
+        "player": "scatteredmoves",
+        "range": "75.86 - 80.5",
+        "video": "https://www.youtube.com/watch?v=67I9L6Gm3as"
+      },
+      {
+        "player": "scatteredmoves",
+        "range": "82.12 - 85.52",
+        "video": "https://www.youtube.com/watch?v=Xg3wzQBwwm8"
+      },
+      {
+        "player": "Dylanos",
+        "range": "86.36 - 88.04",
+        "video": "https://www.youtube.com/watch?v=m4qF-pGub8c"
+      },
+      {
+        "player": "scatteredmoves",
+        "range": "95.5 - 99.37",
+        "video": "https://www.youtube.com/watch?v=QpnssHXCAY4"
+      },
+      {
+        "player": "22t",
+        "range": "98.37 - 100",
+        "video": "https://www.youtube.com/watch?v=x9fiG7g7o_I"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=sJW5BShQ-9Y"
+  },
+  {
+    "rank": 13,
+    "name": "BAKEMONOGATARI",
+    "image": null,
+    "id": "95927517",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "LucyIsSilly",
+        "range": "20.23",
+        "video": "https://youtu.be/tt-Tz0S9ca0"
+      },
+      {
+        "player": "Anceps",
+        "range": "20.09 - 24.95",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "24.33 - 35.52",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "34.88 - 39.52",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "39.46 - 40.13",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "39.82 - 51.56",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "51.53 - 52.26",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "52.23 - 54.43",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "54.33 - 54.92",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "54.88 - 55.5",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "55.43 - 55.7",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "55.69 - 56.05",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "56.03 - 56.74",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "56.65 - 58.22",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "58.2 - 59.14",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "58.99 - 60.19",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "60.02 - 65.9",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "63.79 - 71.06",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "70.98 - 73.52",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "72.7 - 74.78",
+        "video": null
+      },
+      {
+        "player": "Anceps",
+        "range": "74.67 - 78.1",
+        "video": null
+      },
+      {
+        "player": "RMGD",
+        "range": "76.89 - 100",
+        "video": "https://discord.com/channels/1098981048890703894/1275393392054108211/1499210104816402522"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=OokFQclUH-I"
+  },
+  {
+    "rank": 14,
+    "name": "Deadly Knock",
+    "image": null,
+    "id": "63708222",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "KatnBlack",
+        "range": "7",
+        "video": "https://www.youtube.com/watch?v=62J9DbkPx88"
+      },
+      {
+        "player": "Dr. Joe",
+        "range": "7 - 14",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "Dutchman77",
+        "range": "14 - 23",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "GetOverItGD",
+        "range": "23 - 32",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "Atinsh",
+        "range": "32 - 36",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "Fossa",
+        "range": "50 - 50",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "Zamasu",
+        "range": "50 - 55",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "nintenfox",
+        "range": "55 - 60",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "Jcak",
+        "range": "60 - 64",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "KugelBlitZ",
+        "range": "64 - 71",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "Sorryiwin",
+        "range": "71 - 76",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "Rin04",
+        "range": "76 - 80",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "Syzzi",
+        "range": "80 - 85",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "Luna",
+        "range": "85 - 87",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "VagueIsolation",
+        "range": "87 - 92",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      },
+      {
+        "player": "Skyjax",
+        "range": "92 - 100",
+        "video": "https://youtu.be/CoC04Ixs-F0"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=SDfB7JL88j4"
+  },
+  {
+    "rank": 15,
+    "name": "Cyber Raptor (Unnerfed)",
+    "image": null,
+    "id": "86038554",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "niroi",
+        "range": "1.1 - 9.8",
+        "video": "https://youtu.be/EA3CNqAtRH8"
+      },
+      {
+        "player": "zFexty",
+        "range": "6.23 - 14.05",
+        "video": "https://www.youtube.com/watch?v=d_ftBw11PgI"
+      },
+      {
+        "player": "zFexty",
+        "range": "27.91 - 33.49",
+        "video": "https://www.youtube.com/watch?v=Zt9ehJsL0X0"
+      },
+      {
+        "player": "zFexty",
+        "range": "30.9 - 34.4",
+        "video": "https://www.youtube.com/watch?v=brFI3g5yFVA"
+      },
+      {
+        "player": "zFexty",
+        "range": "86.52 - 91.61",
+        "video": "https://youtu.be/wG7TrF3ysLc"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=A-QbAoYh5SI"
+  },
+  {
+    "rank": 16,
+    "name": "Gloomiest Cavern",
+    "image": null,
+    "id": "124108794",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Emp",
+        "range": "9.37",
+        "video": "https://www.youtube.com/live/j1SjyJvLgCM?si=BnxkYXDEuU1qbtZH&t=4788"
+      },
+      {
+        "player": "Zach",
+        "range": "4-11",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "aidanhh",
+        "range": "11-15",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "NotDragon",
+        "range": "15 - 19",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "Cala",
+        "range": "19 - 29",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "Hipo",
+        "range": "29-31",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "31-32",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "GeoDom",
+        "range": "32-40",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "LowGraphicsHam",
+        "range": "40-43",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "azxprovn",
+        "range": "43-46",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "Pixl",
+        "range": "46-48",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "aden",
+        "range": "48-55",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "Uni",
+        "range": "55-62",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "lilykitties",
+        "range": "62-63",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "yPerm",
+        "range": "63-65",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "Veshel",
+        "range": "65-69",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "damian",
+        "range": "69-79",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "Applocation",
+        "range": "79-82",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "FlinGuSPluNkuS",
+        "range": "82-84",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "Cclix",
+        "range": "84-87",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "Big Nose",
+        "range": "87-91",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      },
+      {
+        "player": "Rain",
+        "range": "91-100",
+        "video": "https://www.youtube.com/watch?v=ZIU_975z-90"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=ZIU_975z-90"
+  },
+  {
+    "rank": 17,
+    "name": "LiGHtmArE",
+    "image": null,
+    "id": "77233362",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "ihsa",
+        "range": "18.23",
+        "video": "https://youtu.be/je0H00etNUE?si=lDwePSwqmA3OA4lj"
+      },
+      {
+        "player": "kris",
+        "range": "10.27 - 19.12",
+        "video": "https://www.youtube.com/watch?v=qPPwK7tuFvY"
+      },
+      {
+        "player": "xeo",
+        "range": "18.9 - 21.09",
+        "video": "https://www.youtube.com/watch?v=qPPwK7tuFvY"
+      },
+      {
+        "player": "kris",
+        "range": "21.09 - 23.43",
+        "video": "https://www.youtube.com/watch?v=qPPwK7tuFvY"
+      },
+      {
+        "player": "Mizukii",
+        "range": "22.7 - 25.1",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      },
+      {
+        "player": "IAmNot60hz",
+        "range": "25.1 - 36.4",
+        "video": "https://youtu.be/QObKr61KzeA"
+      },
+      {
+        "player": "Reflex117 gd",
+        "range": "36.03 - 42.29",
+        "video": "https://discord.com/channels/1457970765365510158/1457970766187331740/1529865225355006002"
+      },
+      {
+        "player": "Surrounded",
+        "range": "39.9 - 44.4",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      },
+      {
+        "player": "Deji",
+        "range": "44.3 - 50.5",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      },
+      {
+        "player": "Viwi",
+        "range": "50.4 - 51.4",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      },
+      {
+        "player": "12kelvin",
+        "range": "51.3 - 58",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      },
+      {
+        "player": "Noctal",
+        "range": "57.9 - 62.4",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      },
+      {
+        "player": "Quivert",
+        "range": "62.3 - 66.1",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      },
+      {
+        "player": "hStorm",
+        "range": "66.0 - 69.62",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      },
+      {
+        "player": "Koizaru",
+        "range": "69.6 - 75",
+        "video": "https://youtu.be/ylrAuTVYPGQ"
+      },
+      {
+        "player": "mariner",
+        "range": "74.2 - 83",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      },
+      {
+        "player": "Freezy",
+        "range": "82.9 - 87",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      },
+      {
+        "player": "galagzee",
+        "range": "86.9 - 93.8",
+        "video": "https://youtu.be/b5m7YhwpNAc"
+      },
+      {
+        "player": "Whizkid05",
+        "range": "93.5 - 100",
+        "video": "https://youtu.be/IxcrxTqRqzo"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/a37y9M8rCIU"
+  },
+  {
+    "rank": 18,
+    "name": "Disquietude",
+    "image": null,
+    "id": "36869898",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Emp",
+        "range": "9.06",
+        "video": "https://www.youtube.com/watch?v=MTnGfwBOVkk"
+      },
+      {
+        "player": "Nolyswag",
+        "range": "8.9 - 16.7",
+        "video": "https://www.youtube.com/watch?v=03GbApmXkGo"
+      },
+      {
+        "player": "Emp",
+        "range": "16.54 - 18.4",
+        "video": "https://www.youtube.com/watch?t=293&v=ScPsfhYSwzQ"
+      },
+      {
+        "player": "Anceps",
+        "range": "18.28 - 20.23",
+        "video": "https://youtu.be/WF9HwLbxunw"
+      },
+      {
+        "player": "Emp",
+        "range": "20.21 - 23.02",
+        "video": "https://www.youtube.com/watch?t=235&v=U1jxmXddPPM"
+      },
+      {
+        "player": "Emp",
+        "range": "22.81 - 25.83",
+        "video": "https://www.youtube.com/watch?v=3EQ-gJ0ddCs&t=67s"
+      },
+      {
+        "player": "Nolyswag",
+        "range": "25.71 - 28.55",
+        "video": "https://www.youtube.com/watch?v=1EFSUXD354Q"
+      },
+      {
+        "player": "Renegade",
+        "range": "28.46 - 30.5",
+        "video": "https://www.youtube.com/watch?v=Cbu4zvkM12s"
+      },
+      {
+        "player": "Nolyswag",
+        "range": "30.44 - 32.88",
+        "video": "https://www.youtube.com/watch?v=8E1yCR0exBY"
+      },
+      {
+        "player": "zStucc",
+        "range": "31.81 - 35.28",
+        "video": null
+      },
+      {
+        "player": "Emp",
+        "range": "35.07 - 37.78",
+        "video": "https://www.youtube.com/watch?v=l7SiJy8GX4I&t=47s"
+      },
+      {
+        "player": "Emp",
+        "range": "37.46 - 40.05",
+        "video": "https://www.youtube.com/watch?v=bzlinILHQu8&t=122s"
+      },
+      {
+        "player": "woundedxo",
+        "range": "39.68 - 45.21",
+        "video": "https://www.youtube.com/watch?v=HXaRkPmYObI"
+      },
+      {
+        "player": "Nolyswag",
+        "range": "43.55 - 46.46",
+        "video": "https://www.youtube.com/watch?v=FlSJzYJpLFI"
+      },
+      {
+        "player": "Nolyswag",
+        "range": "46.46 - 47.99",
+        "video": "https://www.youtube.com/watch?v=FlSJzYJpLFI"
+      },
+      {
+        "player": "Emp",
+        "range": "46.91 - 50.68",
+        "video": "https://www.youtube.com/watch?v=4cRVAsFzZmY&t=306s"
+      },
+      {
+        "player": "Anceps",
+        "range": "50.41 - 52.66",
+        "video": "https://youtu.be/_4LH7Rr9FB8"
+      },
+      {
+        "player": "Renegade",
+        "range": "52.37 - 54.34",
+        "video": "https://youtu.be/V1qbL9dViwc"
+      },
+      {
+        "player": "Anceps",
+        "range": "53.17 - 56.39",
+        "video": "https://youtu.be/_4LH7Rr9FB8"
+      },
+      {
+        "player": "seels",
+        "range": "56.33 - 57.48",
+        "video": "https://www.youtube.com/watch?v=dksR_VPDfKg"
+      },
+      {
+        "player": "Emp",
+        "range": "57.30 - 60.11",
+        "video": "https://www.youtube.com/watch?v=wRmD1ikrXyE&t=827s"
+      },
+      {
+        "player": "Emp",
+        "range": "59.93 - 62.46",
+        "video": "https://youtu.be/xy1unOd8Ua8?si=EQIRgo0tMA20-lb5&t=1203"
+      },
+      {
+        "player": "seels",
+        "range": "61.57 - 63.74",
+        "video": "https://www.youtube.com/watch?v=dksR_VPDfKg"
+      },
+      {
+        "player": "Emp",
+        "range": "63.53 - 67.23",
+        "video": "https://youtu.be/UF2nd14_Lt8?si=t5lf0BUQQsoaFtvh&t=152"
+      },
+      {
+        "player": "seels",
+        "range": "67.02 - 69.47",
+        "video": "https://www.youtube.com/watch?v=dksR_VPDfKg"
+      },
+      {
+        "player": "Renegade",
+        "range": "69.18 - 71.15",
+        "video": "https://youtu.be/p0SggyzZGI4"
+      },
+      {
+        "player": "seels",
+        "range": "71.07 - 76.89",
+        "video": "https://www.youtube.com/watch?v=dksR_VPDfKg"
+      },
+      {
+        "player": "cameronong",
+        "range": "76.78 - 82.85",
+        "video": "https://discord.com/channels/1457970765365510158/1533824848504033390/1533824848504033390"
+      },
+      {
+        "player": "cameronong",
+        "range": "82.63 - 84.16",
+        "video": "https://discord.com/channels/1457970765365510158/1533824848504033390/1533824848504033390"
+      },
+      {
+        "player": "cameronong",
+        "range": "84.13 - 84.8",
+        "video": "https://discord.com/channels/1457970765365510158/1457970766187331740/1515584527211298918"
+      },
+      {
+        "player": "Nolyswag",
+        "range": "84.78 - 85.74",
+        "video": "https://www.youtube.com/watch?v=FlSJzYJpLFI"
+      },
+      {
+        "player": "cameronong",
+        "range": "85.9 - 87.02",
+        "video": "https://discord.com/channels/1457970765365510158/1535545059183955988/1535545059183955988"
+      },
+      {
+        "player": "cameronong",
+        "range": "86.97 - 88.19",
+        "video": "https://discord.com/channels/1457970765365510158/1537033436529688676/1537033436529688676"
+      },
+      {
+        "player": "Emp",
+        "range": "87.44 - 89.7",
+        "video": "https://www.youtube.com/watch?v=I1XDyJ_o1NU"
+      },
+      {
+        "player": "cameronong",
+        "range": "89.69 - 90.59",
+        "video": "https://discord.com/channels/1457970765365510158/1457970766187331740/1509865659495088200"
+      },
+      {
+        "player": "cameronong",
+        "range": "90.52 - 91",
+        "video": "https://discord.com/channels/1457970765365510158/1537033436529688676/1537033436529688676"
+      },
+      {
+        "player": "zStucc",
+        "range": "90.88 - 95",
+        "video": "https://youtu.be/H-0x4osCEJw"
+      },
+      {
+        "player": "Emp",
+        "range": "94.50 - 100",
+        "video": "https://discord.com/channels/1457970765365510158/1515499034670796911/1515789217920319651"
+      },
+      {
+        "player": "Nolyswag",
+        "range": "85.74 - 86.16",
+        "video": "https://www.youtube.com/watch?v=FlSJzYJpLFI"
+      },
+      {
+        "player": "zStucc",
+        "range": "31.81 - 35",
+        "video": "https://youtu.be/H-0x4osCEJw"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=OicnQ3RkBwc"
+  },
+  {
+    "rank": 19,
+    "name": "Death Corridor",
+    "image": null,
+    "id": "10314379",
+    "accuracy": {
+      "value": "96.47",
+      "player": "Bananasgd",
+      "video": "https://www.youtube.com/watch?v=wz1HVP7ex2U"
+    },
+    "deaths": {
+      "value": "105",
+      "player": "Bananasgd",
+      "video": "https://www.youtube.com/watch?v=wz1HVP7ex2U"
+    },
+    "segments": [
+      {
+        "player": "FreddyFazGlitch",
+        "range": "30.58",
+        "video": "https://www.youtube.com/watch?v=gbgGgEQjVR4"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "20.89 - 46.96",
+        "video": "https://www.youtube.com/watch?v=_hHYT4-YVZI"
+      },
+      {
+        "player": "tFluffy",
+        "range": "46.51 - 48.68",
+        "video": "https://discord.com/channels/1122038339541934091/1322007707900973088/1494155483714420848"
+      },
+      {
+        "player": "Emp",
+        "range": "48.28 - 49.9",
+        "video": "https://discord.com/channels/1457970765365510158/1531779873230819359/1531779873230819359"
+      },
+      {
+        "player": "Bananasgd",
+        "range": "49.61 - 55.64",
+        "video": "https://www.youtube.com/watch?v=zzw0XZjZc2I"
+      },
+      {
+        "player": "Emp",
+        "range": "53 - 94",
+        "video": "https://youtu.be/mdGoXzPn4Rc"
+      },
+      {
+        "player": "Emp",
+        "range": "89 - 100",
+        "video": "https://youtu.be/mdGoXzPn4Rc"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/pGCBFQGC7JQ"
+  },
+  {
+    "rank": 20,
+    "name": "Sakupen End",
+    "image": null,
+    "id": "100856004",
+    "accuracy": {
+      "value": "97.54",
+      "player": "PureL",
+      "video": "https://www.youtube.com/watch?v=KGq9_lrqCgc"
+    },
+    "deaths": {
+      "value": "207",
+      "player": "PureL",
+      "video": "https://www.youtube.com/watch?v=KGq9_lrqCgc"
+    },
+    "segments": [
+      {
+        "player": "PureL",
+        "range": "15.26",
+        "video": "https://www.youtube.com/watch?v=Oz5dKrbIGbg"
+      },
+      {
+        "player": "PureL",
+        "range": "15.08 - 32",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "31.63 - 38",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "37.6 - 41",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "39.91 - 43",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "Euphoria",
+        "range": "42.73 - 44.89",
+        "video": "https://youtu.be/IixAIkq5yKI?t=180&si=ZN3CORdCmfdmtE1k"
+      },
+      {
+        "player": "PureL",
+        "range": "44.47 - 45.41",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "45.36 - 46.35",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "46.25 - 46.93",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "46.87 - 48.14",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "47.76 - 53.07",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "53.07 - 54.32",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "54.24 - 57",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "55.53 - 60",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "ad3us",
+        "range": "60 - 63",
+        "video": "https://www.youtube.com/watch?v=cGOwBqABhDw"
+      },
+      {
+        "player": "ywuChaos",
+        "range": "62 - 64",
+        "video": "https://youtu.be/XEq7MuqzfJU?si=ggF37uTiRXUlwNIK&t=42"
+      },
+      {
+        "player": "ywuChaos",
+        "range": "64 - 65.51",
+        "video": "https://youtu.be/XEq7MuqzfJU?si=3885Vr2N8HhbT-ns&t=59"
+      },
+      {
+        "player": "PureL",
+        "range": "65.51 - 72.13",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "72.13 - 73.74",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "ad3usgmd",
+        "range": "73.50 - 74.60",
+        "video": "https://youtu.be/IixAIkq5yKI?t=287&si=lbLJhKxaGlOyF6CR"
+      },
+      {
+        "player": "PureL",
+        "range": "74.13 - 75.14",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "75.04 - 76.59",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "76.52 - 81",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "77.36 - 82.4",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "82.4 - 85",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      },
+      {
+        "player": "PureL",
+        "range": "85 - 100",
+        "video": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=Wq7RsiFcAZA"
+  },
+  {
+    "rank": 21,
+    "name": "Unnamed 666 (Unnerfed)",
+    "image": null,
+    "id": "106513794",
+    "accuracy": {
+      "value": "93.1",
+      "player": "hawkyre",
+      "video": "https://www.youtube.com/watch?v=0wQ4ET1n1AI"
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "dewbbs",
+        "range": "10.26",
+        "video": "https://youtu.be/DuXJcgJFvaI"
+      },
+      {
+        "player": "Freezy",
+        "range": "8.04 - 13.79",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "kloone",
+        "range": "13.36 - 16.75",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "galagzee",
+        "range": "16.7 - 20.08",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Deji",
+        "range": "19.95 - 26.78",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Karma",
+        "range": "26.4 - 28.87",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Viwi",
+        "range": "28.84 - 33.52",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Cubdy",
+        "range": "33.43 - 36.69",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Cursed",
+        "range": "36.05 - 37.78",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "JustViscey",
+        "range": "37.78 - 43.17",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "BOBATRON",
+        "range": "38.7 - 53.5",
+        "video": "https://www.youtube.com/watch?v=iSQ3ama0LhY"
+      },
+      {
+        "player": "LunarSparks",
+        "range": "53.4 - 57.34",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Taiago",
+        "range": "57.3 - 58.64",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Diddy",
+        "range": "58.61 - 62.48",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "hstorm",
+        "range": "61.13 - 70.78",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Bluey",
+        "range": "70.68 - 71.82",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Mizukii",
+        "range": "71.82 - 72.8",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Timy",
+        "range": "72.74 - 76.67",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Zallitz",
+        "range": "76.59 - 82.34",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Nocta",
+        "range": "82.34 - 83.83",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Slimepesoz",
+        "range": "83.82 - 86.71",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Bytelaw",
+        "range": "86.71 - 91.09",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "mariner",
+        "range": "89.53 - 100",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      },
+      {
+        "player": "Whizkid05",
+        "range": "43.14 - 53.47",
+        "video": "https://www.youtube.com/watch?v=exvlM66P_2g"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=exvlM66P_2g"
+  },
+  {
+    "rank": 22,
+    "name": "Society (Unnerfed)",
+    "image": null,
+    "id": "127323087",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Zaggy",
+        "range": "23.27",
+        "video": "https://youtu.be/b9GmtH7OdEg"
+      },
+      {
+        "player": "Martin",
+        "range": "20.86 - 25",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "xXMasterXxY",
+        "range": "24.85 - 50.4",
+        "video": "https://www.youtube.com/watch?v=6IHYgSM-Mxk"
+      },
+      {
+        "player": "wPopoff",
+        "range": "50 - 51.62",
+        "video": "https://youtu.be/AFj_sU1zljQ"
+      },
+      {
+        "player": "Ripplez",
+        "range": "51.62 - 53.9",
+        "video": "https://youtu.be/AFj_sU1zljQ"
+      },
+      {
+        "player": "hstorm",
+        "range": "53.9 - 58.3",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "Javicon",
+        "range": "58.3 - 59.55",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "MoonFrost",
+        "range": "59.55 - 60.55",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "Albert",
+        "range": "60.55 - 64.35",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "Mizukii",
+        "range": "64.35 - 66.32",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "LunarSpark",
+        "range": "66.32 - 70.73",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "taiago",
+        "range": "70.73 - 74.77",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "kloone",
+        "range": "74.77 - 78.9",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "NucDev",
+        "range": "78.9 - 81.08",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "mariner",
+        "range": "81.08 - 83.12",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "Quivert",
+        "range": "83.12 - 89.5",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "NLShorty",
+        "range": "89.5 - 96.5",
+        "video": "https://www.youtube.com/watch?v=AFj_sU1zljQ"
+      },
+      {
+        "player": "That1non",
+        "range": "91.33 - 100",
+        "video": "https://www.youtube.com/watch?v=5VpJ94e3aTg"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=6s-NBTRzspE"
+  },
+  {
+    "name": "Aeternus (Mobile)",
+    "rank": 23,
+    "image": null,
+    "id": "102647436",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "vowtz",
+        "range": "11.27",
+        "video": "https://www.youtube.com/watch?v=un3j-Jo2_Y0"
+      },
+      {
+        "player": "Kurosu",
+        "range": "2-15",
+        "video": null
+      },
+      {
+        "player": "Kurosu",
+        "range": "4-16",
+        "video": null
+      },
+      {
+        "player": "Kurosu",
+        "range": "15-20",
+        "video": null
+      },
+      {
+        "player": "Kurosu",
+        "range": "16-23",
+        "video": null
+      },
+      {
+        "player": "vowtz",
+        "range": "18-24",
+        "video": null
+      },
+      {
+        "player": "vowtz",
+        "range": "21-26",
+        "video": null
+      },
+      {
+        "player": "Silkizinho",
+        "range": "23-28",
+        "video": null
+      },
+      {
+        "player": "Silkizinho",
+        "range": "24-34",
+        "video": null
+      },
+      {
+        "player": "Silkizinho",
+        "range": "26-35",
+        "video": null
+      },
+      {
+        "player": "Silkizinho",
+        "range": "27-36",
+        "video": null
+      },
+      {
+        "player": "Silkizinho",
+        "range": "29-38",
+        "video": null
+      },
+      {
+        "player": "Silkizinho",
+        "range": "30-40",
+        "video": null
+      },
+      {
+        "player": "vowtz",
+        "range": "33-43",
+        "video": null
+      },
+      {
+        "player": "Silkizinho",
+        "range": "40-44",
+        "video": null
+      },
+      {
+        "player": "Kurosu",
+        "range": "41-48",
+        "video": null
+      },
+      {
+        "player": "vowtz",
+        "range": "44-49",
+        "video": null
+      },
+      {
+        "player": "Kurosu",
+        "range": "47-53",
+        "video": null
+      },
+      {
+        "player": "Kurosu",
+        "range": "52-56",
+        "video": null
+      },
+      {
+        "player": "vowtz",
+        "range": "56-61",
+        "video": null
+      },
+      {
+        "player": "vowtz",
+        "range": "57-62",
+        "video": null
+      },
+      {
+        "player": "Silkinzinho",
+        "range": "60-67",
+        "video": null
+      },
+      {
+        "player": "Silkinzinho",
+        "range": "66-69",
+        "video": null
+      },
+      {
+        "player": "Silkinzinho",
+        "range": "67-72.4",
+        "video": null
+      },
+      {
+        "player": "Calcium",
+        "range": "69-74",
+        "video": null
+      },
+      {
+        "player": "Silkinzinho",
+        "range": "72-80",
+        "video": null
+      },
+      {
+        "player": "GYTO",
+        "range": "78-85",
+        "video": null
+      },
+      {
+        "player": "vowtz",
+        "range": "82-89",
+        "video": null
+      },
+      {
+        "player": "Reflex117 gd",
+        "range": "87-93",
+        "video": null
+      },
+      {
+        "player": "vowtz",
+        "range": "88-100",
+        "video": null
+      },
+      {
+        "player": "Silkinzinho",
+        "range": "78-87",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 24,
+    "name": "The Devil",
+    "image": null,
+    "id": "87390648",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Jenath",
+        "range": "37.46",
+        "video": "https://fxtwitter.com/jenath_jd/status/1917238599277273111"
+      },
+      {
+        "player": "Jenath",
+        "range": "54.21 - 100",
+        "video": "https://www.youtube.com/watch?v=f5XHRAZsXl4"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 25,
+    "name": "rare (Old)",
+    "image": null,
+    "id": "95647061",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Judah",
+        "range": "16.13",
+        "video": "https://youtu.be/ZUd_zUPv5mg"
+      },
+      {
+        "player": "Emp",
+        "range": "10.7 - 18.3",
+        "video": "https://youtu.be/xOMMZbz1VWo"
+      },
+      {
+        "player": "Emp",
+        "range": "17.6 - 24.5",
+        "video": "https://youtu.be/xOMMZbz1VWo"
+      },
+      {
+        "player": "LumiMero",
+        "range": "21.03 - 28.98",
+        "video": "https://www.youtube.com/watch?v=yo-q4eGF140"
+      },
+      {
+        "player": "LumiMero",
+        "range": "27.38 - 31.46",
+        "video": "https://www.youtube.com/watch?v=yo-q4eGF140"
+      },
+      {
+        "player": "LumiMero",
+        "range": "30.81 - 36.52",
+        "video": "https://www.youtube.com/watch?v=yo-q4eGF140"
+      },
+      {
+        "player": "Emp",
+        "range": "35.7 - 44.5",
+        "video": "https://youtu.be/xOMMZbz1VWo"
+      },
+      {
+        "player": "LumiMero",
+        "range": "42.69 - 57.51",
+        "video": "https://youtu.be/B7crOKpRi6M"
+      },
+      {
+        "player": "Emp",
+        "range": "56.6 - 60.5",
+        "video": "https://youtu.be/xOMMZbz1VWo"
+      },
+      {
+        "player": "LumiMero",
+        "range": "60.01 - 63.43",
+        "video": "https://www.youtube.com/watch?v=b1cCrK0grEs"
+      },
+      {
+        "player": "LumiMero",
+        "range": "62.37 - 67.31",
+        "video": "https://youtu.be/yo-q4eGF140"
+      },
+      {
+        "player": "LumiMero",
+        "range": "66.37 - 69.76",
+        "video": "https://youtu.be/yo-q4eGF140"
+      },
+      {
+        "player": "LumiMero",
+        "range": "69.49 - 74.96",
+        "video": "https://youtu.be/yo-q4eGF140"
+      },
+      {
+        "player": "LumiMero",
+        "range": "74.01 - 81.86",
+        "video": "https://youtu.be/yo-q4eGF140"
+      },
+      {
+        "player": "LumiMero",
+        "range": "81.19 - 83.86",
+        "video": "https://youtu.be/yo-q4eGF140"
+      },
+      {
+        "player": "LumiMero",
+        "range": "82.97 - 100",
+        "video": "https://www.youtube.com/watch?v=wiUi53MgFMY"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=fnxffnruEog"
+  },
+  {
+    "rank": 26,
+    "name": "Back On Track",
+    "image": null,
+    "id": "80481445",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "vrtze",
+        "range": "14.45",
+        "video": "https://www.youtube.com/watch?v=ld5g3i2AlNw"
+      },
+      {
+        "player": "Bamvie",
+        "range": "9.48 - 16.76",
+        "video": "https://www.youtube.com/watch?v=3eMtEqw0OV0"
+      },
+      {
+        "player": "Timy",
+        "range": "16.2 - 31.94",
+        "video": "https://www.youtube.com/watch?v=3eMtEqw0OV0"
+      },
+      {
+        "player": "Zallitz",
+        "range": "31.29 - 38.36",
+        "video": "https://www.youtube.com/watch?v=3eMtEqw0OV0"
+      },
+      {
+        "player": "Mizukii",
+        "range": "38.12 - 66.82",
+        "video": "https://www.youtube.com/watch?v=3eMtEqw0OV0"
+      },
+      {
+        "player": "galagzee",
+        "range": "65.94 - 79.26",
+        "video": "https://www.youtube.com/watch?v=3eMtEqw0OV0"
+      },
+      {
+        "player": "mariner",
+        "range": "78.79 - 90.71",
+        "video": "https://www.youtube.com/watch?v=3eMtEqw0OV0"
+      },
+      {
+        "player": "Viwi",
+        "range": "90.34 - 100",
+        "video": "https://www.youtube.com/watch?v=3eMtEqw0OV0"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=3eMtEqw0OV0"
+  },
+  {
+    "rank": 27,
+    "name": "Crimson World",
+    "image": null,
+    "id": "8038902",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "PureL",
+        "range": "53.2",
+        "video": "https://www.youtube.com/watch?v=MzfPJ-QITV4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "45.2 - 54.7",
+        "video": "https://youtu.be/OcxrS1aKg5k?si=BY2-gPVB1qM9EBMv&t=36"
+      },
+      {
+        "player": "sobot",
+        "range": "53.3 - 57.3",
+        "video": "https://youtu.be/HAPepfWHezw"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "55.2 - 58.4",
+        "video": "https://youtu.be/OcxrS1aKg5k?si=gNUT60-Be_A-LxFQ&t=43"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "57.9 - 60",
+        "video": "https://youtu.be/Nbx-cBsPSyM"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "60 - 61.9",
+        "video": "https://youtu.be/Nbx-cBsPSyM"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "60.8 - 65.5",
+        "video": "https://youtu.be/OcxrS1aKg5k?si=3GiqZ_Q9r1fH4tTt&t=47"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "64 - 68",
+        "video": "https://youtu.be/OcxrS1aKg5k?si=D8KcD81TZU-WyahB&t=50"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "67.7 - 100",
+        "video": "https://youtu.be/OcxrS1aKg5k?si=oXaZPrnx_MnZt1Tz"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=NEy9vgYtxHs"
+  },
+  {
+    "rank": 28,
+    "name": "I N J U R Y (Old)",
+    "image": null,
+    "id": "83966317",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "snowspike",
+        "range": "10.56",
+        "video": "https://youtu.be/EuU6z1K2vjo"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "Hipo",
+        "range": "wtf",
+        "video": "https://www.youtube.com/watch?v=_WWVahfpUGY"
+      },
+      {
+        "player": "zXdasfsa",
+        "range": "75.92 - 100",
+        "video": "https://www.youtube.com/watch?v=I0l59pBzua8"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=rQJ5ZUFHYGI"
+  },
+  {
+    "rank": 29,
+    "name": "Aeternus",
+    "image": null,
+    "id": "102646926",
+    "accuracy": {
+      "value": "98.66",
+      "player": "aden",
+      "video": "https://youtu.be/hS1ZDdNEJMY?t=2027"
+    },
+    "deaths": {
+      "value": "46",
+      "player": "Chill Guy",
+      "video": "https://www.youtube.com/watch?v=XMQmWCfl7yA"
+    },
+    "segments": [
+      {
+        "player": "dewbbs",
+        "range": "23.9",
+        "video": "https://youtu.be/qt9UEprkezg"
+      },
+      {
+        "player": "Shock",
+        "range": "21.95 - 36.14",
+        "video": "https://www.youtube.com/watch?v=kXXHeffwXTk"
+      },
+      {
+        "player": "Chill Guy",
+        "range": "30.7 - 44.41",
+        "video": "https://www.youtube.com/watch?v=h8QfM0tjP9E"
+      },
+      {
+        "player": "aden",
+        "range": "42.09 - 59.19",
+        "video": "https://www.youtube.com/watch?v=G_ZvIM2LvaY"
+      },
+      {
+        "player": "Shock",
+        "range": "58.61 - 74.21",
+        "video": "https://www.youtube.com/watch?v=zJwkQ2rQJWM"
+      },
+      {
+        "player": "Chill Guy",
+        "range": "72.45 - 100",
+        "video": "https://www.youtube.com/watch?v=KJKza9jnLNs"
+      },
+      {
+        "player": "dewbbs",
+        "range": "12.23 - 24.07",
+        "video": "https://www.youtube.com/watch?v=su889NGsx-0"
+      },
+      {
+        "player": "NephroidGD",
+        "range": "15.6 - 26.09",
+        "video": "https://www.youtube.com/watch?v=UqrWQerHYgg"
+      },
+      {
+        "player": "aden",
+        "range": "16.16 - 28.96",
+        "video": "https://www.youtube.com/watch?v=oISb1IaZUvQ"
+      },
+      {
+        "player": "aden",
+        "range": "19.3 - 31.18",
+        "video": "https://www.youtube.com/watch?v=s7bfUgsJ3OE"
+      },
+      {
+        "player": "aden",
+        "range": "20.95 - 34.01",
+        "video": "https://www.youtube.com/watch?v=oISb1IaZUvQ"
+      },
+      {
+        "player": "Shock",
+        "range": "21.95 - 36.14",
+        "video": "https://www.youtube.com/watch?v=kXXHeffwXTk"
+      },
+      {
+        "player": "Shock",
+        "range": "23.16 - 40.68",
+        "video": "https://www.youtube.com/watch?v=Pn26xyBgzDk"
+      },
+      {
+        "player": "Aeter",
+        "range": "26.87 - 44.99",
+        "video": "https://www.youtube.com/watch?v=F2CJ6vIp2B0"
+      },
+      {
+        "player": "Aeter",
+        "range": "30.78 - 46",
+        "video": "https://www.youtube.com/watch?v=bih0ALh19aY"
+      },
+      {
+        "player": "Bacon",
+        "range": "67.91 - 100",
+        "video": "https://www.youtube.com/watch?v=Qckw6uNj6Es"
+      },
+      {
+        "player": "Shock",
+        "range": "66 - 83",
+        "video": null
+      },
+      {
+        "player": "Shock",
+        "range": "60.19 - 78.98",
+        "video": "https://www.youtube.com/watch?v=-tqt5cmkAyk"
+      },
+      {
+        "player": "Shock",
+        "range": "58.61 - 74.21",
+        "video": "https://www.youtube.com/watch?v=zJwkQ2rQJWM"
+      },
+      {
+        "player": "aden",
+        "range": "56.53 - 69.52",
+        "video": "https://www.youtube.com/watch?v=K980prP9sD4"
+      },
+      {
+        "player": "aden",
+        "range": "47 - 65",
+        "video": "https://www.youtube.com/watch?v=E99AdsE-eqw"
+      },
+      {
+        "player": "aden",
+        "range": "42.09 - 59.19",
+        "video": "https://www.youtube.com/watch?v=G_ZvIM2LvaY"
+      },
+      {
+        "player": "Lays",
+        "range": "36.39 - 49.65",
+        "video": "https://www.youtube.com/watch?v=SA1mHYJc0ms"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/LuC-ugaFVvs"
+  },
+  {
+    "rank": 30,
+    "name": "Raw Concrete",
+    "image": null,
+    "id": "124781978",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "SaitamaGD",
+        "range": "15.88",
+        "video": "https://www.youtube.com/watch?v=ilTNPIqeLT8"
+      },
+      {
+        "player": "Zepto",
+        "range": "11.76 - 19.62",
+        "video": "https://www.youtube.com/shorts/uuKXNaM62g8"
+      },
+      {
+        "player": "azxprovn",
+        "range": "19.42 - 27.4",
+        "video": "https://www.youtube.com/watch?v=ZGLL_cD3s98"
+      },
+      {
+        "player": "Xplode",
+        "range": "27.47- 35.4",
+        "video": "https://www.youtube.com/watch?v=ZGLL_cD3s98"
+      },
+      {
+        "player": "FlinGuSPluNkuS",
+        "range": "35.42 - 45.2",
+        "video": "https://www.youtube.com/watch?v=ZGLL_cD3s98"
+      },
+      {
+        "player": "Aresirix",
+        "range": "43.02 - 51.25",
+        "video": "https://www.youtube.com/watch?v=6ho1Tgz-tMA"
+      },
+      {
+        "player": "damian",
+        "range": "50.37 - 57.11",
+        "video": "https://www.youtube.com/watch?v=ZGLL_cD3s98"
+      },
+      {
+        "player": "SaitamaGD",
+        "range": "51.41 - 100",
+        "video": "https://www.youtube.com/watch?v=UJ7DLhMyk-U"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/5e15Gt_rP1g"
+  },
+  {
+    "rank": 31,
+    "name": "Wielkanoc",
+    "image": null,
+    "id": "113627998",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "RMGD",
+        "range": "22.34",
+        "video": "https://youtu.be/-UPqjoxGdz0"
+      },
+      {
+        "player": "NedShidder",
+        "range": "57.09 - 100",
+        "video": "https://youtu.be/paAGXhtD1DE"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/OGVzY5kA3jY"
+  },
+  {
+    "rank": 32,
+    "name": "AnNoYeD Machine",
+    "image": null,
+    "id": "88205968",
+    "accuracy": {
+      "value": "92.23",
+      "player": "ExpiredHam",
+      "video": "https://www.youtube.com/watch?v=mSI9SF-pjJk"
+    },
+    "deaths": {
+      "value": "120",
+      "player": "ExpiredHam",
+      "video": "https://www.youtube.com/watch?v=hqjg6Uxn98A"
+    },
+    "segments": [
+      {
+        "player": "BlueGamer",
+        "range": "9.6",
+        "video": "https://www.youtube.com/watch?v=m36xBHnSr8Q"
+      },
+      {
+        "player": "ExpiredHam",
+        "range": "7.7 - 12.7",
+        "video": "https://www.youtube.com/watch?v=swEAUjKNno8"
+      },
+      {
+        "player": "ExpiredHam",
+        "range": "12 - 14",
+        "video": "https://www.youtube.com/watch?v=KJOHmm6U5ys"
+      },
+      {
+        "player": "ExpiredHam",
+        "range": "14 - 19",
+        "video": "https://www.youtube.com/watch?v=KjrXIFFtnM0"
+      },
+      {
+        "player": "ExpiredHam",
+        "range": "18 - 25",
+        "video": "https://www.youtube.com/watch?v=cUGhTKVbSrc"
+      },
+      {
+        "player": "ExpiredHam",
+        "range": "24 - 30",
+        "video": "https://www.youtube.com/watch?v=4Kupms1cAxU"
+      },
+      {
+        "player": "ExpiredHam",
+        "range": "29 - 35",
+        "video": "https://www.youtube.com/watch?v=qOqtDpjLvgk"
+      },
+      {
+        "player": "ExpiredHam",
+        "range": "35 - 42",
+        "video": "https://www.youtube.com/watch?v=3Cg8IZ2vmPk"
+      },
+      {
+        "player": "ExpiredHam",
+        "range": "67 - 84",
+        "video": "https://www.youtube.com/watch?v=aE91CGKBYCY"
+      },
+      {
+        "player": "ExpiredHam",
+        "range": "83 - 88",
+        "video": "https://www.youtube.com/watch?v=YlFr2ID4qBI"
+      },
+      {
+        "player": "ExpiredHam",
+        "range": "95 - 100",
+        "video": "https://www.youtube.com/watch?v=XH8WL7dQc4M"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=YP-m6xaxdVs"
+  },
+  {
+    "rank": 33,
+    "name": "last stop",
+    "image": null,
+    "id": "64815983",
+    "accuracy": {
+      "value": "99.8",
+      "player": "aytch008",
+      "video": "https://youtu.be/FNRBXG2KC1U"
+    },
+    "deaths": {
+      "value": "5",
+      "player": "aytch008",
+      "video": "https://youtu.be/FNRBXG2KC1U"
+    },
+    "segments": [
+      {
+        "player": "aytch008",
+        "range": "55.72",
+        "video": "https://www.youtube.com/watch?v=NsvfAMQ0mRo"
+      },
+      {
+        "player": "aytch008",
+        "range": "37 - 100",
+        "video": "https://www.youtube.com/watch?v=Zx2tCV0YFTk"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=QyDnUJqBd60"
+  },
+  {
+    "rank": 34,
+    "name": "CorroZ",
+    "image": null,
+    "id": "86191664",
+    "accuracy": {
+      "value": "76.58",
+      "player": "wShock",
+      "video": "https://www.youtube.com/watch?v=z3kuuM2Fsso"
+    },
+    "deaths": {
+      "value": "47",
+      "player": "wShock",
+      "video": "https://www.youtube.com/watch?v=z3kuuM2Fsso"
+    },
+    "segments": [
+      {
+        "player": "Redacted Player #3",
+        "range": "47.40",
+        "video": "https://youtu.be/DSsVuOb4BuQ"
+      },
+      {
+        "player": "NcaT",
+        "range": "39.12 - 54.85",
+        "video": "https://youtu.be/8QtM3NfivSM?t=69"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "51 - 70",
+        "video": "https://discord.com/channels/1457970765365510158/1493765423798161479/1502422047404589097"
+      },
+      {
+        "player": "RMGD903",
+        "range": "70 - 70",
+        "video": "https://discord.com/channels/1457970765365510158/1517651125719798033/1517651125719798033"
+      },
+      {
+        "player": "NcaT",
+        "range": "70 - 100",
+        "video": "https://www.youtube.com/watch?v=vQN6_rsagA8"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=fiCwcuCl4c0"
+  },
+  {
+    "rank": 35,
+    "name": "Seoul Subway Station",
+    "image": null,
+    "id": "94159335",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Mentrillum",
+        "range": "25.22",
+        "video": "https://youtu.be/4km_fQzR4ag&t=475"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "14 - 38",
+        "video": "https://www.youtube.com/watch?v=MRr95-t-U98"
+      },
+      {
+        "player": "Psadream",
+        "range": "38.15 - 43.55",
+        "video": "https://discord.com/channels/1457970765365510158/1535558064009388033/1535558064009388033"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "41 - 64",
+        "video": "https://www.youtube.com/watch?v=MRr95-t-U98"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "59 - 73",
+        "video": "https://www.youtube.com/watch?v=MRr95-t-U98"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "85 - 100",
+        "video": "https://www.youtube.com/watch?v=MRr95-t-U98"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=p4-NUZO1Bg0"
+  },
+  {
+    "rank": 36,
+    "name": "Silent Circles II",
+    "image": null,
+    "id": "89364504",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Weiwot",
+        "range": "14",
+        "video": "https://youtu.be/BkIvos06z5E"
+      },
+      {
+        "player": "Emp",
+        "range": "14 - 19",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=15"
+      },
+      {
+        "player": "Emp",
+        "range": "18 - 25",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=19"
+      },
+      {
+        "player": "Emp",
+        "range": "24 - 45",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=24"
+      },
+      {
+        "player": "Emp",
+        "range": "43 - 50",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=41"
+      },
+      {
+        "player": "Emp",
+        "range": "49 - 50.6",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=47"
+      },
+      {
+        "player": "Emp",
+        "range": "50 - 66",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=48"
+      },
+      {
+        "player": "Emp",
+        "range": "64 - 69",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=59"
+      },
+      {
+        "player": "Emp",
+        "range": "68 - 70",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=63"
+      },
+      {
+        "player": "Emp",
+        "range": "69 - 75",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=64"
+      },
+      {
+        "player": "Emp",
+        "range": "74 - 76.3",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=67"
+      },
+      {
+        "player": "Emp",
+        "range": "76.3 - 76.7",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=68"
+      },
+      {
+        "player": "Emp",
+        "range": "76.7 - 76.9",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=68"
+      },
+      {
+        "player": "Emp",
+        "range": "76.9 - 78",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=68"
+      },
+      {
+        "player": "Emp",
+        "range": "77.9 - 79.1",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=69"
+      },
+      {
+        "player": "Emp",
+        "range": "78.9 - 80.2",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=69"
+      },
+      {
+        "player": "Emp",
+        "range": "80 - 86",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=70"
+      },
+      {
+        "player": "Emp",
+        "range": "85 - 100",
+        "video": "https://youtu.be/48yeiBVIcFY?si=7h8jCb9IBbj0idbL&t=77"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/2GCY2QN-T-c"
+  },
+  {
+    "rank": 37,
+    "name": "Kratos",
+    "image": null,
+    "id": "93320086",
+    "accuracy": {
+      "value": "94.55",
+      "player": "ziqqz",
+      "video": "https://youtu.be/AnAgX4G8SUk"
+    },
+    "deaths": {
+      "value": "81",
+      "player": "ziqqz",
+      "video": "https://youtu.be/AnAgX4G8SUk"
+    },
+    "segments": [
+      {
+        "player": "Gamerhaha42",
+        "range": "12.87",
+        "video": "https://www.youtube.com/watch?v=ZDop1wRuo_I"
+      },
+      {
+        "player": "ziqqz",
+        "range": "9.56 - 12.73",
+        "video": "https://youtu.be/aL3jnVTdN0Q"
+      },
+      {
+        "player": "ziqqz",
+        "range": "12.67 - 23",
+        "video": "https://www.youtube.com/watch?v=VqkPYyIGCXs"
+      },
+      {
+        "player": "ziqqz",
+        "range": "21.93 - 38.01",
+        "video": "https://youtu.be/aL3jnVTdN0Q"
+      },
+      {
+        "player": "NephroidGMD",
+        "range": "37.95 - 48.96",
+        "video": "https://www.youtube.com/watch?v=F2YOerFqyZA"
+      },
+      {
+        "player": "ziqqz",
+        "range": "45.6 - 55",
+        "video": "https://www.youtube.com/watch?v=VqkPYyIGCXs"
+      },
+      {
+        "player": "ziqqz",
+        "range": "54.61 - 57.48",
+        "video": "https://www.youtube.com/watch?v=VqkPYyIGCXs"
+      },
+      {
+        "player": "ziqqz",
+        "range": "57.48 - 58.51",
+        "video": "https://www.youtube.com/watch?v=VqkPYyIGCXs"
+      },
+      {
+        "player": "ziqqz",
+        "range": "58.51 - 59.71",
+        "video": "https://www.youtube.com/watch?v=VqkPYyIGCXs"
+      },
+      {
+        "player": "ziqqz",
+        "range": "59.71 - 62",
+        "video": "https://www.youtube.com/watch?v=VqkPYyIGCXs"
+      },
+      {
+        "player": "dewbbs",
+        "range": "60.33 - 91.55",
+        "video": "https://www.youtube.com/watch?v=ek5gc9IV1-M"
+      },
+      {
+        "player": "ziqqz",
+        "range": "85.86 - 100",
+        "video": "https://www.youtube.com/watch?v=HjKqdxVWy8s"
+      },
+      {
+        "player": "ziqqz",
+        "range": "10.76",
+        "video": "https://www.youtube.com/watch?v=KdPrvNqbSEE"
+      },
+      {
+        "player": "ziqqz",
+        "range": "37.94 - 40.86",
+        "video": "https://www.youtube.com/watch?v=fjlWmx4kWcs"
+      },
+      {
+        "player": "ziqqz",
+        "range": "40.86 - 46",
+        "video": "https://www.youtube.com/watch?v=VqkPYyIGCXs"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=uLN_Of9HtQg"
+  },
+  {
+    "rank": 38,
+    "name": "Angelicide (Druki)",
+    "image": null,
+    "id": "102135018",
+    "accuracy": {
+      "value": "99.75",
+      "player": "Xtra8Nuggies",
+      "video": "https://www.youtube.com/watch?v=hnE5T6aHhlg"
+    },
+    "deaths": {
+      "value": "13",
+      "player": "Xtra8Nuggies",
+      "video": "https://www.youtube.com/watch?v=hnE5T6aHhlg"
+    },
+    "segments": [
+      {
+        "player": "Xtra8Nuggies",
+        "range": "37.62",
+        "video": "https://www.youtube.com/watch?v=P3V-UN2HveA"
+      },
+      {
+        "player": "Xtra8Nuggies",
+        "range": "37.17 - 82.6",
+        "video": "https://www.youtube.com/watch?v=-ZBZAt2QH88"
+      },
+      {
+        "player": "Xtra8Nuggies",
+        "range": "68.35 - 100",
+        "video": "https://www.youtube.com/watch?v=pLtBjiOf5GM"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=RYilXu3xBag"
+  },
+  {
+    "rank": 39,
+    "name": "Vehemence",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "A6",
+        "range": "41.5",
+        "video": null
+      },
+      {
+        "player": "A6",
+        "range": "40.72 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 40,
+    "name": "Rub the Wrong Way",
+    "image": null,
+    "id": "68043079",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Emp",
+        "range": "8.72",
+        "video": "https://discord.com/channels/1457970765365510158/1522401898379083847/1522597498474991636"
+      },
+      {
+        "player": "Emp",
+        "range": "7 - 16",
+        "video": "https://discord.com/channels/1457970765365510158/1522401898379083847/1522597498474991636"
+      },
+      {
+        "player": "cameronong",
+        "range": "16.28 - 20.91",
+        "video": "https://discord.com/channels/1457970765365510158/1522401898379083847/1522605695902547982"
+      },
+      {
+        "player": "Emp",
+        "range": "19 - 27",
+        "video": "https://discord.com/channels/1457970765365510158/1522401898379083847/1522597498474991636"
+      },
+      {
+        "player": "cameronong",
+        "range": "26.78 - 31.37",
+        "video": "https://discord.com/channels/1457970765365510158/1522401898379083847/1522607005959721020"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=id-FuOLbrpo"
+  },
+  {
+    "rank": 41,
+    "name": "Azure Flare (VERTOP)",
+    "image": null,
+    "id": "97429207",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "VERTOP",
+        "range": "49",
+        "video": "https://youtu.be/PeT5GAsu-rM"
+      },
+      {
+        "player": "VERTOP",
+        "range": "44 - 100",
+        "video": "https://youtu.be/5C4xbt-yIeQ"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=wNzHFGg4Dqs"
+  },
+  {
+    "rank": 42,
+    "name": "ReTraY WaVe",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Caleger",
+        "range": "31",
+        "video": null
+      },
+      {
+        "player": "Caleger",
+        "range": "25 - 53",
+        "video": null
+      },
+      {
+        "player": "Caleger",
+        "range": "45 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 43,
+    "name": "Silent Machine",
+    "image": null,
+    "id": "90261044",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "SeptaGon7",
+        "range": "39",
+        "video": "https://www.youtube.com/watch?v=oHXOKxpym50"
+      },
+      {
+        "player": "SeptaGon7",
+        "range": "36 - 66",
+        "video": "https://www.youtube.com/watch?v=oHXOKxpym50"
+      },
+      {
+        "player": "SeptaGon7",
+        "range": "65 - 78",
+        "video": "https://www.youtube.com/watch?v=oHXOKxpym50"
+      },
+      {
+        "player": "SeptaGon7",
+        "range": "75 - 100",
+        "video": "https://www.youtube.com/watch?v=oHXOKxpym50"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=oHXOKxpym50"
+  },
+  {
+    "rank": 44,
+    "name": "Planet X",
+    "image": null,
+    "id": "76113045",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "qwertyokbomb",
+        "range": "29.84",
+        "video": "https://www.youtube.com/watch?v=Gla7ytw3HfI"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "24 - 30",
+        "video": "https://www.youtube.com/watch?v=TH5k3tyeHxo"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "45 - 50",
+        "video": "https://www.youtube.com/watch?v=TH5k3tyeHxo"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "59 - 63",
+        "video": "https://www.youtube.com/watch?v=sJNz3m7vB38"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "71 - 78",
+        "video": "https://www.youtube.com/watch?v=TH5k3tyeHxo"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=yn3utttZP9c"
+  },
+  {
+    "rank": 45,
+    "name": "ANTIUTOPIA",
+    "image": null,
+    "id": "78662821",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "SeptaGon7",
+        "range": "24",
+        "video": "https://www.youtube.com/watch?v=KbM5aaZSD6U"
+      },
+      {
+        "player": "AstralNova",
+        "range": "23.63 - 27.19",
+        "video": "https://www.youtube.com/watch?v=tJivuz5ASoo"
+      },
+      {
+        "player": "f65",
+        "range": "25 - 38",
+        "video": "https://www.youtube.com/watch?v=NzR2Sf3CneY"
+      },
+      {
+        "player": "f65",
+        "range": "32 - 47",
+        "video": "https://www.youtube.com/watch?v=EXpVOda9dqg"
+      },
+      {
+        "player": "f65",
+        "range": "44 - 51",
+        "video": "https://www.youtube.com/watch?v=EXpVOda9dqg"
+      },
+      {
+        "player": "f65",
+        "range": "51 - 56",
+        "video": "https://www.youtube.com/watch?v=EXpVOda9dqg"
+      },
+      {
+        "player": "f65",
+        "range": "55 - 59",
+        "video": "https://www.youtube.com/watch?v=EXpVOda9dqg"
+      },
+      {
+        "player": "f65",
+        "range": "59 - 64",
+        "video": "https://www.youtube.com/watch?v=EXpVOda9dqg"
+      },
+      {
+        "player": "f65",
+        "range": "63 - 73",
+        "video": "https://www.youtube.com/watch?v=EXpVOda9dqg"
+      },
+      {
+        "player": "f65",
+        "range": "68 - 77",
+        "video": "https://www.youtube.com/watch?v=EXpVOda9dqg"
+      },
+      {
+        "player": "f65",
+        "range": "77 - 83",
+        "video": "https://www.youtube.com/watch?v=EXpVOda9dqg"
+      },
+      {
+        "player": "f65",
+        "range": "82 - 100",
+        "video": "https://www.youtube.com/watch?v=fb0TNlAAir0"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=TzKdMJobK58"
+  },
+  {
+    "rank": 46,
+    "name": "Merry Christmas ILL",
+    "image": null,
+    "id": "66000734",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "SeptaGon7",
+        "range": "24",
+        "video": "https://youtu.be/DEDAcuXwKzg"
+      },
+      {
+        "player": "SeptaGon7",
+        "range": "21 - 43",
+        "video": "https://youtu.be/DEDAcuXwKzg"
+      },
+      {
+        "player": "SeptaGon7",
+        "range": "31 - 61",
+        "video": "https://files.catbox.moe/e2dxbz.mp4"
+      },
+      {
+        "player": "SeptaGon7",
+        "range": "60 - 80",
+        "video": "https://files.catbox.moe/qr83m1.mp4"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=WkVjQBznDEk"
+  },
+  {
+    "rank": 47,
+    "name": "Heliopolis",
+    "image": null,
+    "id": "136530685",
+    "accuracy": {
+      "value": "99.92",
+      "player": "Bradenbowl",
+      "video": "https://www.youtube.com/watch?v=BRq0zK20jzg"
+    },
+    "deaths": {
+      "value": "16",
+      "player": "Bradenbowl",
+      "video": "https://www.youtube.com/watch?v=BRq0zK20jzg"
+    },
+    "segments": [
+      {
+        "player": "Zoink",
+        "range": "85.26",
+        "video": "https://youtu.be/Hld_6Bmzu8M"
+      },
+      {
+        "player": "Zoink",
+        "range": "37.84 - 100",
+        "video": "https://www.youtube.com/watch?v=8U0NPdsK8s4&t=5873s"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=gO1nQECPU2I"
+  },
+  {
+    "rank": 48,
+    "name": "Exasperation",
+    "image": null,
+    "id": "31325851",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Zoink",
+        "range": "67.19",
+        "video": "https://youtu.be/vomRQRxmJpY"
+      },
+      {
+        "player": "Zoink",
+        "range": "65.76 - 100",
+        "video": "https://youtu.be/OCyCMPj_RIQ"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=lZ4h_abya4I"
+  },
+  {
+    "rank": 49,
+    "name": "Silent AcropoliX",
+    "image": null,
+    "id": "20846131",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "SeptaGon7",
+        "range": "51",
+        "video": "https://www.youtube.com/watch?v=KCX1UHsCG-g"
+      },
+      {
+        "player": "SeptaGon7",
+        "range": "66 - 79",
+        "video": "https://files.catbox.moe/tcmqsk.mp4"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=BrEuDSpVD_A"
+  },
+  {
+    "rank": 50,
+    "name": "KOCMOC UNLEASHED",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Arshadow",
+        "range": "69.77",
+        "video": null
+      },
+      {
+        "player": "Arshadow",
+        "range": "49 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 51,
+    "name": "Sakupen Disco",
+    "image": null,
+    "id": "112734698",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "TosGD",
+        "range": "42.21",
+        "video": "https://www.youtube.com/watch?v=-gGCm3cB3JM"
+      },
+      {
+        "player": "TosGD",
+        "range": "77.7 - 100",
+        "video": "https://www.youtube.com/watch?v=kJd6gp_yNsM"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=JcW4OBwrw1U"
+  },
+  {
+    "rank": 52,
+    "name": "MINUS WORLD",
+    "image": null,
+    "id": "77875682",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "snowspike",
+        "range": "69",
+        "video": "https://www.youtube.com/watch?v=NGSigVwuDUg"
+      },
+      {
+        "player": "seels",
+        "range": "67 - 91",
+        "video": "https://youtu.be/0DeOECkdgbY"
+      },
+      {
+        "player": "seels",
+        "range": "86 - 100",
+        "video": "https://www.youtube.com/watch?v=wr00Ao2561s"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/u3PoO-htVbE"
+  },
+  {
+    "rank": 53,
+    "name": "Slaughter Machine",
+    "image": null,
+    "id": "106485780",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "HaloZombies",
+        "range": "10.85",
+        "video": "https://www.youtube.com/watch?v=hHNZ5LdyX88"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "10.58 - 13.53",
+        "video": "https://www.youtube.com/watch?v=hHNZ5LdyX88"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "12.55 - 15",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "13.78 - 18.9",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "17.01 - 20.6",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "20.32 - 22.5",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "21.87 - 35.9",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "35.15 - 38.2",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "37.81 - 43.4",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "41.06 - 46.6",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "44.81 - 51",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "50.23 - 53.4",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "52.79 - 65.6",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "65.12 - 69.7",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "69.2 - 70.9",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "70.79 - 73.4",
+        "video": "https://www.youtube.com/watch?v=JNbUc03qIU0"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "71.54 - 76.73",
+        "video": "https://www.youtube.com/watch?v=6uKMsF0BZYI"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "74.06 - 81.33",
+        "video": "https://www.youtube.com/watch?v=AlcXOE8l8sw"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "77 - 82.5",
+        "video": "https://www.youtube.com/watch?v=AlcXOE8l8sw"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "81.98 - 86.73",
+        "video": "https://www.youtube.com/watch?v=6uKMsF0BZYI"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "84.54 - 93.65",
+        "video": "https://www.youtube.com/watch?v=AlcXOE8l8sw"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "88.73 - 100",
+        "video": "https://www.youtube.com/watch?v=AlcXOE8l8sw"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=bZRZQw-sbNQ"
+  },
+  {
+    "rank": 54,
+    "name": "Hypnosis",
+    "image": null,
+    "id": "72829529",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "OverGD",
+        "range": "23.96",
+        "video": "https://youtu.be/Oep6omjGyvA?t=4402"
+      },
+      {
+        "player": "OverGD",
+        "range": "10 - 46",
+        "video": "https://youtu.be/xJ2zOpf-KL0?t=1017"
+      },
+      {
+        "player": "OverGD",
+        "range": "40 - 65",
+        "video": "https://www.youtube.com/watch?v=Oep6omjGyvA"
+      },
+      {
+        "player": "GD FreNex",
+        "range": "59 - 100",
+        "video": "https://www.youtube.com/watch?v=TSxHN9O7_7E"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=3K9rvyFb5cg"
+  },
+  {
+    "rank": 55,
+    "name": "Sweeping Demon 2",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Taiago",
+        "range": "86.8",
+        "video": null
+      },
+      {
+        "player": "Taiago",
+        "range": "39.3 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 56,
+    "name": "OneMoreAttempt",
+    "image": null,
+    "id": "131249343",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "GeoDom85",
+        "range": "15.87",
+        "video": "https://www.youtube.com/watch?v=MVkIrsBiI8s"
+      },
+      {
+        "player": "4498r",
+        "range": "12.5 - 19.1",
+        "video": "https://www.youtube.com/watch?v=4JOABTgrGI8"
+      },
+      {
+        "player": "kerfuffles",
+        "range": "18.7 - 22.7",
+        "video": "https://youtu.be/ao9G-Hw838I?t=1088"
+      },
+      {
+        "player": "kerfuffles",
+        "range": "21.2 - 25",
+        "video": "https://youtu.be/ao9G-Hw838I?t=1088"
+      },
+      {
+        "player": "kerfuffles",
+        "range": "23.9 - 27",
+        "video": "https://youtu.be/ao9G-Hw838I?t=1392"
+      },
+      {
+        "player": "Bain8renn",
+        "range": "26.87 - 38.6",
+        "video": "https://www.youtube.com/watch?v=M-ROAK1UikI"
+      },
+      {
+        "player": "Fooaffe",
+        "range": "37 - 43",
+        "video": "https://www.youtube.com/watch?v=kC5AXRWoBQM"
+      },
+      {
+        "player": "Fooaffe",
+        "range": "42.64 - 47.69",
+        "video": "https://www.youtube.com/watch?v=sAWcgP6S6R8"
+      },
+      {
+        "player": "Bain8renn",
+        "range": "46.92 - 53.11",
+        "video": "https://www.youtube.com/watch?v=ZQ1Lq4YQ8BE&t=398s"
+      },
+      {
+        "player": "Fooaffe",
+        "range": "52 - 56",
+        "video": "https://www.youtube.com/watch?v=TCPRNv6N5Ws"
+      },
+      {
+        "player": "4498r",
+        "range": "55.7 - 59.7",
+        "video": "https://www.youtube.com/watch?v=xv3te30OScU"
+      },
+      {
+        "player": "4498r",
+        "range": "59.27 - 67.84",
+        "video": "https://www.youtube.com/watch?v=MQTu_v_TuW4"
+      },
+      {
+        "player": "Bain8renn",
+        "range": "65.67 - 70.75",
+        "video": "https://www.youtube.com/watch?v=nwyeS8sNCXg"
+      },
+      {
+        "player": "4498r",
+        "range": "69.7 - 73.5",
+        "video": "https://www.youtube.com/watch?v=D7hkqY6KYQU"
+      },
+      {
+        "player": "Fooaffe",
+        "range": "73 - 78",
+        "video": "https://www.youtube.com/watch?v=mWre8EozhmU"
+      },
+      {
+        "player": "Fooaffe",
+        "range": "78 - 83",
+        "video": "https://www.youtube.com/watch?v=LNWTGAxXnSQ"
+      },
+      {
+        "player": "Fooaffe",
+        "range": "82 - 91",
+        "video": "https://www.youtube.com/watch?v=OmZBhdFb1Wg"
+      },
+      {
+        "player": "Bain8renn",
+        "range": "90 - 95.86",
+        "video": "https://www.youtube.com/watch?v=ZQ1Lq4YQ8BE"
+      },
+      {
+        "player": "Fooaffe",
+        "range": "95 - 100",
+        "video": "https://www.youtube.com/watch?v=1kpLhiyFbu0"
+      },
+      {
+        "player": "4498r",
+        "range": "28.74 - 45.84",
+        "video": "https://www.youtube.com/watch?v=k-bSs1fSUF8 "
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=ZYTwTUlO0nk"
+  },
+  {
+    "rank": 57,
+    "name": "Orochi",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "kenze",
+        "range": "TBA",
+        "video": null
+      },
+      {
+        "player": "yoyka",
+        "range": "TBA",
+        "video": null
+      },
+      {
+        "player": "vway",
+        "range": "TBA",
+        "video": null
+      },
+      {
+        "player": "Nickname",
+        "range": "TBA",
+        "video": null
+      },
+      {
+        "player": "ItzDovi",
+        "range": "22.59 - 29.34",
+        "video": null
+      },
+      {
+        "player": "Dils Thik",
+        "range": "TBA",
+        "video": null
+      },
+      {
+        "player": "Faneria",
+        "range": "TBA",
+        "video": null
+      },
+      {
+        "player": "A6",
+        "range": "TBA",
+        "video": null
+      },
+      {
+        "player": "Arshadow",
+        "range": "50.6 - 61.7",
+        "video": null
+      },
+      {
+        "player": "ROZE",
+        "range": "TBA",
+        "video": null
+      },
+      {
+        "player": "teraaa",
+        "range": "TBA",
+        "video": null
+      },
+      {
+        "player": "Citrus",
+        "range": "TBA",
+        "video": null
+      },
+      {
+        "player": "Bleamer",
+        "range": "81.82 - 86.6",
+        "video": null
+      },
+      {
+        "player": "w3rty",
+        "range": "86 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 58,
+    "name": "Artemis 13 (Aug. 2026)",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Zoink",
+        "range": "83",
+        "video": null
+      },
+      {
+        "player": "Zoink",
+        "range": "40 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 59,
+    "name": "Society",
+    "image": null,
+    "id": "127323087",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Zoink",
+        "range": "100",
+        "video": null
+      }
+    ],
+    "benchmark": true,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 60,
+    "name": "Eternal Silence",
+    "image": null,
+    "id": "83476262",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Redacted Player #3",
+        "range": "25.51",
+        "video": "https://youtu.be/77XTJygWKQ4"
+      },
+      {
+        "player": "Dark GD",
+        "range": "24.37 - 31.99",
+        "video": "https://youtu.be/m5-5lTimn5o?t=55"
+      },
+      {
+        "player": "Dark GD",
+        "range": "31.92 - 51.47",
+        "video": "https://youtu.be/m5-5lTimn5ot?=60"
+      },
+      {
+        "player": "Infinny",
+        "range": "49.07 - 72.22",
+        "video": "https://youtu.be/fof0TCL-XMU"
+      },
+      {
+        "player": "Emp",
+        "range": "70.48 - 100",
+        "video": "https://youtu.be/9eb4AuGInTI"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/CwCfTVxTtB0"
+  },
+  {
+    "rank": 61,
+    "name": "Silent Acropolis (The Purgatory)",
+    "image": null,
+    "id": "111237270",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Hover",
+        "range": "84",
+        "video": "https://youtu.be/0M-cjzSJY7s"
+      },
+      {
+        "player": "Hover",
+        "range": "35 - 100",
+        "video": "https://youtu.be/SrVT0dXdEig"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 62,
+    "name": "Banshee",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "spcreat",
+        "range": "77.98",
+        "video": null
+      },
+      {
+        "player": "spcreat",
+        "range": "21.84 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 63,
+    "name": "Tunnel of Serpent",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "serpentical",
+        "range": "58.35",
+        "video": null
+      },
+      {
+        "player": "serpentical",
+        "range": "33.95 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 64,
+    "name": "True Unnerfed Slaughterhouse",
+    "image": null,
+    "id": "77618325",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Reapavon",
+        "range": "26.63",
+        "video": "https://www.tiktok.com/@reapavon/video/7587228268038966545"
+      },
+      {
+        "player": "sloppert",
+        "range": "25.39 - 50.38",
+        "video": "https://www.youtube.com/watch?v=IHl5zCgyymA"
+      },
+      {
+        "player": "jamalhebeeb",
+        "range": "49 - 79",
+        "video": "https://www.youtube.com/watch?v=Cs84u85BU78"
+      },
+      {
+        "player": "Doggie",
+        "range": "57.95 - 100",
+        "video": "https://www.youtube.com/watch?v=K9lvtCzjHWU"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=2hhspsXN_Ts"
+  },
+  {
+    "rank": 65,
+    "name": "SILENT UNKNOWN",
+    "image": null,
+    "id": "92145306",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Chill Guy",
+        "range": "23.28",
+        "video": "https://www.youtube.com/watch?v=kPVuqLpRMK0"
+      },
+      {
+        "player": "Chill Guy",
+        "range": "12.79 - 39.36",
+        "video": "https://www.youtube.com/watch?v=kPVuqLpRMK0"
+      },
+      {
+        "player": "PYRO",
+        "range": "43.01 - 52.54",
+        "video": "https://www.youtube.com/watch?v=QSAam-UtX1Y"
+      },
+      {
+        "player": "Scarlett",
+        "range": "51.15 - 57.2",
+        "video": "https://www.youtube.com/watch?v=eC290OFvzHw"
+      },
+      {
+        "player": "Scarlett",
+        "range": "56.91 - 63.76",
+        "video": "https://www.youtube.com/watch?v=eC290OFvzHw"
+      },
+      {
+        "player": "SevenTrack",
+        "range": "63.65 - 70.4",
+        "video": "https://www.youtube.com/watch?v=4WAcQ05FiSc"
+      },
+      {
+        "player": "SevenTrack",
+        "range": "69.7 - 79.21",
+        "video": "https://www.youtube.com/watch?v=t1rBoE0x4RU"
+      },
+      {
+        "player": "Scarlett",
+        "range": "76.15 - 84.33",
+        "video": "https://www.youtube.com/watch?v=eC290OFvzHw"
+      },
+      {
+        "player": "Scarlett",
+        "range": "84.19 - 100",
+        "video": "https://www.youtube.com/watch?v=eC290OFvzHw"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=gWMuq30bXVg"
+  },
+  {
+    "rank": 66,
+    "name": "Silent Clubstep II",
+    "image": null,
+    "id": "78614226",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "SkittleCatastrophe",
+        "range": "31",
+        "video": "https://www.youtube.com/watch?v=QxQmap48MDA"
+      },
+      {
+        "player": "SkittleCatastrophe",
+        "range": "27 - 43",
+        "video": "https://youtu.be/RMEhwJGnjok"
+      },
+      {
+        "player": "SkittleCatastrophe",
+        "range": "38.1 - 100",
+        "video": "https://www.youtube.com/watch?v=rBt_b74VC1s"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=RMEhwJGnjok"
+  },
+  {
+    "rank": 67,
+    "name": "Sweeping Demon",
+    "image": null,
+    "id": "54419063",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Makia",
+        "range": "37.1",
+        "video": "https://www.youtube.com/watch?v=CiJV10gjtao"
+      },
+      {
+        "player": "Ex3m4ik",
+        "range": "56.21 - 65.06",
+        "video": "https://www.youtube.com/watch?v=xnys8Usn_6Y"
+      },
+      {
+        "player": "Sanni",
+        "range": "68.13 - 100",
+        "video": "https://www.youtube.com/watch?v=Hq4ZnjysnHE"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 68,
+    "name": "Silent Clubstep (Unnerfed)",
+    "image": null,
+    "id": "38692301",
+    "accuracy": {
+      "value": "100",
+      "player": "noname228g",
+      "video": "https://youtu.be/oqo6Pk72KQo"
+    },
+    "deaths": {
+      "value": "1",
+      "player": "noname228g",
+      "video": "https://youtu.be/oqo6Pk72KQo"
+    },
+    "segments": [
+      {
+        "player": "noname228gg",
+        "range": "74",
+        "video": "https://www.youtube.com/watch?v=by88qCcfKkM"
+      },
+      {
+        "player": "Chiikawa",
+        "range": "4.9 - 100",
+        "video": "https://www.youtube.com/watch?v=8KthiYsTvlU"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/mTkrql917bE"
+  },
+  {
+    "rank": 69,
+    "name": "TitanoMachina",
+    "image": null,
+    "id": "35576286",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "WatchPiggy",
+        "range": "30",
+        "video": "https://www.youtube.com/watch?v=ZrPJG4wQFHA"
+      },
+      {
+        "player": "WatchPiggy",
+        "range": "15 - 48",
+        "video": "https://www.youtube.com/watch?v=4JKB3nzVQfg"
+      },
+      {
+        "player": "WatchPiggy",
+        "range": "60 - 99",
+        "video": "https://www.youtube.com/watch?v=m9XQjpVRZsk"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=1dxvCd82AnA"
+  },
+  {
+    "rank": 70,
+    "name": "DIABLO FATE Z (Old)",
+    "image": null,
+    "id": "84258382",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "SeptaGon7",
+        "range": "32",
+        "video": "https://www.youtube.com/watch?v=B50rE2J-hmg"
+      },
+      {
+        "player": "Thebacon_gamer",
+        "range": "31.83 - 45.01",
+        "video": "https://www.youtube.com/watch?v=RhNenUr9Du4"
+      },
+      {
+        "player": "Hipo",
+        "range": "36.59 - 100",
+        "video": "https://www.youtube.com/watch?v=gdJToAFW6OE"
+      },
+      {
+        "player": "Thebacon_gamer",
+        "range": "78.67 - 100",
+        "video": "https://www.youtube.com/watch?v=RhNenUr9Du4"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=TobzR5mxwCg"
+  },
+  {
+    "rank": 71,
+    "name": "H3ll Phase",
+    "image": null,
+    "id": "96685319",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "total",
+        "range": "40.51",
+        "video": "https://youtu.be/FITTL70BVNE?t=15364"
+      },
+      {
+        "player": "total",
+        "range": "33.07 - 52.02",
+        "video": "https://youtu.be/FITTL70BVNE?t=14199"
+      },
+      {
+        "player": "total",
+        "range": "51 - 67",
+        "video": "https://youtu.be/isUWx5Mc0Q4?si=nnRQBdzozRFJ11p3&t=29"
+      },
+      {
+        "player": "total",
+        "range": "63.24 - 100",
+        "video": "https://www.youtube.com/live/NNVeaTsqEW4?si=mvdlcmmy_11ULR0r&t=8695"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/dIZX_nkG4wg"
+  },
+  {
+    "rank": 72,
+    "name": "Ascension to Heaven (Layout)",
+    "image": null,
+    "id": "76046475",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Gabozo",
+        "range": "24",
+        "video": null
+      },
+      {
+        "player": "Angel",
+        "range": "11.97 - 31.24",
+        "video": "https://www.youtube.com/watch?v=XarJkvzW6CU"
+      },
+      {
+        "player": "foruhn",
+        "range": "29.49 - 54.56",
+        "video": "https://www.youtube.com/watch?v=MJ-Eua9f1ts"
+      },
+      {
+        "player": "foruhn",
+        "range": "53.58 - 72.77",
+        "video": "https://www.youtube.com/watch?v=031Ev0UVAnQ"
+      },
+      {
+        "player": "Anchored",
+        "range": "72.31 - 75.53",
+        "video": "https://discord.com/channels/1268386437116465205/1539476089053646908/1539574624742940692"
+      },
+      {
+        "player": "Matsuba",
+        "range": "74 - 92",
+        "video": "https://www.youtube.com/watch?v=EuaFfgmRdW4"
+      },
+      {
+        "player": "TheDerpShark",
+        "range": "78 - 100",
+        "video": "https://www.youtube.com/watch?v=aLVHj8PbD8w"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 73,
+    "name": "IT MEANS EVERYTHING",
+    "image": null,
+    "id": "106165639",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Waltty",
+        "range": "61.91",
+        "video": "https://youtu.be/wtsiiTzQ5jQ"
+      },
+      {
+        "player": "Quivert",
+        "range": "38.04 - 100",
+        "video": "https://youtu.be/yCyuzPl-pGc"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=9nSkkXZ628E"
+  },
+  {
+    "rank": 74,
+    "name": "Misanthrope (Layout)",
+    "image": null,
+    "id": "60284876",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "iliLaserili",
+        "range": "48",
+        "video": "https://youtu.be/JMCxwvWTtdQ"
+      },
+      {
+        "player": "BigMacGd",
+        "range": "44 - 100",
+        "video": "https://youtu.be/HkZFGcPWwQw"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=4dSDwpuBnCc"
+  },
+  {
+    "rank": 75,
+    "name": "hauntedhouse",
+    "image": null,
+    "id": "77984980",
+    "accuracy": {
+      "value": "98.54",
+      "player": "yoloapplesauce",
+      "video": "https://www.youtube.com/watch?v=IchQRyTU5jY"
+    },
+    "deaths": {
+      "value": "71",
+      "player": "yoloapplesauce",
+      "video": "https://www.youtube.com/watch?v=IchQRyTU5jY"
+    },
+    "segments": [
+      {
+        "player": "Clare",
+        "range": "17.73",
+        "video": "https://www.youtube.com/watch?v=EOjlKuMhXzs"
+      },
+      {
+        "player": "taro",
+        "range": "12.8 - 24",
+        "video": "https://youtu.be/3yQ0Qa7YAaQ"
+      },
+      {
+        "player": "Clare",
+        "range": "20.7 - 39.81",
+        "video": "https://www.youtube.com/watch?v=medCOKUgqRs"
+      },
+      {
+        "player": "taro",
+        "range": "30 - 45",
+        "video": "https://youtu.be/3yQ0Qa7YAaQ"
+      },
+      {
+        "player": "taro",
+        "range": "45 - 63",
+        "video": "https://youtu.be/3yQ0Qa7YAaQ"
+      },
+      {
+        "player": "taro",
+        "range": "60 - 70",
+        "video": "https://youtu.be/3yQ0Qa7YAaQ"
+      },
+      {
+        "player": "taro",
+        "range": "67 - 80",
+        "video": "https://youtu.be/3yQ0Qa7YAaQ"
+      },
+      {
+        "player": "taro",
+        "range": "80 - 94",
+        "video": "https://youtu.be/3yQ0Qa7YAaQ"
+      },
+      {
+        "player": "taro",
+        "range": "92 - 100",
+        "video": "https://youtu.be/3yQ0Qa7YAaQ"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/KvrJ-1jjW1Y"
+  },
+  {
+    "rank": 76,
+    "name": "KEROSENE",
+    "image": null,
+    "id": "125624656",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Waltty",
+        "range": "23.97",
+        "video": "https://www.youtube.com/watch?v=bLrhB7T0H4Q"
+      },
+      {
+        "player": "LucyBebee",
+        "range": "19.68 - 30.65",
+        "video": null
+      },
+      {
+        "player": "LucyBebee",
+        "range": "30.15 - 44.67",
+        "video": "https://www.youtube.com/watch?v=2Wi9UKIVtgE"
+      },
+      {
+        "player": "ShoreGD",
+        "range": "36.54 - 48.82",
+        "video": "https://www.youtube.com/watch?v=2Wi9UKIVtgE"
+      },
+      {
+        "player": "LucyBebee",
+        "range": "44.34 - 67.77",
+        "video": "https://www.youtube.com/watch?v=IARkzHvYmIQ"
+      },
+      {
+        "player": "crystal",
+        "range": "62.24 - 71.4",
+        "video": "https://www.youtube.com/watch?v=FcXMYMS_0ks"
+      },
+      {
+        "player": "ShoreGD",
+        "range": "78.31 - 84.58",
+        "video": "https://www.youtube.com/watch?v=pyv26yurUag"
+      },
+      {
+        "player": "Thebacon_gamer",
+        "range": "89.6 - 95.99",
+        "video": "https://www.youtube.com/watch?v=T89vpnrGdXY"
+      },
+      {
+        "player": "Lobst3r",
+        "range": "91.35 - 100",
+        "video": "https://www.youtube.com/watch?v=dm9td8ou17s"
+      },
+      {
+        "player": "LucyBebee",
+        "range": "30.65",
+        "video": "https://www.youtube.com/watch?v=EBL0fKduejA"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=3EkncqsD4ds"
+  },
+  {
+    "rank": 77,
+    "name": "Energy Wave",
+    "image": null,
+    "id": "130734729",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "lolwut",
+        "range": "23",
+        "video": "https://www.youtube.com/watch?v=KMhUCXyUHVs"
+      },
+      {
+        "player": "lolwut",
+        "range": "46 - 58",
+        "video": "https://youtu.be/PYCSbl3fycM?si=QaAVzR3Ab5fzRIxw&t=50"
+      },
+      {
+        "player": "lolwut",
+        "range": "57 - 83",
+        "video": "https://youtu.be/PYCSbl3fycM?si=nwVxQzQj0p0iSl79&t=68"
+      },
+      {
+        "player": "Shinda",
+        "range": "85.53 - 100",
+        "video": "https://discord.com/channels/1457970765365510158/1501458370085912699/1516323583020761119"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=PtsyAeDLSws"
+  },
+  {
+    "rank": 78,
+    "name": "Illusion of Chaos",
+    "image": null,
+    "id": "117897179",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "snowspike",
+        "range": "66",
+        "video": "https://www.youtube.com/watch?v=RQeunZlNUVQ"
+      },
+      {
+        "player": "Redacted Player #1",
+        "range": "65 - 92",
+        "video": "https://www.youtube.com/watch?v=MgSFL860NAE"
+      },
+      {
+        "player": "Redacted Player #1",
+        "range": "73 - 100",
+        "video": "https://www.youtube.com/watch?v=dXuHAzTMWmw"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=G0QqSkuzSdk"
+  },
+  {
+    "rank": 79,
+    "name": "Acheron (Riot)",
+    "image": null,
+    "id": "82758705",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "klimk",
+        "range": "91.23",
+        "video": "https://youtu.be/1iPfNs7crzw"
+      },
+      {
+        "player": "klimk",
+        "range": "23.61 - 100",
+        "video": "https://youtu.be/afRXOzUEADo"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/Pui-sfRR_kQ"
+  },
+  {
+    "rank": 80,
+    "name": "silent Acropolis (Unnerfed)",
+    "image": null,
+    "id": "83143127",
+    "accuracy": {
+      "value": "99.98",
+      "player": "SeptaGon7",
+      "video": "https://www.youtube.com/watch?v=_jMOzGp3Bh8"
+    },
+    "deaths": {
+      "value": "3",
+      "player": "SeptaGon7",
+      "video": "https://www.youtube.com/watch?v=_jMOzGp3Bh8"
+    },
+    "segments": [
+      {
+        "player": "SeptaGon7",
+        "range": "66",
+        "video": "https://youtu.be/4oV6fgdo4Eo"
+      },
+      {
+        "player": "SeptaGon7",
+        "range": "27 - 100",
+        "video": "https://youtu.be/v56IEBLz5f4"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/PZ6EjmesjVE"
+  },
+  {
+    "rank": 81,
+    "name": "FAIRY KNIFE HELL",
+    "image": null,
+    "id": "111680151",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Cuatrocientos",
+        "range": "37.2",
+        "video": "https://www.youtube.com/watch?v=Ub01LmysEdU"
+      },
+      {
+        "player": "enzollz",
+        "range": "31 - 54",
+        "video": "https://www.youtube.com/watch?v=F-SxpVAZW4U"
+      },
+      {
+        "player": "enzollz",
+        "range": "42 - 59",
+        "video": "https://www.youtube.com/watch?v=svciy2WmvEs"
+      },
+      {
+        "player": "Anceps",
+        "range": "57.39 - 63.08",
+        "video": "https://youtu.be/GiafK4qfw5M"
+      },
+      {
+        "player": "suni",
+        "range": "62 - 67",
+        "video": "https://www.youtube.com/watch?v=jX1XwO4ayFE"
+      },
+      {
+        "player": "Skivie",
+        "range": "66.99 - 71.25",
+        "video": "https://youtu.be/zQ5G5nRdlRk?si=TIfH7gD5c1Q5wpTp&t=154"
+      },
+      {
+        "player": "Darion123",
+        "range": "68.24 - 73.48",
+        "video": "https://youtu.be/zQ5G5nRdlRk?si=j_BSLXY6L5q6njSP&t=163"
+      },
+      {
+        "player": "LOWKey",
+        "range": "73.48 - 77.94",
+        "video": "https://youtu.be/zQ5G5nRdlRk?si=xYEblDiBOFkoOBKP&t=168"
+      },
+      {
+        "player": "david varela pt",
+        "range": "77.94 - 79.28",
+        "video": "https://youtu.be/zQ5G5nRdlRk?si=kQN4nWkTUeWCzFL6&t=178"
+      },
+      {
+        "player": "enzollz",
+        "range": "78 - 100",
+        "video": "https://www.youtube.com/watch?v=svciy2WmvEs"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=mD8bMlCV8Jc"
+  },
+  {
+    "rank": 82,
+    "name": "Crackearth",
+    "image": null,
+    "id": "122214736",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "suni",
+        "range": "30",
+        "video": "https://www.youtube.com/watch?v=yAri4dxkVpQ"
+      },
+      {
+        "player": "Judah ADG",
+        "range": "27 - 35",
+        "video": "https://www.youtube.com/watch?v=UKdhsnFequU"
+      },
+      {
+        "player": "suni",
+        "range": "31-52",
+        "video": "https://www.youtube.com/watch?v=DOFfNtSiGVs"
+      },
+      {
+        "player": "Judah ADG",
+        "range": "48 - 58",
+        "video": "https://www.youtube.com/watch?v=UKdhsnFequU"
+      },
+      {
+        "player": "Judah ADG",
+        "range": "58.97 - 75",
+        "video": "https://www.youtube.com/watch?v=UKdhsnFequU"
+      },
+      {
+        "player": "Judah ADG",
+        "range": "74.71 - 85",
+        "video": "https://www.youtube.com/watch?v=UKdhsnFequU"
+      },
+      {
+        "player": "Judah ADG",
+        "range": "84.78 - 86",
+        "video": "https://www.youtube.com/watch?v=UKdhsnFequU"
+      },
+      {
+        "player": "Judah ADG",
+        "range": "86.25 - 87",
+        "video": "https://www.youtube.com/watch?v=UKdhsnFequU"
+      },
+      {
+        "player": "Judah ADG",
+        "range": "87.14 - 89",
+        "video": "https://www.youtube.com/watch?v=UKdhsnFequU"
+      },
+      {
+        "player": "Judah ADG",
+        "range": "89.29 - 89",
+        "video": "https://www.youtube.com/watch?v=UKdhsnFequU"
+      },
+      {
+        "player": "Judah ADG",
+        "range": "89 - 90",
+        "video": "https://www.youtube.com/watch?v=UKdhsnFequU"
+      },
+      {
+        "player": "Judah ADG",
+        "range": "90.11 - 100",
+        "video": "https://www.youtube.com/watch?v=UKdhsnFequU"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=cMbU99cnYmM"
+  },
+  {
+    "rank": 83,
+    "name": "Africa Circles",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Chopblox",
+        "range": "61.4",
+        "video": null
+      },
+      {
+        "player": "Chopblox",
+        "range": "49.43 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 84,
+    "name": "Tidal Wave",
+    "image": null,
+    "id": "4125776",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Zoink",
+        "range": "100",
+        "video": null
+      }
+    ],
+    "benchmark": true,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 85,
+    "name": "SILENT OPPENHEIMER",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Dezstro",
+        "range": "67.62",
+        "video": null
+      },
+      {
+        "player": "Dezstro",
+        "range": "35.39",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 86,
+    "name": "Silent Circles (Starchman)",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "dewbbs",
+        "range": "58",
+        "video": null
+      },
+      {
+        "player": "dewbbs",
+        "range": "47 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 87,
+    "name": "Labyrinth",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "GGonop",
+        "range": "68.57",
+        "video": null
+      },
+      {
+        "player": "GGonop",
+        "range": "29.93 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 88,
+    "name": "i n j u r y",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "kywy",
+        "range": "74.51",
+        "video": null
+      },
+      {
+        "player": "zXdasfsa",
+        "range": "18 - 81",
+        "video": null
+      },
+      {
+        "player": "EditorBails",
+        "range": "80.03 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 89,
+    "name": "Lightning Machine",
+    "image": null,
+    "id": "135503335",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "seels",
+        "range": "72",
+        "video": "https://www.youtube.com/watch?v=HdKGC_DdTVQ"
+      },
+      {
+        "player": "seels",
+        "range": "48 - 100",
+        "video": "https://www.youtube.com/watch?v=vzKXkWzuEzg"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=h3ZaOatp0qg"
+  },
+  {
+    "rank": 90,
+    "name": "Eternal Night",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Al3xTT",
+        "range": "43.34",
+        "video": null
+      },
+      {
+        "player": "Mizukii",
+        "range": "38.39 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 91,
+    "name": "Firestarter",
+    "image": null,
+    "id": "96214251",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "OShulf",
+        "range": "32.20",
+        "video": "https://www.youtube.com/watch?v=N4ltcj7_J9s&t=3744s"
+      },
+      {
+        "player": "OShulf",
+        "range": "31.32 - 48.91",
+        "video": "https://www.youtube.com/watch?v=MNqQc0kvyYM&t=2172s"
+      },
+      {
+        "player": "OShulf",
+        "range": "44 - 68",
+        "video": "https://www.twitch.tv/oshulf/clip/FrozenVibrantBaconANELE-5tDteL5d2VIVAjum"
+      },
+      {
+        "player": "OShulf",
+        "range": "67.09 - 100",
+        "video": "https://youtu.be/1-DERm55B-0?t=205"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=1-DERm55B-0"
+  },
+  {
+    "rank": 92,
+    "name": "Escalator",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "teraaa",
+        "range": "42.54",
+        "video": null
+      },
+      {
+        "player": "teraaa",
+        "range": "39.11 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 93,
+    "name": "water world",
+    "image": null,
+    "id": "142171089",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "niroi",
+        "range": "36.84",
+        "video": "https://youtu.be/RXtwAprfuZY"
+      },
+      {
+        "player": "niroi",
+        "range": "20.8 - 68.36",
+        "video": "https://www.youtube.com/watch?v=brOnDDHF5EI"
+      },
+      {
+        "player": "niroi",
+        "range": "64 - 83",
+        "video": "https://www.youtube.com/watch?v=GZMiPj03Kpk"
+      },
+      {
+        "player": "niroi",
+        "range": "82 - 95",
+        "video": "https://www.youtube.com/watch?v=GZMiPj03Kpk"
+      },
+      {
+        "player": "YoumanJY",
+        "range": "94.75 - 100",
+        "video": "https://youtu.be/O32gcTLjGeo"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/NoiwMZrQsz0"
+  },
+  {
+    "rank": 94,
+    "name": "Eudemonic",
+    "image": null,
+    "id": "62667940",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "TheRandomStuff",
+        "range": "64",
+        "video": "https://www.youtube.com/watch?v=c9kX-ktD-Jw"
+      },
+      {
+        "player": "seels",
+        "range": "62 - 100",
+        "video": "https://www.youtube.com/watch?v=pBpUoeDhLpY"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=tNR50q4ewWU"
+  },
+  {
+    "rank": 95,
+    "name": "Verdudous",
+    "image": null,
+    "id": "86522520",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Timy",
+        "range": "43.62",
+        "video": "https://www.youtube.com/watch?v=GLJD0DBoyCw"
+      },
+      {
+        "player": "Timy",
+        "range": "37.82 - 46.84",
+        "video": "https://www.youtube.com/watch?v=wMJbJ99abTY"
+      },
+      {
+        "player": "Timy",
+        "range": "46.22 - 65.2",
+        "video": "https://www.youtube.com/watch?v=wMJbJ99abTY"
+      },
+      {
+        "player": "Timy",
+        "range": "63 - 100",
+        "video": "https://www.youtube.com/watch?v=wMJbJ99abTY"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=7vOrH8WTrGc"
+  },
+  {
+    "rank": 96,
+    "name": "OUROBOROS",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Redacted Player #2",
+        "range": "73",
+        "video": null
+      },
+      {
+        "player": "Redacted Player #2",
+        "range": "27 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 97,
+    "name": "LimeWire",
+    "image": null,
+    "id": null,
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "finley",
+        "range": "29.77 - 68.2",
+        "video": null
+      },
+      {
+        "player": "finley",
+        "range": "68.87 - 100",
+        "video": null
+      },
+      {
+        "player": "finley",
+        "range": "41.06",
+        "video": "https://x.com/iamfinleyy/status/2065256473664307365"
+      },
+      {
+        "player": "finley",
+        "range": "40.02 - 95.34",
+        "video": "https://x.com/iamfinleyy/status/2077143799231324309?s=20"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 98,
+    "name": "CYBERPSYCHOSIS",
+    "image": null,
+    "id": "109814681",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Guille N.S",
+        "range": "52.22",
+        "video": "https://www.youtube.com/watch?v=M1X24uXAAGY"
+      },
+      {
+        "player": "Guille N.S",
+        "range": "34 - 100",
+        "video": "https://www.youtube.com/watch?v=-PzQgzjzWNA"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/HaV2qba3hMw"
+  },
+  {
+    "rank": 99,
+    "name": "The Nautical (Old)",
+    "image": null,
+    "id": "77049802",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Hipo",
+        "range": "26.23",
+        "video": "https://www.youtube.com/watch?v=72lo9EXbD9k"
+      },
+      {
+        "player": "FoldedZero",
+        "range": "39.38 - 44.27",
+        "video": "https://www.youtube.com/watch?v=LzOyHAKGkBo"
+      },
+      {
+        "player": "Anceps",
+        "range": "43.59 - 53.54",
+        "video": "https://youtu.be/btnQ7ckLqEA"
+      },
+      {
+        "player": "Anceps",
+        "range": "53.17 - 60.78",
+        "video": "https://youtu.be/KMjoiprfN0k"
+      },
+      {
+        "player": "reedtz",
+        "range": "59 - 100",
+        "video": "https://www.youtube.com/watch?v=zVCG4rMRtLc"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=Np-XJuYj79g"
+  },
+  {
+    "rank": 100,
+    "name": "BLOOD FILLED AGONY",
+    "image": null,
+    "id": "95584451",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Emp",
+        "range": "20.82",
+        "video": "https://youtu.be/k-W9QXAjYV8"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "18.75 - 27.64",
+        "video": null
+      },
+      {
+        "player": "Emp",
+        "range": "27.60 - 62.71",
+        "video": "https://youtu.be/eoT1ZIIUGWM"
+      },
+      {
+        "player": "Emp",
+        "range": "44.82 - 100",
+        "video": "https://youtu.be/BiBfdsZNpeg"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/1Qvdea3VFZM"
+  },
+  {
+    "rank": 101,
+    "name": "EVISCERATE",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Surpl3x",
+        "range": "48.79",
+        "video": null
+      },
+      {
+        "player": "Surpl3x",
+        "range": "17.54 - 55.95",
+        "video": null
+      },
+      {
+        "player": "Surpl3x",
+        "range": "54.77 - 67",
+        "video": null
+      },
+      {
+        "player": "Surpl3x",
+        "range": "65.37 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 102,
+    "name": "BloodEngine",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Karma",
+        "range": "46.51",
+        "video": null
+      },
+      {
+        "player": "Karma",
+        "range": "36.7 - 67.36",
+        "video": null
+      },
+      {
+        "player": "Karma",
+        "range": "47.9 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 103,
+    "name": "Sonic Ocean",
+    "image": null,
+    "id": "63997386",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Redacted Player #3",
+        "range": "91",
+        "video": "https://www.youtube.com/watch?v=VKoBVV68zPk"
+      },
+      {
+        "player": "BensonGD",
+        "range": "89.43 - 100",
+        "video": "https://www.youtube.com/watch?v=R3QCsRwOin4"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=5xoigFjCBmk"
+  },
+  {
+    "rank": 104,
+    "name": "chamomile",
+    "image": null,
+    "id": "63709397",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Hipo",
+        "range": "42.53",
+        "video": "https://youtu.be/SemzD8cMKbg"
+      },
+      {
+        "player": "snowspike",
+        "range": "50.52 - 91.02",
+        "video": "https://youtu.be/Xb-rDrfUZJY"
+      },
+      {
+        "player": "Hipo",
+        "range": "65.1 - 100",
+        "video": "https://youtu.be/Edo3aOkOu7c"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=cfFm1Eriooc"
+  },
+  {
+    "rank": 105,
+    "name": "Endless River",
+    "image": null,
+    "id": "94935521",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Doggie",
+        "range": "24.4",
+        "video": "https://www.youtube.com/watch?v=HGhF5t5ciR0"
+      },
+      {
+        "player": "KRUEL",
+        "range": "48.35 - 90.42",
+        "video": "https://www.youtube.com/watch?v=ko7g9aFL820"
+      },
+      {
+        "player": "KRUEL",
+        "range": "69.06 - 100",
+        "video": "https://www.youtube.com/watch?v=0n4DR-UcC6U"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=Ws3NFKpSz4A"
+  },
+  {
+    "rank": 106,
+    "name": "Silent Circles redux",
+    "image": null,
+    "id": "63951460",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "Redacted Player #3",
+        "range": "57",
+        "video": "https://youtu.be/kiYTrRkqbkM"
+      },
+      {
+        "player": "ROZE",
+        "range": "26 - 100",
+        "video": "https://youtu.be/pdDKq7j6hfk"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/DAmtHhTS3J0"
+  },
+  {
+    "rank": 107,
+    "name": "Absolute Zero",
+    "image": null,
+    "id": "8915216",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "OdieTheGreat",
+        "range": "23",
+        "video": "https://www.youtube.com/watch?v=G_RBAnHUBi0"
+      },
+      {
+        "player": "Anceps",
+        "range": "20.83 - 24.57",
+        "video": "https://www.youtube.com/watch?v=bsmjsP2wm8c"
+      },
+      {
+        "player": "Redacted Player #3",
+        "range": "24.15 - 100",
+        "video": "https://www.youtube.com/watch?v=pZU68wSw-bY"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=X_2t8RpHJQk"
+  },
+  {
+    "rank": 108,
+    "name": "Bonfire (V2)",
+    "image": null,
+    "id": "88686539",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Shinda",
+        "range": "43.81%",
+        "video": "https://youtu.be/yPYM_QsY__Y"
+      },
+      {
+        "player": "Shinda",
+        "range": "43.37 - 54.83%",
+        "video": "https://cdn.discordapp.com/attachments/1508689576955482132/1516898373750362333/2026-06-17_20-49-17_-_Trim.mp4?ex=6a34f9f2&is=6a33a872&hm=218a4c2d2289392ae8cfbde19a06b97730a5256574f14754a92b83f45b3a627e&"
+      },
+      {
+        "player": "Shinda",
+        "range": "54.77 - 100%",
+        "video": "https://cdn.discordapp.com/attachments/1508689576955482132/1516892384800014346/2026-06-17_20-36-59_-_Trim.mp4?ex=6a34f45f&is=6a33a2df&hm=08d36a824fc544f0f7d8d9c0197de7b36aa7cc5dc353533d269f808b995794e5&"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/wq-_SFOT8wg"
+  },
+  {
+    "rank": 109,
+    "name": "Recirculation",
+    "image": null,
+    "id": "77086537",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "tFluffy",
+        "range": "31.4",
+        "video": "https://www.youtube.com/watch?v=XnGq7LjlVBU"
+      },
+      {
+        "player": "PureL",
+        "range": "66.99 - 100",
+        "video": "https://youtu.be/sGU-DBSAq5E?si=jUhbpLgdVWcYgH3k&t=19"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=ktPIUqGxb5w"
+  },
+  {
+    "rank": 110,
+    "name": "Silent Clubstep",
+    "image": null,
+    "id": "4125776",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "paqoe",
+        "range": "100",
+        "video": null
+      }
+    ],
+    "benchmark": true,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 111,
+    "name": "MAX NRG",
+    "image": null,
+    "id": null,
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "SaturMan",
+        "range": "66.1",
+        "video": null
+      },
+      {
+        "player": "SaturMan",
+        "range": "40.04 - 100",
+        "video": null
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 112,
+    "name": "Resentment",
+    "image": null,
+    "id": "34022343",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "nalabug",
+        "range": "5.8",
+        "video": "https://www.youtube.com/watch?v=GfxuYR_vD4A"
+      },
+      {
+        "player": "Redacted Player #1",
+        "range": "59 - 72",
+        "video": "https://www.youtube.com/watch?v=ScGCwHGYIVI"
+      },
+      {
+        "player": "Redacted Player #1",
+        "range": "71 - 100",
+        "video": "https://www.youtube.com/watch?v=P2LrxLjtuOI"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/1bLAin6OGiA"
+  },
+  {
+    "rank": 113,
+    "name": "Tartarus (Old)",
+    "image": null,
+    "id": "29386571",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "nagi 313",
+        "range": "42.32",
+        "video": "https://youtu.be/55Kjs2M8sok"
+      },
+      {
+        "player": "nagi 313",
+        "range": "41 - 100",
+        "video": "https://www.youtube.com/watch?v=XDJmq9njub4"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=HQjDjtGWnbg"
+  },
+  {
+    "rank": 114,
+    "name": "The National Anthem",
+    "image": null,
+    "id": "75447432",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "rchamber",
+        "range": "45.77",
+        "video": "https://www.youtube.com/watch?v=04aetG0rI84"
+      },
+      {
+        "player": "rchamber",
+        "range": "45.45 - 64.93",
+        "video": "https://www.youtube.com/watch?v=04aetG0rI84"
+      },
+      {
+        "player": "rchamber",
+        "range": "64.56 - 100",
+        "video": "https://www.youtube.com/watch?v=sGltDyKMtOw"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=mPz6dzYKypI"
+  },
+  {
+    "rank": 115,
+    "name": "Indignation",
+    "image": null,
+    "id": "32490768",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "sincos",
+        "range": "5.45",
+        "video": "https://www.youtube.com/watch?v=aMjsNlUyv5U"
+      },
+      {
+        "player": "Xrato",
+        "range": "4.25 - 5.75",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "5.53 - 6.6",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "6.31 - 8.16",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "7.91 - 10.27",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "9.51 - 12.01",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "11.74 - 15.25",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "15.25 - 18.86",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "18.52 - 19.48",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "18.99 - 20.05",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "19.93 - 24.51",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "24.37 - 26.65",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "26.25 - 30.89",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "30.38 - 35.16",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "33.81 - 36.96",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "36.39 - 48.19",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "46.69 - 50.85",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "50.43 - 55.47",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "55.42 - 57.79",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "57.3 - 62.17",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "62.17 - 66.51",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "66.19 - 71",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "70.87 - 81",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "80.62 - 89.98",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "89.97 - 91.57",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "91 - 94.46",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "94.04 - 100",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      },
+      {
+        "player": "Xrato",
+        "range": "TBA",
+        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/AXGTWwuvtRM"
+  },
+  {
+    "rank": 116,
+    "name": "Murk",
+    "image": null,
+    "id": null,
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "NucDev",
+        "range": "34",
+        "video": "https://www.youtube.com/watch?v=ECG15JOMPkI"
+      },
+      {
+        "player": "NucDev",
+        "range": "29 - 100",
+        "video": "https://www.youtube.com/watch?v=kT0KBZvhcIo"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": null
+  },
+  {
+    "rank": 117,
+    "name": "Death Anthem",
+    "image": null,
+    "id": "15739708",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Cuatrocientos",
+        "range": "56.13",
+        "video": "https://www.youtube.com/watch?v=YOVCo_sM0QQ"
+      },
+      {
+        "player": "Cuatrocientos",
+        "range": "46.64 - 100",
+        "video": "https://www.youtube.com/watch?v=cXPRE1vlUvU"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=E7Utk15tixE"
+  },
+  {
+    "rank": 118,
+    "name": "PigStep",
+    "image": null,
+    "id": "104984889",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "garbag",
+        "range": "67",
+        "video": "https://youtu.be/iShtK2veeAw"
+      },
+      {
+        "player": "Krowsong",
+        "range": "57.78 - 100",
+        "video": "https://youtu.be/yuEEuVnIqgk"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/15wb7RLledU"
+  },
+  {
+    "rank": 119,
+    "name": "Ashden Ball Trials",
+    "image": null,
+    "id": "139167009",
+    "accuracy": null,
+    "deaths": null,
+    "segments": [
+      {
+        "player": "JustTheAir",
+        "range": "28.01",
+        "video": "https://www.youtube.com/watch?v=fbj0a6eemb8"
+      },
+      {
+        "player": "JustTheAir",
+        "range": "23.7 - 31.85",
+        "video": "https://www.youtube.com/watch?v=hJ14WE8ro0Q"
+      },
+      {
+        "player": "JustTheAir",
+        "range": "31.65 - 39.45",
+        "video": "https://www.youtube.com/watch?v=hJ14WE8ro0Q"
+      },
+      {
+        "player": "JustTheAir",
+        "range": "39.15 - 45.89",
+        "video": "https://www.youtube.com/watch?v=hJ14WE8ro0Q"
+      },
+      {
+        "player": "JustTheAir",
+        "range": "44.18 - 47.43",
+        "video": "https://www.youtube.com/watch?v=hJ14WE8ro0Q"
+      },
+      {
+        "player": "JustTheAir",
+        "range": "46.57 - 53.77",
+        "video": "https://www.youtube.com/watch?v=hJ14WE8ro0Q"
+      },
+      {
+        "player": "JustTheAir",
+        "range": "53.48 - 65.03",
+        "video": "https://www.youtube.com/watch?v=hJ14WE8ro0Q"
+      },
+      {
+        "player": "ThatOneMikuFan",
+        "range": "56.1 - 65.95",
+        "video": "https://youtu.be/f-swPQcZOOM"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=_W_PsFSZSqA"
+  },
+  {
+    "rank": 120,
+    "name": "Experiment 204",
+    "image": null,
+    "id": "80145781",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Emp",
+        "range": "51.18",
+        "video": "https://www.youtube.com/watch?v=TAoJKqCd6W8"
+      },
+      {
+        "player": "Emp",
+        "range": "49.33 - 74.57",
+        "video": "https://www.youtube.com/watch?v=an0EQ0a5TFM"
+      },
+      {
+        "player": "ConReborn",
+        "range": "66.65 - 100",
+        "video": "https://www.youtube.com/watch?v=TGP7u8t9GVc"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=-3-DSxz7EOg0"
+  },
+  {
+    "rank": 121,
+    "name": "WarCora",
+    "image": null,
+    "id": "89189775",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "seregiusz",
+        "range": "45.4",
+        "video": "https://www.youtube.com/watch?v=hMu-VQrZVQw"
+      },
+      {
+        "player": "seregiusz",
+        "range": "13.41 - 64.12",
+        "video": "https://www.youtube.com/watch?v=v9ioityy2RE"
+      },
+      {
+        "player": "eni",
+        "range": "47 - 100",
+        "video": "https://www.youtube.com/watch?v=E2oiV6R47MM"
+      },
+      {
+        "player": "seregiusz",
+        "range": "48.79",
+        "video": "https://youtu.be/KngGdQA5Eq8"
+      },
+      {
+        "player": "seregiusz",
+        "range": "37.49 - 100",
+        "video": "https://youtu.be/KngGdQA5Eq8"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=IkwmfQLjq9kDI0"
+  },
+  {
+    "rank": 122,
+    "name": "Congregation (Unnerfed)",
+    "image": null,
+    "id": "88182754",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Jace",
+        "range": "40.07",
+        "video": "https://youtu.be/fAeiefLc0NY"
+      },
+      {
+        "player": "Defectumdefectum",
+        "range": "31.99 - 58.13",
+        "video": "https://www.youtube.com/watch?v=f_TTUNG7cJQ"
+      },
+      {
+        "player": "Jace",
+        "range": "42.41 - 100",
+        "video": "https://youtu.be/s8eU7uU_oK0"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://youtu.be/Mcopv8o6zN4"
+  },
+  {
+    "rank": 123,
+    "name": "DIRT (Unnerfed)",
+    "image": null,
+    "id": "95621565",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "DehydratedMoon",
+        "range": "15.88",
+        "video": "https://www.youtube.com/watch?v=U5Kb4y68B08"
+      },
+      {
+        "player": "Bombolone",
+        "range": "12.92 - 21.62",
+        "video": "https://www.youtube.com/watch?v=knoacThG69Y"
+      },
+      {
+        "player": "qrstve",
+        "range": "21.62 - 38.19",
+        "video": "https://www.youtube.com/watch?v=knoacThG69Y"
+      },
+      {
+        "player": "DehydratedMoon",
+        "range": "37.35 - 100",
+        "video": "https://www.youtube.com/watch?v=zTcYt6iN2Js"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=dIJN-8XZAc8"
+  },
+  {
+    "rank": 124,
+    "name": "Azure Flare 2019",
+    "image": null,
+    "id": "59929712",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Aeden",
+        "range": "77",
+        "video": "https://www.youtube.com/watch?v=859X7i1r8K4"
+      },
+      {
+        "player": "Jevan",
+        "range": "69.57 - 100",
+        "video": "https://www.youtube.com/watch?v=ZtS5rZDlHwI"
+      },
+      {
+        "player": "Tubg",
+        "range": "3.43 - 7.23",
+        "video": "https://www.youtube.com/watch?v=ZtS5rZDlHwI"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=i3kzpn8Ee8Y"
+  }
+]
