@@ -283,27 +283,23 @@ function renderRunBar(segments) {
     });
 
     if (!positionedRanges.length) {
-        return '<div class="empty-run-track">No percentage ranges to visualize.</div>';
+        return '<div class="trk" style="height:18px" aria-label="Run coverage"></div>';
     }
 
-    const rowHeight = 10;
-    const rowGap = 5;
-    const topPadding = 4;
+    const rowHeight = 13;
+    const rowGap = 3;
+    const topPadding = 3;
     const trackHeight = topPadding * 2 + (rows.length - 1) * (rowHeight + rowGap) + rowHeight;
     const runBars = positionedRanges.map(({ segment, start, end, row }) => {
         const label = segment.missing
             ? `Missing run ${formatSegment(segment)}`
-            : `${segment.player} ${formatSegment(segment)}`;
+            : `${formatSegment(segment)} · ${segment.player}`;
         const color = segment.missing ? "var(--missing)" : getRangeColor(segment);
         return `
-        <i style="left:${start}%;width:${end - start}%;top:${topPadding + row * (rowHeight + rowGap)}px;background:${color}"
+        <span class="trk-run" style="left:${start}%;width:${end - start}%;top:${topPadding + row * (rowHeight + rowGap)}px;height:${rowHeight}px;background:color-mix(in srgb, ${color} 88%, transparent)"
             title="${escapeHtml(label)}"
-            aria-label="${escapeHtml(label)}"></i>`;
+            aria-label="${escapeHtml(label)}"><span>${escapeHtml(label)}</span></span>`;
     }).join("");
-    const ticks = [0, 25, 50, 75, 100].map(value =>
-        `<span class="trk-tick" style="left:${value}%">${value}%</span>`).join("");
-
     return `
-        <div class="trk" style="height:${trackHeight}px">${runBars}</div>
-        <div class="trk-ticks" aria-hidden="true">${ticks}</div>`;
+        <div class="trk" style="height:${trackHeight}px" aria-label="Run coverage">${runBars}</div>`;
 }

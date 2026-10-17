@@ -1,6 +1,6 @@
 :root {
     --bg: #0a0810;
-    --cd: #0d0d1a;
+    --cd: #121224;
     --cd2: #111125;
     --tx: #f5f7fa;
     --mu: #aab6c5;
@@ -281,6 +281,14 @@ main {
     color: var(--missing)
 }
 
+.card-coverage {
+    position: absolute;
+    z-index: 3;
+    right: 14px;
+    bottom: 10px;
+    left: 14px
+}
+
 .dt {
     display: none;
     position: relative;
@@ -350,45 +358,29 @@ button.pill:hover {
 
 .trk {
     position: relative;
-    background: #080910;
-    border-radius: 6px;
     overflow: hidden;
-    border: 1px solid var(--bd);
-    box-shadow: var(--ui-shadow)
 }
 
-.trk i {
+.trk-run {
     position: absolute;
-    height: 10px;
-    opacity: .88;
-    border-radius: 3px;
-    border-right: 1px solid rgba(0, 0, 0, .35)
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 0 2px;
+    color: #fff;
+    font-size: 9px;
+    line-height: 1;
+    border-radius: 2px;
+    border: 1px solid rgba(255, 255, 255, .22);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .45);
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .9)
 }
 
-.trk-ticks {
-    position: relative;
-    height: 16px;
-    margin-top: 3px;
-    color: var(--mu);
-    font-size: 10px
-}
-
-.trk-tick {
-    position: absolute;
-    transform: translateX(-50%)
-}
-
-.trk-tick:first-child {
-    transform: none
-}
-
-.trk-tick:last-child {
-    transform: translateX(-100%)
-}
-
-.empty-run-track {
-    color: var(--mu);
-    font-size: 12px
+.trk-run span {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap
 }
 
 .sg {
@@ -614,15 +606,6 @@ button.pill:hover {
 
 .leaderboard-records[hidden] {
     display: none
-}
-
-.leaderboard-records-heading {
-    padding: 10px 0 7px;
-    color: var(--mu);
-    font-size: 11px;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: .04em
 }
 
 .leaderboard-record {

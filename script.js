@@ -182,11 +182,12 @@ function renderCard(level, displayRank, benchmark, rankedLevels, uncompleted = f
             ? `<b class="run-count">${level.runCount}</b> relevant runs · <b class="missing-count">${missingCount}</b> missing runs`
             : `Completed in <b class="run-count">${level.runCount}</b> runs`}</div>
                 </div>
+                <div class="card-coverage">
+                    ${renderRunBar(level.segments)}
+                </div>
             </div>
             <div class="dt">
                 <div class="ids">${renderPills(level)}</div>
-                <div class="run-section-title">Run coverage</div>
-                ${renderRunBar(level.segments)}
                 <div class="run-section-title runs-title">Runs</div>
                 <div class="sg">${renderSegments(level.segments)}</div>
             </div>
@@ -265,142 +266,6 @@ function renderUncompletedLevels() {
                 <p>${missingRunCount} missing runs across ${uncompletedLevels.length} levels. Missing ranges are runs still needed.</p>
             </div>${cards}`
         : '<div class="empty">No uncompleted levels match your search.</div>';
-}
-
-function getPlayerLeaderboard() {
-    const players = new Map();
-    function addLevelRuns(level) {
-        const levelKey = level.id
-            ? `id:${level.id}`
-            : `name:${level.name.trim().toLowerCase()}`;
-        for (const segment of level.segments) {
-            const name = segment.player.trim();
-            if (!name || name.toLowerCase().includes("redacted player") || segment.missing) {
-                continue;
-            }
-            const player = players.get(name) || {
-                name,
-                runCount: 0,
-                levels: new Set(),
-                runs: new Set(),
-                records: [],
-                bestPercentage: 0
-            };
-            const runKey = `${levelKey}\u0000${name}\u0000${segment.range.replace(/\s/g, "")}`;
-            if (!player.runs.has(runKey)) {
-                player.runs.add(runKey);
-                player.runCount++;
-                player.levels.add(levelKey);
-                const bounds = getSegmentBounds(segment);
-                const endPercentage = bounds
-                    ? Math.min(Math.max(bounds.end, 0), 100)
-                    : 0;
-                player.records.push({
-                    levelKey,
-                    levelName: level.name,
-                    range: formatSegment(segment),
-                    endPercentage,
-                    points: 0
-                });
-            }
-            const bounds = getSegmentBounds(segment);
-            if (bounds) {
-                player.bestPercentage = Math.max(
-                    player.bestPercentage,
-                    Math.min(Math.max(bounds.end, 0), 100)
-                );
-            }
-            players.set(name, player);
-        }
-    }
-
-    levels.filter(level => !isBenchmark(level)).forEach(addLevelRuns);
-    const leaderboard = [...players.values()];
-    const maxRunCount = Math.max(0, ...leaderboard.map(player => player.runCount));
-    const maxLevelCount = Math.max(0, ...leaderboard.map(player => player.levels.size));
-    const maxBestPercentage = Math.max(0, ...leaderboard.map(player => player.bestPercentage));
-
-    for (const player of leaderboard) {
-        player.score = 100 * (
-            0.4 * (maxBestPercentage ? player.bestPercentage / maxBestPercentage : 0)
-            + 0.3 * (maxRunCount ? player.runCount / maxRunCount : 0)
-            + 0.3 * (maxLevelCount ? player.levels.size / maxLevelCount : 0)
-        );
-
-        const bestRecord = player.records.reduce((best, record) =>
-            !best || record.endPercentage > best.endPercentage ? record : best, null);
-        const bestRecordByLevel = new Map();
-        for (const record of player.records) {
-            const currentBest = bestRecordByLevel.get(record.levelKey);
-            if (!currentBest || record.endPercentage > currentBest.endPercentage) {
-                bestRecordByLevel.set(record.levelKey, record);
-            }
-            record.points += maxRunCount ? 30 / maxRunCount : 0;
-        }
-
-        for (const record of bestRecordByLevel.values()) {
-            record.points += maxLevelCount ? 30 / maxLevelCount : 0;
-        }
-        if (bestRecord && maxBestPercentage) {
-            bestRecord.points += 40 * bestRecord.endPercentage / maxBestPercentage;
-        }
-        player.records.sort((first, second) =>
-            second.points - first.points
-            || second.endPercentage - first.endPercentage
-            || first.levelName.localeCompare(second.levelName));
-    }
-
-    return leaderboard.sort((first, second) =>
-        second.score - first.score
-        || second.bestPercentage - first.bestPercentage
-        || second.runCount - first.runCount
-        || second.levels.size - first.levels.size
-        || first.name.localeCompare(second.name));
-}
-
-function renderLeaderboards() {
-    const players = getPlayerLeaderboard().filter(player =>
-        player.name.toLowerCase().includes(searchTerms.leaderboards));
-    elements.list.innerHTML = players.length
-        ? `<div class="leaderboard-heading">
-                <h2>Player leaderboard</h2>
-                <p>Relevant recorded runs from both lists are included. Missing ranges are not counted.</p>
-            </div>
-            <div class="leaderboard-list">${players.map((player, index) => {
-            const isExpanded = expandedPlayers.has(player.name);
-            const records = player.records.map((record, recordIndex) => `
-                    <div class="leaderboard-record">
-                        <span class="leaderboard-record-rank">#${recordIndex + 1}</span>
-                        <span class="leaderboard-record-level">${escapeHtml(record.levelName)}</span>
-                        <span class="leaderboard-record-range">${escapeHtml(record.range)}</span>
-                        <b class="leaderboard-record-points">${record.points.toFixed(2)} pts</b>
-                    </div>
-                `).join("");
-            return `
-                    <article class="leaderboard-card${isExpanded ? " expanded" : ""}">
-                        <button class="leaderboard-toggle" type="button" data-player-toggle="${escapeHtml(player.name)}" aria-expanded="${isExpanded}">
-                            <span class="leaderboard-rank">#${index + 1}</span>
-                            <span class="leaderboard-player-info">
-                                <span class="leaderboard-player" style="color:${getPlayerColor(player.name)}">${escapeHtml(player.name)}</span>
-                                <span class="leaderboard-metrics">
-                                    <span>Best segment <b>${player.bestPercentage.toFixed(2)}%</b></span>
-                                    <span><b>${player.runCount}</b> ${player.runCount === 1 ? "run" : "runs"}</span>
-                                    <span><b>${player.levels.size}</b> ${player.levels.size === 1 ? "level" : "levels"}</span>
-                                </span>
-                            </span>
-                            <span class="leaderboard-score">
-                                <b>${player.score.toFixed(1)}</b>
-                                <span>points</span>
-                            </span>
-                            <span class="leaderboard-chevron" aria-hidden="true">${isExpanded ? "−" : "+"}</span>
-                        </button>
-                        <div class="leaderboard-records"${isExpanded ? "" : " hidden"}>
-                            <div class="leaderboard-records-heading">Records by contribution</div>
-                            ${records}
-                        </div>
-                    </article>`;
-        }).join("")}</div>`
-        : '<div class="empty">No players match your search.</div>';
 }
 
 function renderView() {
