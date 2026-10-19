@@ -2628,13 +2628,21 @@
     "name": "rare (Old)",
     "image": null,
     "id": "95647061",
-    "accuracy": null,
-    "deaths": null,
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
     "segments": [
       {
-        "player": "Judah",
-        "range": "16.13",
-        "video": "https://youtu.be/ZUd_zUPv5mg"
+        "player": "Trick",
+        "range": "18.39",
+        "video": "https://www.youtube.com/watch?v=6S8owt_Ar2Y"
       },
       {
         "player": "Emp",
@@ -3071,6 +3079,16 @@
         "player": "Lays",
         "range": "36.39 - 49.65",
         "video": "https://www.youtube.com/watch?v=SA1mHYJc0ms"
+      },
+      {
+        "player": "xdandroo",
+        "range": "34.63 - 48.79",
+        "video": "https://www.youtube.com/watch?v=KTiJsqtq1uY"
+      },
+      {
+        "player": "Bacon",
+        "range": "60.16 - 82.31",
+        "video": "https://www.youtube.com/live/l0ilqKSHH8E"
       }
     ],
     "benchmark": false,
@@ -6002,6 +6020,16 @@
         "player": "reedtz",
         "range": "59 - 100",
         "video": "https://www.youtube.com/watch?v=zVCG4rMRtLc"
+      },
+      {
+        "player": "beto",
+        "range": "50.85-66.57",
+        "video": "https://discord.com/channels/689275234418688036/689275234418688042/1560964587354853386"
+      },
+      {
+        "player": "beto",
+        "range": "66.96 - 75.85",
+        "video": "https://discord.com/channels/689275234418688036/689275234418688042/1560964587354853386"
       }
     ],
     "benchmark": false,
@@ -6779,8 +6807,8 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=-3-DSxz7EOg0"
   },
   {
-    "rank": 123,
     "name": "WarCora",
+    "rank": 123,
     "image": null,
     "id": "89189775",
     "accuracy": {
@@ -6796,21 +6824,6 @@
     "segments": [
       {
         "player": "seregiusz",
-        "range": "45.4",
-        "video": "https://www.youtube.com/watch?v=hMu-VQrZVQw"
-      },
-      {
-        "player": "seregiusz",
-        "range": "13.41 - 64.12",
-        "video": "https://www.youtube.com/watch?v=v9ioityy2RE"
-      },
-      {
-        "player": "eni",
-        "range": "47 - 100",
-        "video": "https://www.youtube.com/watch?v=E2oiV6R47MM"
-      },
-      {
-        "player": "seregiusz",
         "range": "48.79",
         "video": "https://youtu.be/KngGdQA5Eq8"
       },
@@ -6820,7 +6833,7 @@
         "video": "https://youtu.be/KngGdQA5Eq8"
       }
     ],
-    "benchmark": false,
+    "benchmark": null,
     "showcaseVideo": "https://www.youtube.com/watch?v=IkwmfQLjq9kDI0"
   },
   {
