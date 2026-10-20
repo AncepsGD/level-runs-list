@@ -2728,8 +2728,16 @@
     "name": "Back On Track",
     "image": null,
     "id": "80481445",
-    "accuracy": null,
-    "deaths": null,
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
     "segments": [
       {
         "player": "vrtze",
@@ -2770,6 +2778,11 @@
         "player": "Viwi",
         "range": "90.34 - 100",
         "video": "https://www.youtube.com/watch?v=3eMtEqw0OV0"
+      },
+      {
+        "player": "himeya",
+        "range": "17.12",
+        "video": "https://youtu.be/ToVr0QA3yok"
       }
     ],
     "benchmark": false,
