@@ -1226,6 +1226,11 @@
         "player": "Thebacon_gamer",
         "range": "16.45 - 16.73",
         "video": "https://medal.tv/games/geometry-dash/clips/nJU0wrlx6RR6tn_Gq?invite=cr-MSxsUjYsMjcwNDA2NTcx"
+      },
+      {
+        "player": "Roguehigh501",
+        "range": "79 - 82.28",
+        "video": "https://www.youtube.com/watch?v=MsBBBhWkeTw"
       }
     ],
     "benchmark": false,
@@ -2973,9 +2978,9 @@
       "video": "https://youtu.be/hS1ZDdNEJMY?t=2027"
     },
     "deaths": {
-      "value": "46",
+      "value": "39",
       "player": "Chill Guy",
-      "video": "https://www.youtube.com/watch?v=XMQmWCfl7yA"
+      "video": "https://www.youtube.com/watch?v=nyHgTMShwkw"
     },
     "segments": [
       {
@@ -3102,6 +3107,11 @@
         "player": "Bacon",
         "range": "60.16 - 82.31",
         "video": "https://www.youtube.com/live/l0ilqKSHH8E"
+      },
+      {
+        "player": "Bacon",
+        "range": "60.49 - 100",
+        "video": "https://youtu.be/m0gtnrgfoN0?t=168"
       }
     ],
     "benchmark": false,
@@ -3377,6 +3387,11 @@
         "player": "Psadream",
         "range": "88.82 - 95.14",
         "video": "https://discord.com/channels/1457970765365510158/1558440922608566312/1558440922608566312"
+      },
+      {
+        "player": "Psadream",
+        "range": "87.6 - 94.7",
+        "video": "https://discord.com/channels/1457970765365510158/1562233178226294784/1562233178226294784"
       }
     ],
     "benchmark": false,
@@ -4532,6 +4547,16 @@
         "player": "4498r",
         "range": "28.74 - 45.84",
         "video": "https://www.youtube.com/watch?v=k-bSs1fSUF8 "
+      },
+      {
+        "player": "4498r",
+        "range": "52.45-60.82",
+        "video": "https://www.youtube.com/watch?v=G5p1z3RpbQI"
+      },
+      {
+        "player": "4498r",
+        "range": "65.67-75",
+        "video": "https://www.youtube.com/watch?v=ZLtEQh8Lt3g"
       }
     ],
     "benchmark": false,
