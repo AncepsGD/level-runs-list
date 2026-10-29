@@ -5044,7 +5044,127 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=gWMuq30bXVg"
   },
   {
-    "rank": 75,
+    "name": "Slaughter Machine",
+    "image": null,
+    "id": "https://history.geometrydash.eu/level/106485780/",
+    "accuracy": {
+      "value": "95.53",
+      "player": "HaloZombies",
+      "video": "https://youtu.be/eTehZdBtVu4?t=209"
+    },
+    "deaths": {
+      "value": "106",
+      "player": "HaloZombies",
+      "video": "https://youtu.be/eTehZdBtVu4?t=209"
+    },
+    "segments": [
+      {
+        "player": "HaloZombies",
+        "range": "10.85",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "4.97 - 11.63",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "11.18 - 15.39",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "13.77 - 18.99",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "17 - 22.46",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "21.87 - 33.23",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "24.79 - 36.38",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "35.14 - 39.03",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "37.8 - 44.08",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "41.06 - 47.23",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "44.35 - 52.06",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "51.87 - 57.93",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "57.42 - 69.91",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "66.93 - 78.28",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "74-82",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "76.99 - 85.17",
+        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "81-93",
+        "video": "https://www.youtube.com/watch?v=oz_YPgQjio8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "84-100",
+        "video": "https://www.youtube.com/watch?v=oz_YPgQjio8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "71-78",
+        "video": "https://www.youtube.com/watch?v=oz_YPgQjio8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "31-35",
+        "video": "https://www.youtube.com/watch?v=oz_YPgQjio8"
+      }
+    ],
+    "benchmark": false,
+    "showcaseVideo": "https://www.youtube.com/watch?v=bZRZQw-sbNQ",
+    "rank": 75
+  },
+  {
+    "rank": 76,
     "name": "Slaughter Machine (Old)",
     "image": null,
     "id": "https://history.geometrydash.eu/level/106485780/",
@@ -5168,125 +5288,6 @@
         "player": "HaloZombies",
         "range": "88.73 - 100",
         "video": "https://www.youtube.com/watch?v=AlcXOE8l8sw"
-      }
-    ],
-    "benchmark": false,
-    "showcaseVideo": "https://www.youtube.com/watch?v=bZRZQw-sbNQ"
-  },
-  {
-    "name": "Slaughter Machine",
-    "image": null,
-    "id": "https://history.geometrydash.eu/level/106485780/",
-    "accuracy": {
-      "value": "95.53",
-      "player": "HaloZombies",
-      "video": "https://youtu.be/eTehZdBtVu4?t=209"
-    },
-    "deaths": {
-      "value": "106",
-      "player": "HaloZombies",
-      "video": "https://youtu.be/eTehZdBtVu4?t=209"
-    },
-    "segments": [
-      {
-        "player": "HaloZombies",
-        "range": "10.85",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "4.97 - 11.63",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "11.18 - 15.39",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "13.77 - 18.99",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "17 - 22.46",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "21.87 - 33.23",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "24.79 - 36.38",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "35.14 - 39.03",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "37.8 - 44.08",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "41.06 - 47.23",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "44.35 - 52.06",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "51.87 - 57.93",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "57.42 - 69.91",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "66.93 - 78.28",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "74-82",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "76.99 - 85.17",
-        "video": "https://www.youtube.com/watch?v=eTehZdBtVu4"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "81-93",
-        "video": "https://www.youtube.com/watch?v=oz_YPgQjio8"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "84-100",
-        "video": "https://www.youtube.com/watch?v=oz_YPgQjio8"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "71-78",
-        "video": "https://www.youtube.com/watch?v=oz_YPgQjio8"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "31-35",
-        "video": "https://www.youtube.com/watch?v=oz_YPgQjio8"
       }
     ],
     "benchmark": false,
