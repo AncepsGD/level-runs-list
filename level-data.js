@@ -69,7 +69,7 @@ async function loadLevels() {
         const segments = isUncompletedLevel(level)
             ? inferMissingRuns(level.segments)
             : level.segments;
-        return normalizeLevelRuns({ ...level, segments });
+        return normalizeLevelRuns({ ...level, rank: level.rank ?? null, segments });
     });
 }
 
@@ -139,7 +139,7 @@ function inferMissingRuns(segments) {
 function isValidLevel(level) {
     return level !== null
         && typeof level === "object"
-        && (Number.isInteger(level.rank) || level.rank === null)
+        && (level.rank === undefined || Number.isInteger(level.rank) || level.rank === null)
         && typeof level.name === "string"
         && (level.benchmark === undefined
             || level.benchmark === null
