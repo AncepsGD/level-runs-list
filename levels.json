@@ -3018,9 +3018,9 @@
     "image": null,
     "id": "102646926",
     "accuracy": {
-      "value": "98.66",
-      "player": "aden",
-      "video": "https://youtu.be/hS1ZDdNEJMY?t=2027"
+      "value": "98.85",
+      "player": "Chill Guy",
+      "video": "https://www.youtube.com/watch?v=SL6X3qH1m0Q"
     },
     "deaths": {
       "value": "37",
@@ -3167,6 +3167,11 @@
         "player": "Chill Guy",
         "range": "19.29 - 31.66",
         "video": "https://www.youtube.com/watch?v=KbBGMxr1h5s"
+      },
+      {
+        "player": "FlinGuSPluNkuS",
+        "range": "42.07 - 60.2",
+        "video": "https://www.youtube.com/watch?v=e4coQ9ANqik"
       }
     ],
     "benchmark": false,
@@ -5038,6 +5043,11 @@
         "player": "Scarlett",
         "range": "84.19 - 100",
         "video": "https://www.youtube.com/watch?v=eC290OFvzHw"
+      },
+      {
+        "player": "Zachi",
+        "range": "75.9 - 100",
+        "video": "https://www.youtube.com/watch?v=hCQjUN71Vfs"
       }
     ],
     "benchmark": false,
@@ -5169,14 +5179,14 @@
     "image": null,
     "id": "https://history.geometrydash.eu/level/106485780/",
     "accuracy": {
-      "value": null,
-      "player": null,
-      "video": null
+      "value": "95.85",
+      "player": "HaloZombies",
+      "video": "https://youtu.be/EfHAi-foZMs"
     },
     "deaths": {
-      "value": null,
-      "player": null,
-      "video": null
+      "value": "89",
+      "player": "HaloZombies",
+      "video": "https://youtu.be/EfHAi-foZMs"
     },
     "segments": [
       {
@@ -5286,12 +5296,42 @@
       },
       {
         "player": "HaloZombies",
-        "range": "88.73 - 100",
-        "video": "https://www.youtube.com/watch?v=AlcXOE8l8sw"
+        "range": "88.58 - 100",
+        "video": "https://www.youtube.com/watch?v=cuynaG8ymPo"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "52.04 - 57.47",
+        "video": "https://youtu.be/EfHAi-foZMs"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "52.79 - 69.53",
+        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "41.06 - 48.27",
+        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "47.42 - 55.16",
+        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "13.01 - 21.78",
+        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "10 - 20.66",
+        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
       }
     ],
     "benchmark": false,
-    "showcaseVideo": "https://www.youtube.com/watch?v=bZRZQw-sbNQ"
+    "showcaseVideo": "https://www.youtube.com/watch?v=Vrcmoaq6F_E"
   },
   {
     "name": "Deadlocked Swaggiest",
@@ -5654,8 +5694,16 @@
     "name": "FAIRY KNIFE HELL",
     "image": null,
     "id": "111680151",
-    "accuracy": null,
-    "deaths": null,
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
     "segments": [
       {
         "player": "Cuatrocientos",
@@ -5706,6 +5754,11 @@
         "player": "enzollz",
         "range": "78 - 100",
         "video": "https://www.youtube.com/watch?v=svciy2WmvEs"
+      },
+      {
+        "player": "Zachi",
+        "range": "52.4 - 100",
+        "video": "https://www.youtube.com/watch?v=-45S5pPUkOg"
       }
     ],
     "benchmark": false,
@@ -5883,7 +5936,52 @@
     "showcaseVideo": null
   },
   {
+    "name": "Ryan Never Clear",
     "rank": 90,
+    "image": null,
+    "id": "151372676",
+    "accuracy": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "deaths": {
+      "value": null,
+      "player": null,
+      "video": null
+    },
+    "segments": [
+      {
+        "player": "Siwu",
+        "range": "16",
+        "video": "https://www.youtube.com/watch?v=1IZigCWU5ig"
+      },
+      {
+        "player": "Siwu",
+        "range": "12-47",
+        "video": "https://www.youtube.com/watch?v=1IZigCWU5ig"
+      },
+      {
+        "player": "Siwu",
+        "range": "46-81",
+        "video": "https://www.youtube.com/watch?v=wVTQ5UclJsc"
+      },
+      {
+        "player": "Siwu",
+        "range": "22-53",
+        "video": "https://www.youtube.com/watch?v=_vizJfQmBPo"
+      },
+      {
+        "player": "V0id",
+        "range": "65 - 100",
+        "video": "https://www.youtube.com/watch?v=P7Pugcs0W2E"
+      }
+    ],
+    "benchmark": null,
+    "showcaseVideo": "https://www.youtube.com/watch?v=gfH0s33Ymy8"
+  },
+  {
+    "rank": 91,
     "name": "i n j u r y",
     "image": null,
     "id": null,
@@ -5910,7 +6008,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 91,
+    "rank": 92,
     "name": "Lightning Machine",
     "image": null,
     "id": "135503335",
@@ -5932,7 +6030,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=h3ZaOatp0qg"
   },
   {
-    "rank": 92,
+    "rank": 93,
     "name": "Eternal Night",
     "image": null,
     "id": null,
@@ -5954,7 +6052,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 93,
+    "rank": 94,
     "name": "Firestarter",
     "image": null,
     "id": "96214251",
@@ -5986,7 +6084,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=1-DERm55B-0"
   },
   {
-    "rank": 94,
+    "rank": 95,
     "name": "Escalator",
     "image": null,
     "id": null,
@@ -6008,7 +6106,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 95,
+    "rank": 96,
     "name": "water world",
     "image": null,
     "id": "142171089",
@@ -6058,7 +6156,7 @@
     "showcaseVideo": "https://youtu.be/NoiwMZrQsz0"
   },
   {
-    "rank": 96,
+    "rank": 97,
     "name": "Eudemonic",
     "image": null,
     "id": "62667940",
@@ -6080,7 +6178,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=tNR50q4ewWU"
   },
   {
-    "rank": 97,
+    "rank": 98,
     "name": "Verdudous",
     "image": null,
     "id": "86522520",
@@ -6112,7 +6210,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=7vOrH8WTrGc"
   },
   {
-    "rank": 98,
+    "rank": 99,
     "name": "OUROBOROS",
     "image": null,
     "id": null,
@@ -6142,7 +6240,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 99,
+    "rank": 100,
     "name": "LimeWire",
     "image": null,
     "id": null,
@@ -6182,7 +6280,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 100,
+    "rank": 101,
     "name": "CYBERPSYCHOSIS",
     "image": null,
     "id": "109814681",
@@ -6212,7 +6310,7 @@
     "showcaseVideo": "https://youtu.be/HaV2qba3hMw"
   },
   {
-    "rank": 101,
+    "rank": 102,
     "name": "The Nautical (Old)",
     "image": null,
     "id": "77049802",
@@ -6267,7 +6365,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=Np-XJuYj79g"
   },
   {
-    "rank": 102,
+    "rank": 103,
     "name": "BLOOD FILLED AGONY",
     "image": null,
     "id": "95584451",
@@ -6299,7 +6397,7 @@
     "showcaseVideo": "https://youtu.be/1Qvdea3VFZM"
   },
   {
-    "rank": 103,
+    "rank": 104,
     "name": "EVISCERATE",
     "image": null,
     "id": null,
@@ -6331,7 +6429,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 104,
+    "rank": 105,
     "name": "BloodEngine",
     "image": null,
     "id": null,
@@ -6358,7 +6456,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 105,
+    "rank": 106,
     "name": "Sonic Ocean",
     "image": null,
     "id": "63997386",
@@ -6380,7 +6478,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=5xoigFjCBmk"
   },
   {
-    "rank": 106,
+    "rank": 107,
     "name": "chamomile",
     "image": null,
     "id": "63709397",
@@ -6407,7 +6505,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=cfFm1Eriooc"
   },
   {
-    "rank": 107,
+    "rank": 108,
     "name": "Endless River",
     "image": null,
     "id": "94935521",
@@ -6434,7 +6532,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=Ws3NFKpSz4A"
   },
   {
-    "rank": 108,
+    "rank": 109,
     "name": "Silent Circles redux",
     "image": null,
     "id": "63951460",
@@ -6456,7 +6554,7 @@
     "showcaseVideo": "https://youtu.be/DAmtHhTS3J0"
   },
   {
-    "rank": 109,
+    "rank": 110,
     "name": "Absolute Zero",
     "image": null,
     "id": "8915216",
@@ -6483,7 +6581,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=X_2t8RpHJQk"
   },
   {
-    "rank": 110,
+    "rank": 111,
     "name": "Bonfire (V2)",
     "image": null,
     "id": "88686539",
@@ -6518,7 +6616,7 @@
     "showcaseVideo": "https://youtu.be/wq-_SFOT8wg"
   },
   {
-    "rank": 111,
+    "rank": 112,
     "name": "Recirculation",
     "image": null,
     "id": "77086537",
@@ -6548,7 +6646,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=ktPIUqGxb5w"
   },
   {
-    "rank": 112,
+    "rank": 113,
     "name": "Silent Clubstep",
     "image": null,
     "id": "4125776",
@@ -6565,7 +6663,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 113,
+    "rank": 114,
     "name": "MAX NRG",
     "image": null,
     "id": null,
@@ -6587,7 +6685,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 114,
+    "rank": 115,
     "name": "Resentment",
     "image": null,
     "id": "34022343",
@@ -6622,7 +6720,7 @@
     "showcaseVideo": "https://youtu.be/1bLAin6OGiA"
   },
   {
-    "rank": 115,
+    "rank": 116,
     "name": "Tartarus (Old)",
     "image": null,
     "id": "29386571",
@@ -6644,7 +6742,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=HQjDjtGWnbg"
   },
   {
-    "rank": 116,
+    "rank": 117,
     "name": "The National Anthem",
     "image": null,
     "id": "75447432",
@@ -6671,7 +6769,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=mPz6dzYKypI"
   },
   {
-    "rank": 117,
+    "rank": 118,
     "name": "Indignation",
     "image": null,
     "id": "32490768",
@@ -6822,16 +6920,21 @@
         "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
       },
       {
-        "player": "Xrato",
-        "range": "TBA",
-        "video": "https://www.youtube.com/watch?v=Ua3UJ9GMLuk"
+        "player": "DudeInMobile",
+        "range": "60.47 - 85.51",
+        "video": "https://www.youtube.com/watch?v=nueIAn3JR8Y"
+      },
+      {
+        "player": "DudeInMobile",
+        "range": "30.31 - 45.26",
+        "video": "https://www.youtube.com/watch?v=ZctgmBZAFr4"
       }
     ],
     "benchmark": false,
     "showcaseVideo": "https://youtu.be/AXGTWwuvtRM"
   },
   {
-    "rank": 118,
+    "rank": 119,
     "name": "Murk",
     "image": null,
     "id": null,
@@ -6861,7 +6964,7 @@
     "showcaseVideo": null
   },
   {
-    "rank": 119,
+    "rank": 120,
     "name": "Death Anthem",
     "image": null,
     "id": "15739708",
@@ -6892,7 +6995,7 @@
   },
   {
     "name": "SILENT HELHEIM",
-    "rank": 120,
+    "rank": 121,
     "image": null,
     "id": "80469799",
     "accuracy": {
@@ -6921,7 +7024,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=b-WlUBrqNZ4"
   },
   {
-    "rank": 121,
+    "rank": 122,
     "name": "PigStep",
     "image": null,
     "id": "104984889",
@@ -6951,7 +7054,7 @@
     "showcaseVideo": "https://youtu.be/15wb7RLledU"
   },
   {
-    "rank": 122,
+    "rank": 123,
     "name": "Ashden Ball Trials",
     "image": null,
     "id": "139167009",
@@ -7003,7 +7106,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=_W_PsFSZSqA"
   },
   {
-    "rank": 123,
+    "rank": 124,
     "name": "Experiment 204",
     "image": null,
     "id": "80145781",
@@ -7039,7 +7142,7 @@
   },
   {
     "name": "WarCora",
-    "rank": 124,
+    "rank": 125,
     "image": null,
     "id": "89189775",
     "accuracy": {
@@ -7068,7 +7171,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=IkwmfQLjq9kDI0"
   },
   {
-    "rank": 125,
+    "rank": 126,
     "name": "Congregation (Unnerfed)",
     "image": null,
     "id": "88182754",
@@ -7103,7 +7206,7 @@
     "showcaseVideo": "https://youtu.be/Mcopv8o6zN4"
   },
   {
-    "rank": 126,
+    "rank": 127,
     "name": "DIRT (Unnerfed)",
     "image": null,
     "id": "95621565",
@@ -7143,7 +7246,7 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=dIJN-8XZAc8"
   },
   {
-    "rank": 127,
+    "rank": 128,
     "name": "Azure Flare 2019",
     "image": null,
     "id": "59929712",
@@ -7179,7 +7282,7 @@
   },
   {
     "name": "Fiberglass",
-    "rank": 128,
+    "rank": 129,
     "image": null,
     "id": null,
     "accuracy": {
@@ -7209,7 +7312,7 @@
   },
   {
     "name": "Death Corridor (KugelBlitZ)",
-    "rank": 129,
+    "rank": 130,
     "image": null,
     "id": null,
     "accuracy": {
