@@ -69,7 +69,12 @@ async function loadLevels() {
         const segments = isUncompletedLevel(level)
             ? inferMissingRuns(level.segments)
             : level.segments;
-        return normalizeLevelRuns({ ...level, rank: level.rank ?? null, segments });
+        return normalizeLevelRuns({
+            ...level,
+            id: level.id === null || level.id === undefined ? null : String(level.id),
+            rank: level.rank ?? null,
+            segments
+        });
     });
 }
 
@@ -145,7 +150,9 @@ function isValidLevel(level) {
             || level.benchmark === null
             || typeof level.benchmark === "boolean")
         && (level.image === null || typeof level.image === "string")
-        && (level.id === null || typeof level.id === "string")
+        && (level.id === null
+            || typeof level.id === "string"
+            || Number.isSafeInteger(level.id))
         && (level.showcaseVideo === undefined
             || level.showcaseVideo === null
             || typeof level.showcaseVideo === "string")
