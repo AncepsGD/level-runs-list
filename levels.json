@@ -5059,20 +5059,10 @@
     "showcaseVideo": "https://www.youtube.com/watch?v=gWMuq30bXVg"
   },
   {
-    "rank": 76,
+    "rank": 75,
     "name": "Slaughter Machine (Old)",
     "image": null,
     "id": "https://history.geometrydash.eu/level/106485780/",
-    "accuracy": {
-      "value": "95.85",
-      "player": "HaloZombies",
-      "video": "https://youtu.be/EfHAi-foZMs"
-    },
-    "deaths": {
-      "value": "89",
-      "player": "HaloZombies",
-      "video": "https://youtu.be/EfHAi-foZMs"
-    },
     "segments": [
       {
         "player": "HaloZombies",
@@ -5191,16 +5181,16 @@
   {
     "name": "Slaughter Machine",
     "image": null,
-    "id": "https://history.geometrydash.eu/level/106485780/",
+    "id": 106485780,
     "accuracy": {
-      "value": "95.53",
+      "value": "95.85",
       "player": "HaloZombies",
-      "video": "https://youtu.be/eTehZdBtVu4?t=209"
+      "video": "https://youtu.be/EfHAi-foZMs"
     },
     "deaths": {
-      "value": "106",
+      "value": "89",
       "player": "HaloZombies",
-      "video": "https://youtu.be/eTehZdBtVu4?t=209"
+      "video": "https://youtu.be/EfHAi-foZMs"
     },
     "segments": [
       {
@@ -5341,7 +5331,7 @@
     ],
     "benchmark": false,
     "showcaseVideo": "https://www.youtube.com/watch?v=bZRZQw-sbNQ",
-    "rank": 75
+    "rank": 76
   },
   {
     "name": "Deadlocked Swaggiest",
