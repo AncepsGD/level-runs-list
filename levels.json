@@ -5172,6 +5172,41 @@
         "player": "HaloZombies",
         "range": "31-35",
         "video": "https://www.youtube.com/watch?v=oz_YPgQjio8"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "88.58 - 100",
+        "video": "https://www.youtube.com/watch?v=cuynaG8ymPo"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "52.04 - 57.47",
+        "video": "https://youtu.be/EfHAi-foZMs"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "52.79 - 69.53",
+        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "41.06 - 48.27",
+        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "47.42 - 55.16",
+        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "13.01 - 21.78",
+        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
+      },
+      {
+        "player": "HaloZombies",
+        "range": "10 - 20.66",
+        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
       }
     ],
     "benchmark": false,
@@ -5298,41 +5333,6 @@
         "player": "HaloZombies",
         "range": "84.54 - 93.65",
         "video": "https://www.youtube.com/watch?v=AlcXOE8l8sw"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "88.58 - 100",
-        "video": "https://www.youtube.com/watch?v=cuynaG8ymPo"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "52.04 - 57.47",
-        "video": "https://youtu.be/EfHAi-foZMs"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "52.79 - 69.53",
-        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "41.06 - 48.27",
-        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "47.42 - 55.16",
-        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "13.01 - 21.78",
-        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
-      },
-      {
-        "player": "HaloZombies",
-        "range": "10 - 20.66",
-        "video": "https://www.youtube.com/watch?v=EfHAi-foZMs"
       }
     ],
     "benchmark": false,
