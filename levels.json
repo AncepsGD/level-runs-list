@@ -5135,36 +5135,6 @@
     "showcaseVideo": null
   },
   {
-    "rank": 73,
-    "name": "IT MEANS EVERYTHING",
-    "image": null,
-    "id": "106165639",
-    "accuracy": {
-      "value": null,
-      "player": null,
-      "video": null
-    },
-    "deaths": {
-      "value": null,
-      "player": null,
-      "video": null
-    },
-    "segments": [
-      {
-        "player": "Waltty",
-        "range": "95.15",
-        "video": "https://www.youtube.com/watch?v=EVYaQ0dUnhs"
-      },
-      {
-        "player": "Waltty",
-        "range": "14.64 - 100",
-        "video": "https://youtu.be/GiykgnJa6JQ?is=BShI7Fj8VRWbiJ1R"
-      }
-    ],
-    "benchmark": false,
-    "showcaseVideo": "https://www.youtube.com/watch?v=9nSkkXZ628E"
-  },
-  {
     "rank": 74,
     "name": "Misanthrope (Layout)",
     "image": null,
